@@ -1,13 +1,726 @@
 {
-  "actualizado": "2026-11-07T09:45:00.000Z",
-  "total": 7,
+  "actualizado": "2026-11-07T10:25:17.667Z",
+  "total": 80,
   "noticias": [
-    {"titulo": "De la Espriella negocia con Uribe su ley de rescate para alejar a Colombia del impago", "resumen": "Reunión en Barranquilla con congresistas del Centro Democrático para salvar la Ley de Rescate Económico.", "link": "https://www.estrelladigital.es/mundo/colombia-impago-default-2027-ley-rescate-economico-restrepo-espana/20261107070000452978.html", "medio": "Estrella Digital", "fecha": "2026-11-07T12:00:00.000Z", "imagen": "", "tema": "Presidencia"},
-    {"titulo": "Vicepresidente Restrepo acusó al Gobierno Petro de actuar en connivencia con grupos criminales", "resumen": "Intervención en la XXX Cumbre Iberoamericana en Madrid.", "link": "https://www.infobae.com/colombia/2026/11/05/vicepresidente-jose-manuel-restrepo-acuso-al-gobierno-petro-de-actuar-en-connivencia-entre-los-grupos-criminales/", "medio": "Infobae", "fecha": "2026-11-05T18:00:00.000Z", "imagen": "", "tema": "Vicepresidencia"},
-    {"titulo": "Disidencias de las Farc estarían detrás del ataque con explosivos en Planadas, Tolima", "resumen": "Avanza la investigación por el atentado del 1 de noviembre.", "link": "https://www.vanguardia.com/colombia/2026/11/03/disidencias-de-las-farc-estarian-detras-del-ataque-con-explosivos-en-planadas-tolima/", "medio": "Vanguardia", "fecha": "2026-11-03T19:23:00.000Z", "imagen": "", "tema": "Tolemaida Planadas presidente"},
-    {"titulo": "Abelardo de la Espriella fue criticado por video en simulacro de rescate en Tolemaida", "resumen": "Dirigentes de oposición cuestionaron el video por coincidir con el atentado en Planadas.", "link": "https://www.infobae.com/colombia/2026/11/02/abelardo-de-la-espriella-mostro-que-es-bueno-con-las-armas-y-fue-criticado-asi-quedo-en-video-durante-simulacro-de-rescate-de-rehen-en-tolemaida/", "medio": "Infobae", "fecha": "2026-11-02T20:56:42.000Z", "imagen": "", "tema": "Tolemaida Planadas presidente"},
-    {"titulo": "Atentado en Planadas, Tolima: cuatro muertos, entre ellos una bebé", "resumen": "Volqueta con explosivos y drones cerca de la base militar y del hospital.", "link": "https://www.vanguardia.com/colombia/2026/11/02/atentado-en-planadas-tolima-cuatro-muertos-entre-ellos-una-bebe-tras-detonar-una-volqueta-con-explosivos/", "medio": "Vanguardia", "fecha": "2026-11-02T12:37:00.000Z", "imagen": "", "tema": "Tolemaida Planadas presidente"},
-    {"titulo": "Estados Unidos presentó en Tolemaida tres drones MQ-9 Reaper ante el presidente", "resumen": "La presentación fue la tarde del sábado 31 de octubre.", "link": "https://www.infobae.com/colombia/2026/11/01/estados-unidos-presento-en-el-aire-los-tres-drones-mq-9-reaper-para-apoyar-operaciones-contra-grupos-armados-en-colombia-en-tolemaida/", "medio": "Infobae", "fecha": "2026-11-01T03:19:00.000Z", "imagen": "", "tema": "Tolemaida Planadas presidente"},
-    {"titulo": "Crece la molestia con la reconstrucción y la opacidad del Fondo Milagro", "resumen": "Damnificados de Pereira y Quibdó reclaman un plan concreto.", "link": "https://www.lasillavacia.com/silla-nacional/crece-la-molestia-con-la-reconstruccion-y-la-opacidad-del-fondo-milagro/", "medio": "La Silla Vacía", "fecha": "2026-10-15T12:00:00.000Z", "imagen": "", "tema": "comisiones reconstrucción Pereira"}
+    {
+      "titulo": "De la Espriella negocia con Uribe su ley de rescate para alejar a Colombia del impago",
+      "resumen": "Reunión en Barranquilla con congresistas del Centro Democrático para salvar la Ley de Rescate Económico.",
+      "link": "https://www.estrelladigital.es/mundo/colombia-impago-default-2027-ley-rescate-economico-restrepo-espana/20261107070000452978.html",
+      "medio": "Estrella Digital",
+      "fecha": "2026-11-07T12:00:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia"
+    },
+    {
+      "titulo": "Marco Rubio desmiente que est&#233; planeando renunciar al Gobierno para ser candidato presidencial",
+      "resumen": "El secretario de Estado Marco Rubio desminti&#243; que planee dejar el cargo tras la derrota de los republicanos en las legislativas de mitad de mandato en Estados Unidos, seg&#250;n dijo en una entrevista con ...",
+      "link": "https://www.emol.com/noticias/Internacional/2026/11/06/1216312/marco-rubio-rumores-renuncia-elecciones.html",
+      "medio": "EMOL",
+      "fecha": "2026-11-06T02:37:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.8vmgFaxh0I5RTZf6R_7uYg&pid=News",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "Rubio niega que tenga planes de dejar el Departamento de Estado para ser candidato - Diario Libre",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnBmc2FsVWhHakZ5cHp0aXNOMjA1c1dBbXNTaE9RN2NOWFlnZG5pQVpqbTJvSmIyTElMUGpEaUZPU05FWEFOMFVTRGFqRW50Sk1VUnpWZlFEY3c1ZDVWWnFRQjlHQTdsaHlLUjhwc29YWnN6a0tFZ3RaWHNfb1o3QlhVSVdpeFN3WUJiU3RUQVY5QmVGejdRWGJISG",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnBmc2FsVWhHakZ5cHp0aXNOMjA1c1dBbXNTaE9RN2NOWFlnZG5pQVpqbTJvSmIyTElMUGpEaUZPU05FWEFOMFVTRGFqRW50Sk1VUnpWZlFEY3c1ZDVWWnFRQjlHQTdsaHlLUjhwc29YWnN6a0tFZ3RaWHNfb1o3QlhVSVdpeFN3WUJiU3RUQVY5QmVGejdRWGJISG9mcVhfZ1BxcXhUcDZHZ1dIY2NZalM2QURuYmZBNEFlb3Q5SdIBxAFBVV95cUxOWXY0aFlLbVVvcE9MWmRJc1ZtUGNfc0dHY3h4TlhYbzlkV2hfanVyZk5nTU4zUzA3bWdtNDJYR0lxUGItYjE4czdHcFhVUXBKUFlrYmNmLXlScWpxTXRtVTFsUzFMUDdFWmdreWdWTXo3N1VyR2puendsN200RldtSEd2aFpULUtQTEhtUUpLOWQ4UnlwTC04d21mdU9STF9LbFlaNEhycURnalFCMHFWQ0h2eThXdFREY1VkY3I3UEJwdVp3?oc=5",
+      "medio": "Diario Libre",
+      "fecha": "2026-11-06T00:44:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "EU desmiente que Marco Rubio renuncie para buscar la presidencia en 2028 - Netnoticias",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTU41ZjZmaGExUkJZOTREVmpZZWFFYlpOMktxLXU4SENrc0RRZmc2YlJXM05mMXBUZHg0VFFoRVdmcTEyY0FfckFJcDRyTWVmTURaVWc3aGRUVXNlaUg1NjdzazJEbzl3RC1jRFZHOXJLb3NsdnZSZUpOQmRPb0ZWUU1oUWc2SWJaQzZ4UExDVEdEWDJycjhsM3QzVD",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTU41ZjZmaGExUkJZOTREVmpZZWFFYlpOMktxLXU4SENrc0RRZmc2YlJXM05mMXBUZHg0VFFoRVdmcTEyY0FfckFJcDRyTWVmTURaVWc3aGRUVXNlaUg1NjdzazJEbzl3RC1jRFZHOXJLb3NsdnZSZUpOQmRPb0ZWUU1oUWc2SWJaQzZ4UExDVEdEWDJycjhsM3QzVDZWMjZpWXk1cDlTbzMyQQ?oc=5",
+      "medio": "Netnoticias",
+      "fecha": "2026-11-06T00:30:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "EEUU desmiente salida de Marco Rubio al Departamento de Estado - TalCual Digital",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1dfMXhLUGdGRGM3RHZDeFBvOEVCWHo4U0NpdUtuejZLalRzaThzRFBkc2N3bkJvelBxNDVYYkJsVmY1VVA4a2NGRWg0bWtxWkhsbXVNTWt2RHctMFc2a3hIT05XaUxCZ2pKREYwOUgwVTAyWDVlNzRneGotRnIyUm43TExwUk91UHdCcmxQZndQeE5TRE9RampySm",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd1dfMXhLUGdGRGM3RHZDeFBvOEVCWHo4U0NpdUtuejZLalRzaThzRFBkc2N3bkJvelBxNDVYYkJsVmY1VVA4a2NGRWg0bWtxWkhsbXVNTWt2RHctMFc2a3hIT05XaUxCZ2pKREYwOUgwVTAyWDVlNzRneGotRnIyUm43TExwUk91UHdCcmxQZndQeE5TRE9RampySm5jaTVR?oc=5",
+      "medio": "TalCual Digital",
+      "fecha": "2026-11-05T22:26:43.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "Tres hombres con antecedentes por homicidio y hurto fueron sorprendidos dentro de la casa del director del Dapre: Presidencia reveló los detalles - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdkdJRUlBcHJncElJNmdnWGpaZzJwSmpjN1B3UEpXdHFBZ0lNYWpXSEhCVmtaZmZlaFpOZWs5REZTS0huUXdqWnhwTnVEbVZ5UlMxZ0FIVVd3YUw5Y2YxYXJpRkFYYmFGXzRPbGJxNDZfa2tZMWlHdUdGWGZ3MGVXVnhtcnhMdnl5Rm4zMWJxckxqdUsxQ0JnczFkME",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdkdJRUlBcHJncElJNmdnWGpaZzJwSmpjN1B3UEpXdHFBZ0lNYWpXSEhCVmtaZmZlaFpOZWs5REZTS0huUXdqWnhwTnVEbVZ5UlMxZ0FIVVd3YUw5Y2YxYXJpRkFYYmFGXzRPbGJxNDZfa2tZMWlHdUdGWGZ3MGVXVnhtcnhMdnl5Rm4zMWJxckxqdUsxQ0JnczFkME9BZTlWWlhBc2ZramVPVTF1TngzZDJUVXAweE4xWG82RFltQUwxSjMxNlpNeUUtekRJeC14dnNDN29ZZ3RLRXYyTWt2RWlKd0VlZExJNGdOQ3JHV3JYVjQ0ZHpTeXFnSjhPV0FDenpjVElzUjhEcUsxV3N5aHhiMXBlUjFG0gGzAkFVX3lxTE9FRDBZeVBpRXV1YmVLWm95aEh3RFVwQWZQQ2xtbHJkemptT3hjYjJ1MDRWdFlPRHFQYlBwSTFXZ0loSGlDQUxqTm53MUdtLWFDS0dJc1JPbkVoNXNVMDJ4bHNLYnRuRFNWdHRLczFaZ1dPc1EzVUZLTzc2YUxaMjBRS2VEaHgtZ2xqRnJWZG1YcmtNbC1fdFREN0tSSk9fa2ZSRkRwdFZDSnBWZWJ1MkdYaWhZLVhPbXNqMEJxcXl3MXFZdlVmdGpkTGhqOTBSM3piak5Eb1Rybk50MGdIMS0tMlNabER0WXE1bHdxb1V1TW1sYjFtUEN1ckx1YnlkaGVlbG10QjRfX296R28zbkxLWVFmZTVJNUsxN1hXMXZSQldRa1YxcUk0RUZMbzJwWTV1bDg?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-05T20:25:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
+    {
+      "titulo": "EE UU: El entorno de Marco Rubio desmiente que renuncie - 14yMedio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdQU2dHbGpmQzFhSjhqbXMxeldXWkM1ai1kdGgwbXk1YmZlcHpmWm5oYmp4bHFJc2dOejNSc2w3TVdGcHROUlBNXzhST0RuS25BcW1GdUctSGJCQkhyekw2ajBwUGUtalNSMjV0UDhrZnNNak5YQWR4MkM3UDE4aVpsNzNJck1sR3J6UFNvXzIydkY0V3V30gGcAU",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdQU2dHbGpmQzFhSjhqbXMxeldXWkM1ai1kdGgwbXk1YmZlcHpmWm5oYmp4bHFJc2dOejNSc2w3TVdGcHROUlBNXzhST0RuS25BcW1GdUctSGJCQkhyekw2ajBwUGUtalNSMjV0UDhrZnNNak5YQWR4MkM3UDE4aVpsNzNJck1sR3J6UFNvXzIydkY0V3V30gGcAUFVX3lxTFB6WlVveFpFTVl0THFGUk1nei1RcUdoZmR4QmRVaUkyZDVod3hrbHI1SjhKQ1FwaDNfaU5rVjdlbm9IcGs4UXl5bVRqZXJwS01LVzBpbV9RRElyMGMtTWRSTnpsOGdqUTRDNGV2d2xIWmdHYlM2U1JjanAyR0NYRnNqc2ZhdWt1Mk4zOE1URGdDNE9RR3VIdDJqOUdETw?oc=5",
+      "medio": "14yMedio",
+      "fecha": "2026-11-05T19:02:17.000Z",
+      "imagen": "",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "Vicepresidente Restrepo acusó al Gobierno Petro de actuar en connivencia con grupos criminales",
+      "resumen": "Intervención en la XXX Cumbre Iberoamericana en Madrid.",
+      "link": "https://www.infobae.com/colombia/2026/11/05/vicepresidente-jose-manuel-restrepo-acuso-al-gobierno-petro-de-actuar-en-connivencia-entre-los-grupos-criminales/",
+      "medio": "Infobae",
+      "fecha": "2026-11-05T18:00:00.000Z",
+      "imagen": "",
+      "tema": "Vicepresidencia"
+    },
+    {
+      "titulo": "'Se acabó la falsa paz': presidente Abelardo De La Espriella sentenció el fin de la 'paz total' tras sancionar la ley de sometimiento - El Tiempo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPVHQ0S1Z3cS1IbTI5cVFQcU45VEdkOXJVT2QxWkxST1FYU2ZycFg1TkFvNXhDUFNUYVNzOFA2WUJJS0VrTzBFc1pfekxEYnlXM1VZQUhFNXdIcGNlUGxDRUh4MEFIbk1uRzd0YWQ1dFd5TmtNekhvSEhwTFJucVdYWlE5Z0drbnJ4aS16MzJpeFRZenM0X21pOWptQ3",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVHQ0S1Z3cS1IbTI5cVFQcU45VEdkOXJVT2QxWkxST1FYU2ZycFg1TkFvNXhDUFNUYVNzOFA2WUJJS0VrTzBFc1pfekxEYnlXM1VZQUhFNXdIcGNlUGxDRUh4MEFIbk1uRzd0YWQ1dFd5TmtNekhvSEhwTFJucVdYWlE5Z0drbnJ4aS16MzJpeFRZenM0X21pOWptQ3k5RGYyblV3akV3RU45SjU0VUtkMWFmOVY5WHowb013NnFTMExqcGtfa1Jzek9iRzM2NVpmR1FQVDRncVk5aDlvUVdsRlFGN1R2T3NBZTdxN0VHQ2pUelJYYVRRSG5VYnIyRkZRSDdwT0dEeVB0amJVZURsV3Z4Y3hzd3p0OU8xTXR4QUrSAaYCQVVfeXFMTlRRdUZFWTZickVrVEhtT0VsV3ZkQzlhNmFLM1NUWUItc254SkpwQUZSeDVoaG1fWlNCQVN0UG1jY3dBRUE5ZEZtci0xNWlLZDZlTk1udUxiTUdyaUp0ZzQxbm5jeTJoSTNoTndCbGlBamFaTDVXUGxZX1E5X1B3MElYUG1Kazdqa01LbXViT3pfMFhEVFp4VzljOE9yU2EwZDhsTXkwOWdvZTAzSXZVT0w1dTFrYlEzbV8tMml3ZXFsQmI2bVlVeDJEMWEzT0FPT1F3UzVFQjdCd3ljLVlhaldDSWNDTXZsMmp6clNtamlNM3Rtd1d3NXZFVDRERkI2MFdTQ3pUbDMydjBHRi1WaGVzbWNxSmZGSDhsYkRwMjN1WkhveWpn?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-05T17:38:29.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Departamento de Estado desmiente que Marco Rubio planee renunciar para lanzar su candidatura presidencial en 2028 - AlbertoNews",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWHdHS096dTVZZElpbGloTXh2S3NTdWMzRTdZWkNyQmxBS0ZPRnVhUUttbWdyb3FFQTJueVJWTklJcmhwNXVQU0JYeU9zSFYyZzZITHBJVTFVTHVtLTJGT0RrblRra3hacTFpSVFzSm4tZlJOM2pPZ0s0bmtzYjUxbkVpU1BoQm5YVXpfd3RhZFJZOUo3V3VsOFRFWE",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWHdHS096dTVZZElpbGloTXh2S3NTdWMzRTdZWkNyQmxBS0ZPRnVhUUttbWdyb3FFQTJueVJWTklJcmhwNXVQU0JYeU9zSFYyZzZITHBJVTFVTHVtLTJGT0RrblRra3hacTFpSVFzSm4tZlJOM2pPZ0s0bmtzYjUxbkVpU1BoQm5YVXpfd3RhZFJZOUo3V3VsOFRFWEdlQjVmNWsxVmVQVWx3RGZJUFFlRUZFT0FPZnlKWi1MLTd2anJweGFjYlBOZWhOeFo3WFJUcEZacXJldDZRaE5fZWRvclpHelNXTkpLVmc?oc=5",
+      "medio": "AlbertoNews",
+      "fecha": "2026-11-05T17:34:32.000Z",
+      "imagen": "",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "“Insultos y calumnias”: España rechaza críticas de Milei contra Sánchez en polémica visita a Madrid - TRT Español",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OeVBSYlJ5ODRKdG5raWRfUVNHRHgzbG53Z0M0a195VmlyQXlDOWxJWnVNV0dKdjhHelVrZU52a2ozWmh3ZUJ4U0xkOS1BLVpIRjFGTWpuZVlxckU?oc=5\" target=\"_blank\">“Insultos y calumnias”: España rechaza críticas de Milei contra ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OeVBSYlJ5ODRKdG5raWRfUVNHRHgzbG53Z0M0a195VmlyQXlDOWxJWnVNV0dKdjhHelVrZU52a2ozWmh3ZUJ4U0xkOS1BLVpIRjFGTWpuZVlxckU?oc=5",
+      "medio": "TRT Español",
+      "fecha": "2026-11-05T16:30:50.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
+      "titulo": "'Se acab&#243; la falsa paz': presidente Abelardo De La Espriella sentenci&#243; el fin de la 'paz total' tras sancionar la ley de sometimiento",
+      "resumen": "El jefe de Estado asegur&#243; que no habr&#225; beneficios sin compromisos y defendi&#243; la justicia, la autoridad y la reparaci&#243;n como pilares de su Gobierno.",
+      "link": "https://www.msn.com/es-co/noticias/otras/se-acab%C3%B3-la-falsa-paz-presidente-abelardo-de-la-espriella-sentenci%C3%B3-el-fin-de-la-paz-total-tras-sancionar-la-ley-de-sometimiento/ar-AA2gQ3wX",
+      "medio": "El Tiempo on MSN",
+      "fecha": "2026-11-05T12:23:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.TTxOcS3QvGMxjGK42eX_MQ&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Santos asegura que gobierno de De la Espriella quiere \"deslegitimar el Acuerdo de Paz\"",
+      "resumen": "El expresidente Juan Manuel Santos critic&#243; la posici&#243;n del gobierno de Abelardo de la Espriella sobre el Acuerdo de Paz.",
+      "link": "https://www.msn.com/es-co/noticias/politica/santos-asegura-que-gobierno-de-de-la-espriella-quiere-deslegitimar-el-acuerdo-de-paz/ar-AA2gPJRj",
+      "medio": "El Espectador on MSN",
+      "fecha": "2026-11-05T09:33:03.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.h2-cpe7NK0U33Nv-7EJDcQ&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "De La Espriella: “La falsa paz total llegó a su fin” - Diario del Huila",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE16c2R5d0lCOHZqZlgyWnFjMm0tcmUzRjYwWE55MnFIVlRWT2RZRXdkRnRac1Zid3hJZnhNMjBhOTgyZF9VV3ZGNm95c0lrcTZodWd5S3FZOVZzdnRYWGI0UWFqa0ZwNTJKRW1fRQ?oc=5\" target=\"_blank\">De La Espriella: “La falsa paz total lleg",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16c2R5d0lCOHZqZlgyWnFjMm0tcmUzRjYwWE55MnFIVlRWT2RZRXdkRnRac1Zid3hJZnhNMjBhOTgyZF9VV3ZGNm95c0lrcTZodWd5S3FZOVZzdnRYWGI0UWFqa0ZwNTJKRW1fRQ?oc=5",
+      "medio": "Diario del Huila",
+      "fecha": "2026-11-05T08:36:29.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Departamento de Estado desmiente posible renuncia de Marco Rubio para aspirar a la Presidencia",
+      "resumen": "El Departamento de Estado de Estados Unidos rechaz&#243; este jueves 5 de noviembre las informaciones sobre una posible renuncia de Marco Rubio a su cargo como ...",
+      "link": "https://diarioversionfinal.com/mundo/departamento-de-estado-desmiente-posible-renuncia-de-marco-rubio-para-aspirar-a-la-presidencia/",
+      "medio": "Diario Versi&#243;n Final",
+      "fecha": "2026-11-05T08:04:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.2gc13BNy3pRY1XOJv-5rzQ&pid=News",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "Reconstrucci&#243;n de Pereira y Risaralda podr&#237;a tardar hasta ocho a&#241;os por demoras con las aseguradoras",
+      "resumen": "El gremio de propiedad horizontal denuncia dificultades para acceder a los recursos de las p&#243;lizas y pide la intervenci&#243;n de los organismos de control.",
+      "link": "https://caracol.com.co/2026/11/05/reconstruccion-de-pereira-y-risaralda-podria-tardar-hasta-ocho-anos-por-demoras-con-las-aseguradoras/",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-05T02:44:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.KCjCmtS6xszE7lyC2XyqAg&pid=News",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "“La falsa paz total llegó a su fin”: Abelardo De La Espriella celebra la aprobación de la Ley de Sometimiento en el Congreso - NTN24",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaHlpcTRsWFVxRE96MURjZDFXdGFHTmo5YWhRT2duT29WSUFUUmx4Sm83ZzBVM0ZLRS1YM3A1d2xHY0dWcUhOSkJWLWt0c0dNVW1kYlo0UmhDY283TGR5NTI1eFpPS045ODZCbzVqNmhwNno5MWpCR3Mxb05RUC1HLUlYOUxVTXNTbEQ1bDNIS2lBMFRYc0lITm5LQ2",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaHlpcTRsWFVxRE96MURjZDFXdGFHTmo5YWhRT2duT29WSUFUUmx4Sm83ZzBVM0ZLRS1YM3A1d2xHY0dWcUhOSkJWLWt0c0dNVW1kYlo0UmhDY283TGR5NTI1eFpPS045ODZCbzVqNmhwNno5MWpCR3Mxb05RUC1HLUlYOUxVTXNTbEQ1bDNIS2lBMFRYc0lITm5LQ2xEa1dBUVlTRTRIdG5LU0Y3b2dreXBPVG1ndUlhY2xOekR6MU5JVGRNdFp2dUp4Nms1dmhmb1RSYXg1RmZXRHlSZHJ3MV9adHJocEQ2dEhTSC1jOUY4THV4b1N0TEwxV3VLTEXSAf8BQVVfeXFMTWMybS1ubmUyeXlfNWhPU2hJUmQyY3VjSlA5d1lET0tmcjBraVFScTNIU2E5QlhHSFdiOW5VQ3p3bk1YLTJ1dE9PRkxDbGpFLUVvSEpwdGcwa2Rhd3FRU1BVcThna0c1TnJmNEVnZGRqV2FCalkzcXo1ZjF0S1NuaElXTURZWi1BMjBKS1k4SWNaVERRN2d1TFdQZTVxVjBpXzVtU2diSXI0dlRZX3pmN1JjLTFrNEpmWlRGam5ab0FMYUJqOFVCblJOQkwtUV9fNUlVUVJTY3E2Z2Rsci1rX3NvQXJQR2tpZWVMN0VLNHlQUnBVYlB5R2gtVHRyRUNV?oc=5",
+      "medio": "NTN24",
+      "fecha": "2026-11-04T21:39:06.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "\"Se acab&#243; la falsa paz\": as&#237; celebr&#243; De la Espriella firma y sanci&#243;n de ley de sometimiento",
+      "resumen": "&#191;Qu&#233; dijo De la Espriella tras sancionar la Ley de Sometimiento? El presidente lanz&#243; un contundente mensaje contra los privilegios a criminales.",
+      "link": "https://www.pulzo.com/nacion/asi-reacciono-espriella-sancion-ley-sometimiento-colombia-PP5348988",
+      "medio": "Pulzo",
+      "fecha": "2026-11-04T20:56:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.I0yJ5cE8k3Op6zWt_O5Cmg&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "“La falsa paz total llegó a su fin”: De la Espriella celebró la aprobación de la Ley de Sometimiento - El Diario - Noticias Pereira, Colombia y el Mundo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVkNEdHpBNElTcENLT3oyNTNUcF9jOXI3WktxRktPWFI1a0NIRVRIUVVSbU9fcXdsNzEybFN2Y2VmeWhLejlZRXVudXBKN0NQU3ZidDdPNnZLOFNyWkswX19ua2VRTkFfNFIyQWJ0RjJnem5iejBFWWZyd3JzRjZ2UF8tSVNfODdYWmJGWlQ0ODJycjBmNXVWWF9ZZW",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVkNEdHpBNElTcENLT3oyNTNUcF9jOXI3WktxRktPWFI1a0NIRVRIUVVSbU9fcXdsNzEybFN2Y2VmeWhLejlZRXVudXBKN0NQU3ZidDdPNnZLOFNyWkswX19ua2VRTkFfNFIyQWJ0RjJnem5iejBFWWZyd3JzRjZ2UF8tSVNfODdYWmJGWlQ0ODJycjBmNXVWWF9ZZW9rS012SmVfeUhZYXREajJQX3NkbV9SUllmRVRVbzZ4a3J0dkdFM0ZmdF9nSm15bmpSeDFI?oc=5",
+      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
+      "fecha": "2026-11-04T15:29:03.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "“La falsa paz total terminó”: De La Espriella tras aprobación de la Ley de Sometimiento - Eluniversal.com.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1ZrRFFWaXJLdmdjcVBfdzJHb2VaX1dtcVN5eW1qbWtSV3prMGVDaTVXaVB5Qi1xcFU3LTFaUkpwN2s1dENWWm5lMElMd2xwN0dCVE4yMEFWcG9zUXpCOW5rRUh1LVRud0dZYm1hamVsU2hHYVJRSERIZElvc1YxUUtiN1pvSlA2OGFwWnZZclFSZmxReVdwek9CXz",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1ZrRFFWaXJLdmdjcVBfdzJHb2VaX1dtcVN5eW1qbWtSV3prMGVDaTVXaVB5Qi1xcFU3LTFaUkpwN2s1dENWWm5lMElMd2xwN0dCVE4yMEFWcG9zUXpCOW5rRUh1LVRud0dZYm1hamVsU2hHYVJRSERIZElvc1YxUUtiN1pvSlA2OGFwWnZZclFSZmxReVdwek9CXzVLNjJlYUhIUjhiY2pSZy1MZjdQT21zNmh0TG93UXZfS2VYUGdIVENOWHhjcjhDSFk4QnVoWHc?oc=5",
+      "medio": "Eluniversal.com.co",
+      "fecha": "2026-11-04T13:49:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "“La falsa paz total lleg&#243; a su fin”: Abelardo De La Espriella celebra la aprobaci&#243;n de la Ley de Sometimiento en el Congreso",
+      "resumen": "Con una amplia votaci&#243;n en la C&#225;mara, el legislativo dio luz verde al nuevo marco jur&#237;dico impulsado por el Gobierno que prioriza la rendici&#243;n de cuentas ...",
+      "link": "https://www.ntn24.com/noticias-actualidad/la-falsa-paz-total-llego-a-su-fin-abelardo-de-la-espriella-celebra-la-aprobacion-de-la-ley-de-sometimiento-en-el-congreso-663705",
+      "medio": "NTN24",
+      "fecha": "2026-11-04T13:39:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.L5tSKDBZFb1nzUPQjbAZPg&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "“La falsa paz total llegó a su fin”: presidente Abelardo De La Espriella tras aprobación de la Ley de Sometimiento en el Congreso - Revista Semana",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOOGJUUDFVUDdTWmZMbmhPX0MyWEJhMTVLZDBtX25RS1ZQNkp2emNwRGcwVmVweC1Wc1g5SnI1Q1F3WGE4aFVmeVFhWEpwMFAwS21KNXA2OThwbmQ1QWJ0SG80Yy1SYW9lTjdZbXhVbXlRaVg5dEdPQ29LUjd3UHpMSXFoWUJUaF95Snk2QS11VS01azhmcTZZczVQcU",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOGJUUDFVUDdTWmZMbmhPX0MyWEJhMTVLZDBtX25RS1ZQNkp2emNwRGcwVmVweC1Wc1g5SnI1Q1F3WGE4aFVmeVFhWEpwMFAwS21KNXA2OThwbmQ1QWJ0SG80Yy1SYW9lTjdZbXhVbXlRaVg5dEdPQ29LUjd3UHpMSXFoWUJUaF95Snk2QS11VS01azhmcTZZczVQcUNZVHl2d3pkMzNCTTFJRnhnSW13ZU5OTzE2dHRRSFpLU1JjZzlRbVhrbVZYRGM2bzM1aWgxc3NMb0lTSGd3LW9VYjl4c3F3RjluangxWmZxVGduMkdwTFgwMS1sdE1FMXBkcTBVTllBdVd30gGLAkFVX3lxTE5Udk1saGVLaEsyaHhNa1BldkExc1RabFdnN0VTVkZjcDBHY0pTbks3SFNSNG1XTDhUX2t1OFZaYzFxU3MwbUExZk5PZ1hOOWM1N29fb3VDVERtUTdLaUpwRTk4RnFIRU8yVUg4NndEQ0kybXFvUEVheU94Y3I1QVlqRm55Y1Zid1kxdnp3WFo5VEZZZlctM29wTmxtZzg4NWREbUFtRWVGV1NKa2NTN2NiT1hyMlZSUWRQNVFRNzNSMk9TM2lMeU9KY3B1T29LRnR2ZE1TRWRBdUpmWEthNExjOXVQSW9wX1poZFhyZkJmaWQySmhmazVLVmlFVy1JN2tCUmlYQk5zU2t1UQ?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-04T12:41:51.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Presidente De La Espriella reaccionó a la aprobación de la ley de sometimiento: 'la falsa paz total llegó a su fin' - Portafolio.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzRfQ3dmeE0wREJfelJRWDd4LU80TmJJbnFyOG5yQ2RQbXJ5Q1lrN1dVa05SMERWTVhKWDhXdDlTeHRRV1NwaVlkZHZ4RDY3QVdSZmdkaFFrRzVzRUY2MmpBaTRud2V5QVhxeXN1M0VzZFJRQ2ZNSFlHdHR6bnFoVVpOQmxrbnl5SkZVUlpFMlFRX0dLMjJPUXBnVU",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzRfQ3dmeE0wREJfelJRWDd4LU80TmJJbnFyOG5yQ2RQbXJ5Q1lrN1dVa05SMERWTVhKWDhXdDlTeHRRV1NwaVlkZHZ4RDY3QVdSZmdkaFFrRzVzRUY2MmpBaTRud2V5QVhxeXN1M0VzZFJRQ2ZNSFlHdHR6bnFoVVpOQmxrbnl5SkZVUlpFMlFRX0dLMjJPUXBnVUFwUVY3VFpFNEpid3VWd1hiekxwRm9Sai0xTkNTOTRnS2xpT21JYnBIUzhvc3pQbDk1OFo0QTRZemgyTU1lV0tBbDE4Q01YOGFucUxVTkFwVUVpS2ZiejdhaVHSAfsBQVVfeXFMT0RiZHpyM1hOUG9mcDhKZWRtelN5TVlxaWZPZ25uWEV5RHhBaFoxYkY2TzhoVTJWbFFudTgwT2NrLXl0SzBONDhzUEFVb2F5WVBfdldsMnNFYWw3V0JGY1JGMHA1cHNvYmhRMzhfWmhGbW1Cb18zU096bnJsZWpVankzejAxZUppVkZZal8wSVZzSGZ6UkQzUWZsSURWWGtodGROWXRWVkd6N2V0Q3FkZlZBYlFhOGlIa25VQXJsZTNrU0ZMcU85NHNmMURfd0tINjVtZklzQmVSdl9oN2gtcHg3VnRmU3VHVHRFaVdKdkhiakJ1NVd4aTFobzA?oc=5",
+      "medio": "Portafolio.co",
+      "fecha": "2026-11-04T12:07:11.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "“La falsa paz total llegó a su fin”: De la Espriella tras aprobación de ley de sometimiento - El Espectador",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2F4bVpHWExaSXozWVNkZWhVQXBvLXVaeGF3SWZIMUlkdWJaU2lLT0hUUW5OZ3NqRTFtSDNIcjZxLTk1YVN1c0VYcXhOX0ZhbEhVclBHR2w0ME85ZmNUUlREUm10NTVCVHg1Q2pGeEFZeGVyVmlNZklnRzRVNS1ocVRrZWhHYnI0dVhEMFVrY29qZ3ZLdTJsaFJlZ2",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2F4bVpHWExaSXozWVNkZWhVQXBvLXVaeGF3SWZIMUlkdWJaU2lLT0hUUW5OZ3NqRTFtSDNIcjZxLTk1YVN1c0VYcXhOX0ZhbEhVclBHR2w0ME85ZmNUUlREUm10NTVCVHg1Q2pGeEFZeGVyVmlNZklnRzRVNS1ocVRrZWhHYnI0dVhEMFVrY29qZ3ZLdTJsaFJlZ29HN3NVMDlCaUVZNUVSVldvSDA4c0s5Vy1zWnNpVW4xMFJPb09ib2ltTU5ma9IB3AFBVV95cUxPRWhjVzU1dl9PZTJYeXpmNm1SYUNXSnVzOW81OW95NHc0VXY4NENvaFUwV1MzZkVOWXNLaXl3MzdHN1Y4eW14YjYya3NkQ1ZramVUTERGZEVpM3FaNllUR2cxajh4TlliMjRITFV1UE9xdUpqS01aWUI2NmJnSXRNTUFwV2VMS1BaclZXekhVcF9QRVB1ZmxBSkpScElVNkNkVXhKUlFOVUhueWF3VTJ1Y0JMN1hENUZoQmJHSHZCSlhjeDhJNjh0dDV4MXdMN2F6VE1GTjE4MXphM0d1?oc=5",
+      "medio": "El Espectador",
+      "fecha": "2026-11-04T11:04:35.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Aprueban ley de sometimiento; De la Espriella dijo que \"la falsa paz total llegó a su fin\" - Noticias Caracol",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOa20xMVlVZmVtUzRBU1dYend5VGlzNUYtUlYzUm1JbWt3anZRd0hRX2lLd2ZUUmNmS01mazZBSEdvNTN5cUczNVFuTFJad1ZJSGUwN0pkbUhWQ1lhLUh3TkJ6akF2bDEzbUlxWG1oVGhicFFWd0N4Q0VFc1Q1REVlWnRwZTZCb1BxbUFnZWJKcEtPQUlOUjNYaElFcE",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa20xMVlVZmVtUzRBU1dYend5VGlzNUYtUlYzUm1JbWt3anZRd0hRX2lLd2ZUUmNmS01mazZBSEdvNTN5cUczNVFuTFJad1ZJSGUwN0pkbUhWQ1lhLUh3TkJ6akF2bDEzbUlxWG1oVGhicFFWd0N4Q0VFc1Q1REVlWnRwZTZCb1BxbUFnZWJKcEtPQUlOUjNYaElFcElNTHNzZ0VRLWNpR0Y3N0xkTlpkMDRiUjEybTFnZWpJMVgwREgzS3NKWWw1dFQxUldRZ9IB2wFBVV95cUxQSGxkMTJTN2s2NXNvUnZUejlST0FzUktZeUpRam12YkRGZld1b0NndnEwOTNvQjJKa1lqVHFPVTd0MFgtelh4dkVQa1ZMZEltcDhpX0JnTGpDdWI1YmdaZHo2MUR6aEkxTGhBbWpfQ29FRDBXWjZGMmJkeEh5Vi1lN1hSdWhydXcyVFlwTC0zQ3FqTHI5RVpQNFYzU2d3bGZMM05SOEpYcGNtMXc5b1FvbGxuZkVSeUo3R0xUMlRWNDhKM1pFTkZFVVBHQ2FOSTJRUEJPRThTekdnbGM?oc=5",
+      "medio": "Noticias Caracol",
+      "fecha": "2026-11-04T10:34:28.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "De la Espriella se reunir&#225; con comisiones econ&#243;micas: en la mira la ley de ajuste fiscal",
+      "resumen": "El jefe de Estado se reunir&#225; con las y los congresistas de las comisiones econ&#243;micas este mi&#233;rcoles en la tarde.",
+      "link": "https://www.msn.com/es-co/noticias/politica/de-la-espriella-se-reunir%C3%A1-con-comisiones-econ%C3%B3micas-en-la-mira-la-ley-de-ajuste-fiscal/ar-AA2gL0IC",
+      "medio": "El Espectador on MSN",
+      "fecha": "2026-11-04T06:47:13.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.HTJCh3r2R3l9F1YweaDOsA&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "“La falsa paz total llegó a su fin”: De la Espriella celebra aprobación de la Ley de Sometimiento en el Congreso - ELHERALDO.CO",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNG04cC1kdS1RMGNjVzNHV3RVNUExSkxQaFoxcGtNWG9hWU9hcjFaTUVpcm10Q3dqTDhJN2NhN2drTll4WE5GQWlQVXpoZm9SZk8xbVRTeTZLLVdBTm9LOFpJLWtWSm42blhIMVM1ODNOLVltdGtfQTkyVE14X0s3ck1sM1dEWkx4QW5ibFNvWUNKVE5qVXk0QXFMaj",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNG04cC1kdS1RMGNjVzNHV3RVNUExSkxQaFoxcGtNWG9hWU9hcjFaTUVpcm10Q3dqTDhJN2NhN2drTll4WE5GQWlQVXpoZm9SZk8xbVRTeTZLLVdBTm9LOFpJLWtWSm42blhIMVM1ODNOLVltdGtfQTkyVE14X0s3ck1sM1dEWkx4QW5ibFNvWUNKVE5qVXk0QXFMajhGb1QwZkZVSnRvdnE1VEQxZ0FId1NTMzR5N0F1X0hGc2FYY2FhN2dCdXVFVUJaOFRqbDlXMm5HbVFnTlJFNFBkQlFSTVFWdkhWaXdEem5r?oc=5",
+      "medio": "ELHERALDO.CO",
+      "fecha": "2026-11-04T05:19:41.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Abelardo De La Espriella, presidente, celebr&#243; tr&#225;mite de la Ley de Sometimiento. FOTOS: Presidencia/MinJusticia",
+      "resumen": "El presidente Abelardo De La Espriella envi&#243; un mensaje de agradecimiento al Congreso de la Rep&#250;blica luego de la aprobaci&#243;n de la Ley de Acogimiento.",
+      "link": "https://redmas.com.co/colombia/la-falsa-paz-total-llego-a-su-fin-presidente-de-la-espriella-acaba-con-legado-de-petro-tras-luz-verde-a-nueva-ley-en-el-congreso-20261104-0001.html",
+      "medio": "Red+ Noticias",
+      "fecha": "2026-11-04T03:45:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.kZ5xrfiZeRCUu2kCl8C-sA&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "La falsa paz total lleg&#243; a su fin: De la Espriella tras aprobaci&#243;n de ley de sometimiento",
+      "resumen": "El presidente Abelardo de la Espriella asegur&#243; que “la falsa paz total lleg&#243; a su fin”. Ley de sometimiento pas&#243; a sanci&#243;n.",
+      "link": "https://www.msn.com/es-co/noticias/nacional/la-falsa-paz-total-lleg%C3%B3-a-su-fin-de-la-espriella-tras-aprobaci%C3%B3n-de-ley-de-sometimiento/ar-AA2gJhBh",
+      "medio": "El Espectador on MSN",
+      "fecha": "2026-11-04T03:04:35.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.pY2ZYHaQFB8pJ7j93zAnlw&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Disidencias de las Farc estarían detrás del ataque con explosivos en Planadas, Tolima",
+      "resumen": "Avanza la investigación por el atentado del 1 de noviembre.",
+      "link": "https://www.vanguardia.com/colombia/2026/11/03/disidencias-de-las-farc-estarian-detras-del-ataque-con-explosivos-en-planadas-tolima/",
+      "medio": "Vanguardia",
+      "fecha": "2026-11-03T19:23:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Carrillo cuestiona la estrategia de seguridad de De la Espriella tras atentado en Planadas - La Otra Verdad",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2NKSnY5aFlleE1SMEF5ZWR4LXhtOG10S1lBQVVEUnFkZjNnZ091NTFnYUNpM3Y0NXBjMGt2bDA4dWI3X1A0ei1BZ3M3ZXNjeFVpQzY3N0wwNWdMNHJlb3RoVGpWQnpZRWtUQ29qcnd5UUFPVU03YURvWllMRlg0ZUl6WnJPdVhoUGVMREliODU3clRPaWFMeFM1eE",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2NKSnY5aFlleE1SMEF5ZWR4LXhtOG10S1lBQVVEUnFkZjNnZ091NTFnYUNpM3Y0NXBjMGt2bDA4dWI3X1A0ei1BZ3M3ZXNjeFVpQzY3N0wwNWdMNHJlb3RoVGpWQnpZRWtUQ29qcnd5UUFPVU03YURvWllMRlg0ZUl6WnJPdVhoUGVMREliODU3clRPaWFMeFM1eEhBTTJtMkk5aEJkNUlVVFR6TUh3N01nUTU1dw?oc=5",
+      "medio": "La Otra Verdad",
+      "fecha": "2026-11-03T06:27:42.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Mientras el presidente dispara, el país sigue bajo fuego - La Otra Verdad",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPY19jSUx6T3ZDbFlHZmZPcVM3bWNwd2pJTjBYWTlWWWtPcGVMaXRDWndXcTdiaHE4cXlSRjlqNnV1WDR1TW5Gc2pHMWIzZWNNNS1PWXNuODZRMFpTT1ZZekpJZWQtZURadE1rUThJMkFMaDJBQlhqQ3B6VHh3d3Y4QjVEV3VVVEk?oc=5\" target=\"_blank\">Mien",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY19jSUx6T3ZDbFlHZmZPcVM3bWNwd2pJTjBYWTlWWWtPcGVMaXRDWndXcTdiaHE4cXlSRjlqNnV1WDR1TW5Gc2pHMWIzZWNNNS1PWXNuODZRMFpTT1ZZekpJZWQtZURadE1rUThJMkFMaDJBQlhqQ3B6VHh3d3Y4QjVEV3VVVEk?oc=5",
+      "medio": "La Otra Verdad",
+      "fecha": "2026-11-03T06:22:42.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Abelardo de la Espriella fue criticado por video en simulacro de rescate en Tolemaida",
+      "resumen": "Dirigentes de oposición cuestionaron el video por coincidir con el atentado en Planadas.",
+      "link": "https://www.infobae.com/colombia/2026/11/02/abelardo-de-la-espriella-mostro-que-es-bueno-con-las-armas-y-fue-criticado-asi-quedo-en-video-durante-simulacro-de-rescate-de-rehen-en-tolemaida/",
+      "medio": "Infobae",
+      "fecha": "2026-11-02T20:56:42.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Abelardo de la Espriella mostró que es bueno con las armas y fue criticado: así quedó en video durante simulacro de rescate de rehén en Tolemaida - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPN2ljR2NLUHJxUWxnTjVJdTBlTEMzYXJ1SGllckg2a2k4MnJudWxBeXpGdG1Zby1YS09URGRSTi1jSEt3aWJteEFnbngwbUh5SEhzYjNwVVh5YjYxMmRYZ01MS29fa2NqbU9tX0Fkby00QVFOaXNnNG5fV2VYY3V2UTNNQkdBeHJoeW9wSWdFdkJRSDNhNnIyX1JjNU",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPN2ljR2NLUHJxUWxnTjVJdTBlTEMzYXJ1SGllckg2a2k4MnJudWxBeXpGdG1Zby1YS09URGRSTi1jSEt3aWJteEFnbngwbUh5SEhzYjNwVVh5YjYxMmRYZ01MS29fa2NqbU9tX0Fkby00QVFOaXNnNG5fV2VYY3V2UTNNQkdBeHJoeW9wSWdFdkJRSDNhNnIyX1JjNUU1MG53S2JTZ3BibVlTRC16UmVPZU1lNS1HMWZqQ2ZUZElzWWlfazQxSzZkNEY5bkZIcGJjS1FoZWYxcFZoVzkxdTl2TEpNVm4xMU55d1F5QmxBZmFzcEc0dDB5QkZQUkFqbVVQVU00SERoejBXWjZBX2x5eS1QNmRIazhy0gGzAkFVX3lxTE44MFdZOG9GRUY2RDZqNm01NGV5YktXWG9rUXZZSlo1SzhLWmYyQXZ0dmI3b0V3WlVsbVZMVGw1dmpxY3c4bWhZWVRLNG9SNGxLUTdUY1kyREZfTEtIWExqbGVpaDVCRWM4T1FRM1N6ZkZrVHljTXV1TjNOSXZKenV1VE1CQ3VyZ1d0ajJLYTV6VjduSGQ1UjZScUVUWS0yWGVDOG5uamNkWGNRU1ZRNlh0VkJBLUczYmZQbzI0Z3Q5YkJBdVNXTGxUTU9fWWZ1UXBKbVdSTHZzODJMTjBXVjQ4QkFhQW5xVGxXc21pN3JLUG1HaFNNWEViV21IdlRjelRteVVIN2RaMWkwZkpDc2FRVzF6V05LWEc2cFhLVFJlc25TaUJ0OEVsdjQ4YXNXVlZnRkk?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-02T20:56:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Presidente Abelardo De La Espriella pidi&#243; reforzar despliegue de operaciones en Planadas",
+      "resumen": "El Gobierno Nacional y la Fuerza P&#250;blica activaron una ofensiva militar y un plan de asistencia humanitaria en el municipio de Planadas, Tolima, luego del ataque terrorista perpetrado en la noche del ...",
+      "link": "https://www.tolimastereo.com/post/presidente-abelardo-de-la-espriella-pidi%C3%B3-reforzar-despliegue-de-operaciones-en-planadas",
+      "medio": "tolimastereo",
+      "fecha": "2026-11-02T17:30:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "MinCiencias denunci&#243; presuntas irregularidades por m&#225;s de $9.800 millones en recursos para investigaci&#243;n",
+      "resumen": "La ministra Claudia Benavides inform&#243; que detectaron gastos sin soportes suficientes, servicios certificados antes de su ejecuci&#243;n y eventos masivos sin pruebas documentales (@infopresidencia / X) ...",
+      "link": "https://www.infobae.com/video/colombia/minciencias-denuncio-presuntas-irregularidades-por-mas-de-9-800-millones-en-recursos-para-investigacion/rgYMac1w/",
+      "medio": "Infobae",
+      "fecha": "2026-11-02T15:52:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
+    {
+      "titulo": "Video | Ataque con explosivos en Planadas, Tolima, deja cuatro muertos y 17 heridos - Canal 1 En vivo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE90SmxNNFNtWVlaRWJLN3luSENYOFZSaHYyRGRtOHlwTG5sQTR6dFpBc2pvQzhzQjNrS29xZk1xZ19fSEZUSy1HR0FDdmNUTlZOSzJfVzk5elBDRnRtRFE4X21EQXViV0dPTjVEaldzUndvdC1NVnE1SEJJVW1vS2pybm10Wk1PZTdzWEF5UkIzb2Q3ZUhEWEM1bV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE90SmxNNFNtWVlaRWJLN3luSENYOFZSaHYyRGRtOHlwTG5sQTR6dFpBc2pvQzhzQjNrS29xZk1xZ19fSEZUSy1HR0FDdmNUTlZOSzJfVzk5elBDRnRtRFE4X21EQXViV0dPTjVEaldzUndvdC1NVnE1SEJJVW1vS2pybm10Wk1PZTdzWEF5UkIzb2Q3ZUhEWEM1bVNCMkduTUhPU0MwMTZqU0Nia3hyenZB0gG3AUFVX3lxTFBDWFY5Mk85RjBzWW5HQ3RIcXBFSUxyeGhvc1FQX0xXVE5lZzUya2pobDB6TFNnek41alVSeGFHREZZc1JDUmJWNlVKT3RTRzFoUWNvU0VzbU1adzY4UG1DN0cwUFNfQkFMLXNhOXJUREd4bWVFNkNFdFJwRmUyZVVmdHQyN2N6ek1UT2NpTWRXeVVsUnBwYnBhNDRyQ2hUQldpcmY1dk1ONFlDd3otSjMzdlBpZHhqTQ?oc=5",
+      "medio": "Canal 1 En vivo",
+      "fecha": "2026-11-02T13:23:01.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Presidente Abelardo De La Espriella resaltó la capacidad operacional de las Fuerzas Militares durante su visita al Fuerte de Tolemaida - hoy diario del magdalena",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNWDZ0b1ZPbHlLbk5Cai1lbEhLQ3RjZFNuMmlyT3FrOWlpR2RUWDhSSXJqQU9uUWlyd3NZeTFpVUVFZHROVGxQb2tvU3hMeUJWZWNGYnU0UWZwTHZxTTlSeVcySDJZRUFsRFJJOFZVbnFJNEFQVGVWLVNJUVE3ckFLcGM0YzNKcWJSWFBjeXlpQlZTcU9Cc1VtWXZraG",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWDZ0b1ZPbHlLbk5Cai1lbEhLQ3RjZFNuMmlyT3FrOWlpR2RUWDhSSXJqQU9uUWlyd3NZeTFpVUVFZHROVGxQb2tvU3hMeUJWZWNGYnU0UWZwTHZxTTlSeVcySDJZRUFsRFJJOFZVbnFJNEFQVGVWLVNJUVE3ckFLcGM0YzNKcWJSWFBjeXlpQlZTcU9Cc1VtWXZraGxpd1NIWEJ4YjZoZXVvYXZjaVZzcXFqUzBTcWlYdU9OYlFwU1JFMmRCRDFSOVhENk5vTFR4Ums3V2plWHJzLXk3Rk1wSTJlMVViQjZ4WjZXYnpSODRTSEFKQUZnOTZhTTZoV1h2TkFYT1hhRF9GOGVoZ3FvZ3hGci1HSTV0?oc=5",
+      "medio": "hoy diario del magdalena",
+      "fecha": "2026-11-02T12:58:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Abelardo de la Espriella mostr&#243; que es bueno con las armas y fue criticado: as&#237; qued&#243; en video durante simulacro de rescate de reh&#233;n en Tolemaida",
+      "resumen": "El jefe de Estado fue cuestionado por compartir el momento en que hizo uso de armas de fuego, sobre todo por el atentado en Planadas (Tolima), que dej&#243; cuatro muertos, entre ellos una beb&#233; de dos mese ...",
+      "link": "https://www.infobae.com/colombia/2026/11/02/abelardo-de-la-espriella-mostro-que-es-bueno-con-las-armas-y-fue-criticado-asi-quedo-en-video-durante-simulacro-de-rescate-de-rehen-en-tolemaida/",
+      "medio": "Infobae",
+      "fecha": "2026-11-02T12:55:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.7KD3pvXe9L3_mgZzRaYsPg&pid=News",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Atentado en Planadas, Tolima: cuatro muertos, entre ellos una bebé",
+      "resumen": "Volqueta con explosivos y drones cerca de la base militar y del hospital.",
+      "link": "https://www.vanguardia.com/colombia/2026/11/02/atentado-en-planadas-tolima-cuatro-muertos-entre-ellos-una-bebe-tras-detonar-una-volqueta-con-explosivos/",
+      "medio": "Vanguardia",
+      "fecha": "2026-11-02T12:37:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "S6is vidas tiene un gato on X: \"@nataliamoreno_p @ABDELAESPRIELLA Jugando a queeeee?\"",
+      "resumen": "El presidente Abelardo De La Espriella visit&#243; la base de Tolemaida y particip&#243; en un ejercicio militar, donde puso a prueba sus habilidades de tiro con fusil y pistola. El mandatario comparti&#243; con la ...",
+      "link": "https://x.com/seisvidastien/status/2117289615107219710",
+      "medio": "X",
+      "fecha": "2026-11-02T08:15:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Presidente Abelardo De La Espriella reacciona al terrorismo en Tolima, Huila y Cauca: “No vamos a retroceder ni un mil&#237;metro”",
+      "resumen": "“Los vamos a perseguir, los vamos a combatir con toda la fuerza leg&#237;tima del Estado y los vamos a dar de baja”, dijo el primer mandatario.",
+      "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-reacciona-al-terrorismo-en-tolima-huila-y-cauca-no-vamos-a-retroceder-ni-un-milimetro/202658/",
+      "medio": "Semana",
+      "fecha": "2026-11-02T06:59:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "Ministerio del Trabajo denuncia establecimientos que operan bajo presuntas fachadas sindicales en Bogot&#225;",
+      "resumen": "La ministra de Trabajo, Natalia L&#243;pez Fuentes, dio a conocer los hechos a trav&#233;s de los canales oficiales de la Presidencia de Colombia (@infopresidencia/X) ...",
+      "link": "https://www.infobae.com/video/colombia/ministerio-del-trabajo-denuncia-establecimientos-que-operan-bajo-presuntas-fachadas-sindicales-en-bogota/2mUKTo8y/",
+      "medio": "Infobae",
+      "fecha": "2026-11-01T10:33:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
+    {
+      "titulo": "Estados Unidos presentó en Tolemaida tres drones MQ-9 Reaper ante el presidente",
+      "resumen": "La presentación fue la tarde del sábado 31 de octubre.",
+      "link": "https://www.infobae.com/colombia/2026/11/01/estados-unidos-presento-en-el-aire-los-tres-drones-mq-9-reaper-para-apoyar-operaciones-contra-grupos-armados-en-colombia-en-tolemaida/",
+      "medio": "Infobae",
+      "fecha": "2026-11-01T03:19:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
+      "titulo": "La Dian anunció nuevas medidas contra la evasión, contrabando y delitos asociados al narcotráfico: llevan cerca de 4.259 incautaciones - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPTHp2LXRjVzQ4RmNNNEhpZGxXSUM2aERxbVpRRUpZcGhUNnZIZTc3SDRyRUlycU5Bdy1ocVNBeE9pZXZMRWU2Smw1cGdkR1VieUZqc1dvbzRQY1pUdzNkU1lUS3dmQVZVN2NBYjZaTnBBdU80RUN1akZ5UWdPVFFoWHgyRGtwMEc4bm5VQWw2aGxOMm9WcWc3bFdpRT",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTHp2LXRjVzQ4RmNNNEhpZGxXSUM2aERxbVpRRUpZcGhUNnZIZTc3SDRyRUlycU5Bdy1ocVNBeE9pZXZMRWU2Smw1cGdkR1VieUZqc1dvbzRQY1pUdzNkU1lUS3dmQVZVN2NBYjZaTnBBdU80RUN1akZ5UWdPVFFoWHgyRGtwMEc4bm5VQWw2aGxOMm9WcWc3bFdpRTIzMF9iYkRqVlVSVEZGM3U0TWNtT2FZQ0M3dDlYRFNyZ2pLUUFhcVpoTlhRYUwweHh4eVVjc3VBdWQyMTNQSzRQancwX3NiS1F2aURsY3h1ZXRKdU4xamd6dUVDLTNCMXdRb00wOWx5WEZDY9IBogJBVV95cUxNdTd6TDdaM1doU3dNNW1BSDY3aHR6NVZNdFBYVWlDYi1MNUd5WlFaVThFZGJTSVloZjhiRXl0UkZHY3FKUWdHVXI1dzhuc0t5WVNuMDR0eWI2dmYtMlpkNjB5WjhYNE5mOGFJYjd6Z0pWLXZwYUstTDdnZWlaVTVUVkRQWlhLUGtHQk96TTd6Z3JwdVNvQ2xheldmVlVBVWIxRHpLR1B6OFJzRDlJRFdONEdBOGRLQjhDcnNtQ3Eya1pjMlV1cWQ4OE5XTmItV2lBN1FQYk0wWHVDLWw0aktNR19oZ0Foam14Tjgwc2xzRkhQa1dOUjJTUlZyLVFQWVN6VkVsNmNVcW85dklSOEdKVkVxYXRGdU5IMXJFM296RGxtdw?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-10-31T21:48:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
+    {
+      "titulo": "Este video muestra un r&#237;o contaminado de petr&#243;leo, pero no por fracking",
+      "resumen": "El video muestra la contaminaci&#243;n de una quebrada por el derrame de un pozo petrolero convencional, y sucedi&#243; en julio.",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-muestra-un-rio-contaminado-de-petroleo-pero-no-por-fracking/",
+      "medio": "La Silla Vac&#237;a",
+      "fecha": "2026-10-30T18:00:00.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "De la Espriella anuncia que eliminará el wokismo de los medios públicos de Colombia - EWTN News",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXYwcDJOY0hEM0lsVWNIZnBvNkFzWUY5MU9rSE1ZMFFIVmhNNlhqOFlrTVVxa3B1Q0dpNkJKT1hRV2ZfeXJFU2J5VGRUNExzb2J4aUtPMS1TM25OSnpveWQxR0lfN3gxSXBQTGtGVXNkWXdCVGJDSFZZNnR1UU9xTWRZNkFjUUlyRi03RWdyVVU2b3FCb2tETDRkOW",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXYwcDJOY0hEM0lsVWNIZnBvNkFzWUY5MU9rSE1ZMFFIVmhNNlhqOFlrTVVxa3B1Q0dpNkJKT1hRV2ZfeXJFU2J5VGRUNExzb2J4aUtPMS1TM25OSnpveWQxR0lfN3gxSXBQTGtGVXNkWXdCVGJDSFZZNnR1UU9xTWRZNkFjUUlyRi03RWdyVVU2b3FCb2tETDRkOW9hT0NVcUtBT1Q3a0o3UQ?oc=5",
+      "medio": "EWTN News",
+      "fecha": "2026-10-29T20:38:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
+    {
+      "titulo": "Colegio en Pereira tendr&#225; tecnolog&#237;a antis&#237;smica tras reconstrucci&#243;n luego de terremoto",
+      "resumen": "La Instituci&#243;n Educativa San Nicol&#225;s, en Pereira, ser&#225; reconstruida con tecnolog&#237;a antis&#237;smica para reducir los riesgos ante futuros movimientos tel&#250;ricos. El proyecto contempla una intervenci&#243;n integ ...",
+      "link": "https://www.bluradio.com/nacion/colegio-en-pereira-tendra-tecnologia-antisismica-tras-reconstruccion-luego-de-terremoto-pr30",
+      "medio": "Blu Radio",
+      "fecha": "2026-10-29T09:08:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.HrZiCE7WXdKbrTqnOed9yQ&pid=News",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Pereira reunir&#225; a m&#225;s de 100 personeros y autoridades para exigir avances en la reconstrucci&#243;n",
+      "resumen": "El encuentro buscar&#225; revisar los compromisos institucionales y definir acciones concretas para acelerar la recuperaci&#243;n de las zonas afectadas por el terremoto del 10 de agosto.",
+      "link": "https://caracol.com.co/2026/10/28/pereira-reunira-a-mas-de-100-personeros-y-autoridades-para-exigir-avances-en-la-reconstruccion/",
+      "medio": "Caracol Radio",
+      "fecha": "2026-10-28T05:47:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.uCU9Q9QQMbGCiKcljYttXQ&pid=News",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "La publicación de Lula da Silva que desmiente a Ravier: felicitó al Gobierno por el triunfo de Milei en 2023 - Política Argentina",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMWs5aW8xRElCdFU0cTVxdGJBbHMxOFlCMHNXelAwMzJsOGotQ2hkMHlGTmpXYl9zbTN1cDhSaU8yX3NQR1QxU3dzNV95UVQ1dmthRkxMSlhyc2lRMDc2eXBiOGFhWkpNQlhFcVJ5dU85aGV0UVJVSkd2c0hsZnVGb3ZkRi1ILXFjOFZGb3VsOHVUYkRqaF91OFhseW",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMWs5aW8xRElCdFU0cTVxdGJBbHMxOFlCMHNXelAwMzJsOGotQ2hkMHlGTmpXYl9zbTN1cDhSaU8yX3NQR1QxU3dzNV95UVQ1dmthRkxMSlhyc2lRMDc2eXBiOGFhWkpNQlhFcVJ5dU85aGV0UVJVSkd2c0hsZnVGb3ZkRi1ILXFjOFZGb3VsOHVUYkRqaF91OFhseWRibGFfSDhRaVVhWWIyOEJ6RUVUZUZhdDJ6eDFHYnpOSzNCYmVVT0d4TXBwdmpuVTJreUgyV09xWHN6RzdtTGdjTVVLZ0lQekRkZWNYZHZBTzI1ZmFfUTFCRGdJ?oc=5",
+      "medio": "Política Argentina",
+      "fecha": "2026-10-27T19:49:49.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "Ni asilo ni ingreso al país: el Gobierno desmiente la supuesta fuga de Flávio Bolsonaro - https://www.noticiero9.com.ar/",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnVnMGg3Z3lhMk5EOEZkSHpBV1JOQmlvSXQtOVc3bXRfelBya1dTeF9HWXlLdEdhRFBMYURPX1Q3UU9jNHFPREZnXzlGUzZoTXlCUlVNaHBCV3pMMlJiQjl6ZFJhRHd3MDlVR3oyN2V5R2VLb28wV3gteFd4SW1FbWxoaWFLaFA3UGJ4czIxVEk0Z1hiU0lQcFpTQ1",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnVnMGg3Z3lhMk5EOEZkSHpBV1JOQmlvSXQtOVc3bXRfelBya1dTeF9HWXlLdEdhRFBMYURPX1Q3UU9jNHFPREZnXzlGUzZoTXlCUlVNaHBCV3pMMlJiQjl6ZFJhRHd3MDlVR3oyN2V5R2VLb28wV3gteFd4SW1FbWxoaWFLaFA3UGJ4czIxVEk0Z1hiU0lQcFpTQ1FVMExtbnBEM0s0dUowemlySnVVeHE4allxam5BSHl4MUU3bw?oc=5",
+      "medio": "https://www.noticiero9.com.ar/",
+      "fecha": "2026-10-27T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "Abelardo no amenaz&#243; con c&#225;rcel a Matador por caricatura de la primera dama",
+      "resumen": "Aunque la Presidencia rechaz&#243; p&#250;blicamente la caricatura y pidi&#243; a la Fiscal&#237;a investigarlo, el mandatario no lanz&#243; la amenaza.",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-no-amenazo-con-carcel-a-matador-por-caricatura-de-la-primera-dama/",
+      "medio": "La Silla Vac&#237;a",
+      "fecha": "2026-10-23T14:29:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.EQR1OC0ZKTPFjzwq5FhkiA&pid=News",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "Claudia L&#243;pez arremeti&#243; contra De la Espriella por visita a Pereira: “El imb&#233;cil cree que est&#225; en una celebraci&#243;n”",
+      "resumen": "La visita del presidente Abelardo de la Espriella a Pereira, una de las ciudades afectadas por el terremoto del pasado 10 de agosto, desat&#243; una nueva controversia pol&#237;tica. Esta vez, la protagonista ...",
+      "link": "https://www.msn.com/es-co/noticias/otras/claudia-l%C3%B3pez-arremeti%C3%B3-contra-de-la-espriella-por-visita-a-pereira-el-imb%C3%A9cil-cree-que-est%C3%A1-en-una-celebraci%C3%B3n/ar-AA2fUDpB",
+      "medio": "MSN",
+      "fecha": "2026-10-23T05:31:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Angie Rodr&#237;guez enfrenta denuncias por calumnia, injuria y presuntas irregularidades en el Dapre tras cr&#237;ticas a Gustavo Petro",
+      "resumen": "Angie Rodr&#237;guez enfrenta denuncias por calumnia y manejo irregular de fondos p&#250;blicos tras cr&#237;ticas a Gustavo Petro y el “Pacto de Valledupar”.",
+      "link": "https://www.pulzo.com/nacion/angie-rodriguez-enfrenta-denuncias-por-calumnia-y-peculado-tras-criticas-a-petro-en-colombia-PP5337330A",
+      "medio": "Pulzo",
+      "fecha": "2026-10-22T03:21:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
+      "titulo": "Vocero de Honor Colorado desmiente crisis de salud de Cartes - https://www.latribuna.com.py/",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNJQmVvakNKT2J0QzZyQnlZZGNVeURCNTFoeXdBQ2NwMUE2emZ2R3g4Ri1KeUgzLWxyS0F2NlBZTG9GRWJkcDIwQ0VhTnFFQlR3Z1RzZjJGYUxwM3h2ejF5Yk83bnNLTWRhM3ZYWlJiWlFjYmswYnlhUEJFWG9ZMVpvbWIwZG1wcWptY19OMnFkMXVTb1IyU3RMRG",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNJQmVvakNKT2J0QzZyQnlZZGNVeURCNTFoeXdBQ2NwMUE2emZ2R3g4Ri1KeUgzLWxyS0F2NlBZTG9GRWJkcDIwQ0VhTnFFQlR3Z1RzZjJGYUxwM3h2ejF5Yk83bnNLTWRhM3ZYWlJiWlFjYmswYnlhUEJFWG9ZMVpvbWIwZG1wcWptY19OMnFkMXVTb1IyU3RMRGZWTnJUcGYtSU55VXY2dlQxaGJv?oc=5",
+      "medio": "https://www.latribuna.com.py/",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "Trump despide a Katie Zacharia como vocera de la Casa Blanca, según NYT - La Razón de México",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUNfa3owcmVJX0QxZUVSWmVxbXh4WVhfYW45V1BSV1JmbG8xZERhN3h3TVV1Tm9sWkZINzJoUzJkclByMzFvYUN2b0NhUW1SU21ONjRmN2ZZZC1rbGVWaEtndVVTOWo3dXNJcTZ1V1ljNlZIZ3JVeGR4bFVpbXZBVVdFU3RqSzBFWXMwRnNZZkhQZndKTlRnLURvT2",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUNfa3owcmVJX0QxZUVSWmVxbXh4WVhfYW45V1BSV1JmbG8xZERhN3h3TVV1Tm9sWkZINzJoUzJkclByMzFvYUN2b0NhUW1SU21ONjRmN2ZZZC1rbGVWaEtndVVTOWo3dXNJcTZ1V1ljNlZIZ3JVeGR4bFVpbXZBVVdFU3RqSzBFWXMwRnNZZkhQZndKTlRnLURvT2FlUG1tUE9LMWI1RXlwRWhuQlpMVndCQdIBzgFBVV95cUxOY3pTWFRFLVdCZzlZS0U4c1FhdlMzSVZkd1o1Snk4QUo3S1lJaXVwTEtXcmNYdC1wdWpfMm9VUW9nTkxXVHhOV01uWVZ6MlJYaVhyb2RlTFJLV18td1RmTUxZaHVFT0dCWTVOZnlreFQtV1NTR25VUzFLOXJ0S3BPaWdLQnZ6Rk5oUGZoX3U2VnFiczJ3RlZSTlB1Sm1HLUw3VEhvdWIzT0FSR0tRa1dwSExrQkhvZ3dkUU8xUE1kMFllYzcxSEQ4bHpTcFQydw?oc=5",
+      "medio": "La Razón de México",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "Crece la molestia con la reconstrucción y la opacidad del Fondo Milagro",
+      "resumen": "Damnificados de Pereira y Quibdó reclaman un plan concreto.",
+      "link": "https://www.lasillavacia.com/silla-nacional/crece-la-molestia-con-la-reconstruccion-y-la-opacidad-del-fondo-milagro/",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-10-15T12:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Trump lanza una web oficial con un chatbot de IA... y resulta que desmiente sus principales noticias falsas - elDiarioAR.com",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkZ4djRVdFU0bDRoTjE2RE95VWc5d19KYWw3bXJNcXZQSU84T2JWQXllSUxpcDVMOTVnblVHUDhxWUYySEtTRjZlZTVyRWNXczJnLWd4N2dxbmx0T05KVldJeGttWnRZd0hvVHlEa3JGakdkZnJQd3YyclE0MXZEUXJ2aFdvVVphMlVEN1hSQ1JMb19rS0hJT1BEdG",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkZ4djRVdFU0bDRoTjE2RE95VWc5d19KYWw3bXJNcXZQSU84T2JWQXllSUxpcDVMOTVnblVHUDhxWUYySEtTRjZlZTVyRWNXczJnLWd4N2dxbmx0T05KVldJeGttWnRZd0hvVHlEa3JGakdkZnJQd3YyclE0MXZEUXJ2aFdvVVphMlVEN1hSQ1JMb19rS0hJT1BEdG5CaXVPdWlZSWkzU0RidDNqYWkzYmxxbG5WRVBIaVJZSEFuc1Vta3ZQcUdKb9IBzgFBVV95cUxObjhENnMxOEwzTV93WG56dVpLQ1VUREVhTnBLenhKckhjbmU4dUtWVllPRnRzdy1EeU5FekpCbnJJVUpFZS0wYjRMc3V1NFdYS1FyNjNPbU9jQ1Z3MmI3NU5vRk9sRWt3Um9JcFNibVdLWUs0UWdCZDNPTTFLMmJBd3lIZ1E5SzBPcTM1OXNaWlJEWEdXWjRTZEZmdmJaWTFEWmQ2WmJ5R01CS3phZUpUNDhWVmVVUEtCR2tMT3g4VEdLM21RamY5T1dJcjE3UQ?oc=5",
+      "medio": "elDiarioAR.com",
+      "fecha": "2026-10-03T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "Falsa cr&#237;tica del Pibe Valderrama a De La Espriella fue viral: era contra Santos y todo fue manipulado",
+      "resumen": "Sale a la luz un claro ejemplo de ‘fake news’ que involucra al presidente Abelardo De La Espriella y al exfutbolista Carlos Valderrama.",
+      "link": "https://www.semana.com/deportes/articulo/falsa-critica-del-pibe-valderrama-a-de-la-espriella-fue-viral-era-contra-santos-y-todo-fue-manipulado/202612/",
+      "medio": "Semana",
+      "fecha": "2026-10-01T20:51:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Falsa crítica del Pibe Valderrama a De La Espriella fue viral: era contra Santos y todo fue manipulado - Revista Semana",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRElySGhENzg0X0tUNWxYbnJJXzE3dFJhbjZnS1cweDVHNm1hWmFURHNfci1NM19Ga0hHa1dZaV85WFFoNmpNTldBRzExUl83cklpTjVtMzBpM2FFQlVSejk2OE5tRlZYRWtmVjFtSUhIUDNseUpLR1hxZDNWTHNrdE5kY2YwVXBWanRuTTdGUUlwVDhzY2JfMVhHWX",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRElySGhENzg0X0tUNWxYbnJJXzE3dFJhbjZnS1cweDVHNm1hWmFURHNfci1NM19Ga0hHa1dZaV85WFFoNmpNTldBRzExUl83cklpTjVtMzBpM2FFQlVSejk2OE5tRlZYRWtmVjFtSUhIUDNseUpLR1hxZDNWTHNrdE5kY2YwVXBWanRuTTdGUUlwVDhzY2JfMVhHWXhkaHV2X2NyMnFMVDFTazM1QzVSYVZhcWl3NzdwWkRMYVd1V09fLWZNelpFbzZ4LVNUOUROb3NTV2xsZjVKbVBfcEtlYmxZa3LSAeoBQVVfeXFMTU1NaEFmS2JzYnJjUnhLUWxFRi1venhMSm5wbEgxLWJWdFF3TVlBRTk0d0Y5bHdvU1Z3Sm5YUkR5QU5KUkQxMy1TSDByRmcwc25TNjVfZ1phbTRidWNtcmU4UHVmTUJfNWhYRUVudkZSRE91cnZSUzNiMTgtenJxam5tYm9sN0FjUnA3czVGNk1Ia2RaZE01LTJKS3NWTWUyaDYzZzN3Y0FVczEwSENYOC1qUVFJbmNjNE0zYlVpdTdZOFhQSldTb3RfaEJlb2pEazUxUl9oWmUydWwtVWVOc19jXzhLUU9NVFFR?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-10-01T07:00:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Llenar las audiencias para democratizar la reconstrucción - Corporación Latinoamericana Sur",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHpCUEJGN24yVkZoQlZCbEo4UUxieW1zc2M3SGxsNHQ1cjFtNDF1ZVNvWnRCMEdzN3ZpUV95WVZOV2MzRFFTa2ZOUUpRUmVQb3RKOWN1Wk04V0tBenVCZ29RNUZtX1cyWlJ6bmhSeGxJemdJNmkyUWUtZHNpQUhPdS1NN2hxNGF5?oc=5\" target=\"_blank\">Lle",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHpCUEJGN24yVkZoQlZCbEo4UUxieW1zc2M3SGxsNHQ1cjFtNDF1ZVNvWnRCMEdzN3ZpUV95WVZOV2MzRFFTa2ZOUUpRUmVQb3RKOWN1Wk04V0tBenVCZ29RNUZtX1cyWlJ6bmhSeGxJemdJNmkyUWUtZHNpQUhPdS1NN2hxNGF5?oc=5",
+      "medio": "Corporación Latinoamericana Sur",
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "La Fiscalía imputa cargos a Laura Sarabia por la prueba de polígrafo a Marelbys Meza - EL PAÍS",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTg4N2NtQUhTSjQxMU5wN0lFWWxVMnZ2aHYwaktIRlBEN0JBMjllTTk1TktOamZwOUYzSjNlTmpIcGRqczEwZmFkbHpuV1dwaUU5SFdiQ2ZUVTgzMHp1dWZ6MEdOMmVRbXFRb2FnVXl1dUQxQnl3NzZmTzlJZVM4TVJDR2g3NmprMi1GV0FqYk9Md2NWOExWclRwVm",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTg4N2NtQUhTSjQxMU5wN0lFWWxVMnZ2aHYwaktIRlBEN0JBMjllTTk1TktOamZwOUYzSjNlTmpIcGRqczEwZmFkbHpuV1dwaUU5SFdiQ2ZUVTgzMHp1dWZ6MEdOMmVRbXFRb2FnVXl1dUQxQnl3NzZmTzlJZVM4TVJDR2g3NmprMi1GV0FqYk9Md2NWOExWclRwVmRqeERVVkRNeFdOOF9sUHlNcS1PaFk2cUxlTnY4Wjk4NXBEMkFCQUNEMFZTVm5YQkZocWwya2fSAeYBQVVfeXFMT2doU21HMHJOTjZ0MTdUQTN3bVE0TEVfbmwzblNNaVFoLWNYTEhaS0UyMEJXVnFLNkpqWXN6SDUxQ1hMNlJoOFV2XzhYOHN2RjZlUmdvQWRjRFdlY2hFX013bDFsUFNCeWk0VmFUNXZKZmFJTGZ2eFVIQ2JrUE1vZ2VCWmdxdUc3QWhWR09rdWZKbFBsTm5fc19DcDRxNEk2Z1M4RzA1bl9idXQzTlFnZUJydUZqR05vZVMwSUEyWjFPOW44MlNpS2RVR3NzbHZqcnczWGtfOXY0d1p2d1FQbHZRbThLS2c?oc=5",
+      "medio": "EL PAÍS",
+      "fecha": "2026-09-14T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "Colombia. Pereira: 30 d&#237;as despu&#233;s de la tragedia s&#237;smica",
+      "resumen": "Un mes despu&#233;s del terremoto del 10 de agosto, Pereira y Risaralda enfrentan una pregunta que ya no admite m&#225;s aplazamientos: &#191;cu&#225;ndo comenzar&#225; realmente la reconstrucci&#243;n? Responderla exige mucho m&#225;s ...",
+      "link": "https://kaosenlared.net/colombia-pereira-30-dias-despues-de-la-tragedia-sismica-por-horacio-duque/",
+      "medio": "Kaos en la Red",
+      "fecha": "2026-09-11T15:21:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Colombia. Pereira: participaci&#243;n ciudadana y control social a la reconstrucci&#243;n",
+      "resumen": "Son graves los da&#241;os dejados en Pereira (Risaralda) por el terremoto del pasado 10 de agosto. A la fecha los muertos se acercan a 150; los desaparecidos suman 138; 36 mil viviendas quedaron averiadas; ...",
+      "link": "https://kaosenlared.net/colombia-pereira-participacion-ciudadana-y-control-social-a-la-reconstruccion-horacio-duque/",
+      "medio": "Kaos en la Red",
+      "fecha": "2026-09-10T22:10:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Pereira: participaci&#243;n ciudadana y control social a la reconstrucci&#243;n",
+      "resumen": "Son graves los da&#241;os dejados en Pereira (Risaralda) por el terremoto del pasado 10 de agosto. A la fecha los muertos se acercan a 150; los desaparecidos suman 138; 36 mil viviendas quedaron averiadas; ...",
+      "link": "https://www.aporrea.org/actualidad/a356429.html",
+      "medio": "Aporrea",
+      "fecha": "2026-09-10T01:48:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "“Calumnia falsa”: Netanyahu niega haber recibido aviso de Emiratos sobre ataque de Hamás días antes del 7 de octubre - ADN Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRG9rUWZqVzZuZmpKLU5PUzRuTXVCSTdTbnV5d05ZNTFpblhjc05SdmYtS1NKZWpzbWJiQ3poYjY4V05jekV3RFlsSVcyLTQ1VWliYmJQSE1iVE1MVkxWMWZkTDBSaS1MZnR2STdZWlFBcElpbU92TW4zaHRTNVU4UC1ud3lmaUt3cEZaTEgwVXdTU2ZsM0Y2OTQ5Zm",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRG9rUWZqVzZuZmpKLU5PUzRuTXVCSTdTbnV5d05ZNTFpblhjc05SdmYtS1NKZWpzbWJiQ3poYjY4V05jekV3RFlsSVcyLTQ1VWliYmJQSE1iVE1MVkxWMWZkTDBSaS1MZnR2STdZWlFBcElpbU92TW4zaHRTNVU4UC1ud3lmaUt3cEZaTEgwVXdTU2ZsM0Y2OTQ5Zmh4UHgxV1FvT0tFOUFEdU1QSzlSbXNpOUVuaGlYS2ozZEVQclZpdkdqUENPcDZfUGdkLVRSdHJYWlBRSGJwZU5KWXpJVWkyNNIB9wFBVV95cUxQMUlmMzVKbUlpNC04dEs1SUJGM2JvT2ZQcVNrRE1lREl0MXZTREkyTHg1STZwZWw5MVVQNW5HZzFqbDdRel9ublhaOGJmSWN1QktEdF9mZXZlS2Y0Y0lGS2g4NWR2QWw3UWdjWjlOeGxDNVJnTEg1MmJyU1lmWGppSGg4Um1iRFpGRFZ3UnE0OTJOWmFkX0poV3Q5Z1U5MnN5TG9OLTdWblVpN1JqcWF0MkZUTWZmWktBRGlQRUNNUmZBNktiWFEwREZvLVVFMWUxdkZ3VHhhU1dMdWk5UnVkNk93d0FzSmNBc2xEbnN0WGF1VjRndVpN?oc=5",
+      "medio": "ADN Radio",
+      "fecha": "2026-09-09T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
+      "titulo": "Detector: 74% de “aprobación” de Abelardo no sale de una encuesta - La Silla Vacía",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkRrNDZlRVZ6ZjEyNVp2OWpmLVN1WGFXQW9oeDN3bGNkUHRtT2ZzeU9hbWhydVItRU9WTGNtRzA0d0FZaDZtcHc2QkhsbERYSThNX2VYTFpmRTl5R2Njbk9VcXNPY21UVUh2QmJaWE1KLVFfcTZFbVRLdkFEN3dUb3ZLdVdsV216WWktWmxrdUlkUkU3MXFteEEwZm",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkRrNDZlRVZ6ZjEyNVp2OWpmLVN1WGFXQW9oeDN3bGNkUHRtT2ZzeU9hbWhydVItRU9WTGNtRzA0d0FZaDZtcHc2QkhsbERYSThNX2VYTFpmRTl5R2Njbk9VcXNPY21UVUh2QmJaWE1KLVFfcTZFbVRLdkFEN3dUb3ZLdVdsV216WWktWmxrdUlkUkU3MXFteEEwZmJhRERaUmVrd05sYjVuNVFyREdObWlvVThLYzdiMkE?oc=5",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-09-09T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "Lista comisión del Congreso para atención de víctimas del terremoto - Ecos del Combeima",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDQ4UnFyX0MtWWFxekF0WkpkWHE4dklzQlMza21vOEI4QWpocnRHWk5IX3J0b0diUmZHUWg0QXVjYktzRU1FNDVxRkp5eFJDQjhfX1ZRZXFYdy12NElsU1c0UHNfVmIyR0s1U2puZ185NWp3MkZMTUZwRFUxMnNnbS0yaDRPNk5zLWR2TmlfdzlUZnlPM2R3SlY2TX",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVDQ4UnFyX0MtWWFxekF0WkpkWHE4dklzQlMza21vOEI4QWpocnRHWk5IX3J0b0diUmZHUWg0QXVjYktzRU1FNDVxRkp5eFJDQjhfX1ZRZXFYdy12NElsU1c0UHNfVmIyR0s1U2puZ185NWp3MkZMTUZwRFUxMnNnbS0yaDRPNk5zLWR2TmlfdzlUZnlPM2R3SlY2TXBfUndMS25QUkRiWnhUTkd1VkU2c2lpSEVuLXM?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-09-05T14:34:17.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "MinVivienda pide $4 billones adicionales para reconstrucción tras terremoto - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVl6dktzQUlVOEN5cVdKSnVwcmdRcDRLNVpGY1Q2OXZsdjFUTFBuS21WMTI3QXkzLWdqVDBMcDB2cnJicjNsT1ZxenV1Y211eHJDbDFVZE4wTTZ5LVEtRXFPSFk3d1hwUFR0bGZHV2xTVmJ3dE9SWjFkUEdiVlFZdVkxZnF2WHV2eEtXOURiTFRxSENTaHBuVDdiWT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVl6dktzQUlVOEN5cVdKSnVwcmdRcDRLNVpGY1Q2OXZsdjFUTFBuS21WMTI3QXkzLWdqVDBMcDB2cnJicjNsT1ZxenV1Y211eHJDbDFVZE4wTTZ5LVEtRXFPSFk3d1hwUFR0bGZHV2xTVmJ3dE9SWjFkUEdiVlFZdVkxZnF2WHV2eEtXOURiTFRxSENTaHBuVDdiWTFJbFJxdnJIOVJtQWdWdlRPbkHSAcIBQVVfeXFMTWFoYkVYZTNBWWdBSHpobTR2bWxVM0RFX1B4U2RmQmZMSE5tQzk3MVdCRV9ncUZZdTJ5MElVZFp4VkpHZ2U3SWpCOWlsaENDbWd5cEh5WlVOSjdwOTY2Y0tzanh6ZkZzTFBuZkgxUWFLN01icWhRT1pHN3BjdW5NRnVheG1wSFZkdUJJN3J6NU5zUnhNVHJ1alJZYWFLWmFINDlKSUFNTVZTeFpMeEQwZFRuOGhLYjdvek1WRHZxZDZvM2c?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-09-02T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Crearon comisión accidental en el Congreso para hacer seguimiento a la respuesta del Estado frente al terremoto: estas serán sus funciones - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNNFotNDVtWkdHX3dxcGVRUDBBdno0Zy1nVkI4YlNJb3NWemhjVHVVTmprRmYxYjk5eVlzMkFiWTNBc29oVElFemh5R19SVlN4dlVZRlJtS2NhT1NUR0wxVDBiSEF4WmhXS1ptME1GX2VaZjlxY1RUZ3AwUG5fMnJyelFkcWM4UnRpbkN3a3h6dVo5ZUpsaXNGcko0WE",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNFotNDVtWkdHX3dxcGVRUDBBdno0Zy1nVkI4YlNJb3NWemhjVHVVTmprRmYxYjk5eVlzMkFiWTNBc29oVElFemh5R19SVlN4dlVZRlJtS2NhT1NUR0wxVDBiSEF4WmhXS1ptME1GX2VaZjlxY1RUZ3AwUG5fMnJyelFkcWM4UnRpbkN3a3h6dVo5ZUpsaXNGcko0WE5tOFNSWng3Vi1aRW1jelYyYllONFVEaVd5cGRpQTgxakp4czllY0dCWm9yT2tTQml6TFB6cXFjbUttNHJEYzlRUjRRQnotRkh3cF8yMXBscUxQa1ZJYjVDWFlJWmRDdkpsaktUOFBvNWlpbzVmN2tLOWJV0gGqAkFVX3lxTFBmOXlwcjVvYllyVWZSTlhfN3BzdTJDak5SVTA5NExOekE4Q0lXMjN0NTR1dTRxUjZRdHR5ZHZCNXRTMjdEOVBTdGJYdDY4NkZDby1McXpVSFgwZEZhdTRPNTRYNFRCUTZ1NXJWN0lKUlFTMnU5ZWxiSUJoQ0hZQUV6MmtuQ2pSQ1Q4M3I1TUJLU0F4RmE3eUljQzBfaUpXNngwM3J0bE8xOGkyOHNUOEF6RnZXWm9SYmxHdzROWV9mVU5XbHZBMVdvZTNZbFZBSjVrTkFjN2M4V04xZlRIVHRqZGlySGFUZEZqTUVMYlFhVXVIbkozRllaVFRDUkR0MURWbXNtdVVUR2hGRU9IdGZoamo2dm1GRTNXR1BLaUZmalNsUHE3VG9yVWc?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-09-01T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Cartagena envía ingenieros a Pereira tras el terremoto: comisión especializada ya está en la ciudad - PrimerTiempo.CO",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnVjZTduVmVpellhWklvYmp0dVdCbzB3a1ZHNUZzTXhVMHktcmNfdktJOGtlNkwzc0x2clBiWnJsaXZMNTFCaklKT1gyeno2U3UxT2lTVHdmSFYtYnpsbS1vSzRjaVMyVWtIU1h6Mm11UE5CLUpEdWtTQmVSNW1OZ2lZNER5R3VWNGtINkZMaExNRFhQMkl5eHdQTU",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnVjZTduVmVpellhWklvYmp0dVdCbzB3a1ZHNUZzTXhVMHktcmNfdktJOGtlNkwzc0x2clBiWnJsaXZMNTFCaklKT1gyeno2U3UxT2lTVHdmSFYtYnpsbS1vSzRjaVMyVWtIU1h6Mm11UE5CLUpEdWtTQmVSNW1OZ2lZNER5R3VWNGtINkZMaExNRFhQMkl5eHdQTUg0R1lMTS10LW5DRFJWOUo4a0ExQXBEUlRNZ0hGbkQ5eFFvSUJjOXpPZzhmQ3dFb3I?oc=5",
+      "medio": "PrimerTiempo.CO",
+      "fecha": "2026-09-01T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Carolina Gómez confirma que ya no será vocera e iría a otro cargo en el gobierno de Abelardo De La Espriella - hoy diario del magdalena",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZEVUZ1BmV0N5Mi0yQTRPVUhVdXkzMFZfcHIzRnRhdXNHakJzMFNZaHlBcFNhTHpuOUxWSzBObkhjV1JqdjcwdWhJbjMtMGpLNUFUY3BQRVdrUHZrZzJ3SzBJV3dkVWFnV3ZDTll3OTdCZXNvODIwQU5pN3AzWXE0ZnNtOGU5eDk5VVlFZzd0SG1xWTdfOEQ0SkdvcV",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZEVUZ1BmV0N5Mi0yQTRPVUhVdXkzMFZfcHIzRnRhdXNHakJzMFNZaHlBcFNhTHpuOUxWSzBObkhjV1JqdjcwdWhJbjMtMGpLNUFUY3BQRVdrUHZrZzJ3SzBJV3dkVWFnV3ZDTll3OTdCZXNvODIwQU5pN3AzWXE0ZnNtOGU5eDk5VVlFZzd0SG1xWTdfOEQ0SkdvcVRrN1M2X1BNYlUtR1dZQ0FEekNDVlM4Uk15V1JnVWQyTEhzV2JIMUk1M285Q2lmeG9EX3RZMFowZ2Z6U21mSktlbncxeEVfOFJrdnFSZmtKSlp0VlhLTzlnS2c?oc=5",
+      "medio": "hoy diario del magdalena",
+      "fecha": "2026-08-31T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "Detector: Petro no asumió la presidencia de las Naciones Unidas - La Silla Vacía",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWV0ck16cXNpQmc5eVo2aTdQWWFQZi1PQ2VPQ29KWDBTZTgzNGpLYlFEZE4tX1NIYjRXdTZ2cm9waG44Um5jRDU5eV9DODZRREVYc3NsZDJEOVFzWnhUR3JNZXhDOGo1OUQ5dzVxWElyMXBPRlhyWUxJMmdYaUNwaTNpSVBScFlOQmtzODNpMmlHVzRVYXNVTWI1Nk",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWV0ck16cXNpQmc5eVo2aTdQWWFQZi1PQ2VPQ29KWDBTZTgzNGpLYlFEZE4tX1NIYjRXdTZ2cm9waG44Um5jRDU5eV9DODZRREVYc3NsZDJEOVFzWnhUR3JNZXhDOGo1OUQ5dzVxWElyMXBPRlhyWUxJMmdYaUNwaTNpSVBScFlOQmtzODNpMmlHVzRVYXNVTWI1NkptX1VCMk9MR2QxZ3gyMVlBY0NoX0s1SnlKTEZPQ2s4?oc=5",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-08-31T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "Abelardo de la Espriella revel&#243; a partir de cu&#225;ndo empezar&#225;n a entregar ayudas para las familias que perdieron su vivienda por el terremoto: “$1.050.000 durante tres meses”",
+      "resumen": "El presidente de la Rep&#250;blica, Abelardo de la Espriella, anunci&#243; en Pereira, Risaralda, que el plan de atenci&#243;n para las familias afectadas por la tragedia empezar&#225; con desembolsos directos desde el ...",
+      "link": "https://www.infobae.com/colombia/2026/08/28/abelarodo-de-la-espriella-revelo-a-partir-cuando-empezaran-a-entregar-ayudas-para-las-familias-que-perdieron-su-vivienda-por-el-terremoto-1050000-durante-tres-meses/",
+      "medio": "Infobae",
+      "fecha": "2026-08-28T10:48:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Rechazan una querella de Milei contra el periodista Ari Lijalad: el Presidente apeló tarde - La Nación",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2ZIOGprN1Zta2pPaGxLbUJZYkJ4WjJrejVuMDVvN3dpTlY5aFhIaXR2RHpPQnphNFc4RU5jMkJCTVJ6WW1sT29ncGtRTmE0ZXlRbG5jYm1MbXFjMHhXZGJ1Mk9SdS11WUtZQjR2eEktQjN5MUJVSTlJLW5Cb1pWcGtKRC1CT3dZd1VQLUpHbkxYRzFFQ2FEenJOcW",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2ZIOGprN1Zta2pPaGxLbUJZYkJ4WjJrejVuMDVvN3dpTlY5aFhIaXR2RHpPQnphNFc4RU5jMkJCTVJ6WW1sT29ncGtRTmE0ZXlRbG5jYm1MbXFjMHhXZGJ1Mk9SdS11WUtZQjR2eEktQjN5MUJVSTlJLW5Cb1pWcGtKRC1CT3dZd1VQLUpHbkxYRzFFQ2FEenJOcWtlTmRVbk14cEJ5ci1HS05DWmROZURxS3poNFFvb0lubFZ6N0RJZ2g4N3pORlJSaXp4WHJfV1V4cFF3?oc=5",
+      "medio": "La Nación",
+      "fecha": "2026-08-27T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
+      "titulo": "Pereira avanza en la reconstrucción con el programa Techos Dignos para más de tres mil familias - El Expreso",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzhpWHBNT2RSUEFpcDJ6STlCT3RjUFR6SnlGckxsX0IyUFE5NnVNbGFhVTdvSzNpclV1ZW9JcEI5NEVXUkpBdHpTUmx2VUhoSXVldzd5YVNhXzhFemRtMjFnbE43ZnBTdkNZa3pFVUo2TDJudlNMSmo4Zm14WFpDSTNHbndnc3J1SXN3Q0EyRnhWXzFsWUJ0VzRmS2",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzhpWHBNT2RSUEFpcDJ6STlCT3RjUFR6SnlGckxsX0IyUFE5NnVNbGFhVTdvSzNpclV1ZW9JcEI5NEVXUkpBdHpTUmx2VUhoSXVldzd5YVNhXzhFemRtMjFnbE43ZnBTdkNZa3pFVUo2TDJudlNMSmo4Zm14WFpDSTNHbndnc3J1SXN3Q0EyRnhWXzFsWUJ0VzRmS2s3Y1JoZU8xVm5jSlZuZnVBbEFIbWVNVkhOei1NdUVLXzd3?oc=5",
+      "medio": "El Expreso",
+      "fecha": "2026-08-27T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Los nombramientos más polémicos de Abelardo de la Espriella - EL PAÍS",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlc5Nk1yQVdBTmEwaE9CWTlHYjdYRFFWT2xULXRPTjNtMS00b3NydTJqYlJWVDRXR2d0M3g0WmtObk9ONnhYWjREMEdiU1dzNVh4ZkRxYmFxZlR0dWtWWmNFcUhyZ3hBRFVIM1NxeE5TcUUwRjFtV2U0QTZBckdqNUhKZ2pld01KVV9KS0VvcVNKMEFMOVJpRnE3dk",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlc5Nk1yQVdBTmEwaE9CWTlHYjdYRFFWT2xULXRPTjNtMS00b3NydTJqYlJWVDRXR2d0M3g0WmtObk9ONnhYWjREMEdiU1dzNVh4ZkRxYmFxZlR0dWtWWmNFcUhyZ3hBRFVIM1NxeE5TcUUwRjFtV2U0QTZBckdqNUhKZ2pld01KVV9KS0VvcVNKMEFMOVJpRnE3dk1RNmQzR0tEYnpSdXhNdTY5RHhrWNIBxAFBVV95cUxOd3ZaUnZYZ2Q4MEtYSDBmbHZ2UlYwMlotVmRrdDM1dnNvMUJJOHJxQjBtQUZPOWxkRFg4cC11dDdFcm5lZVBLR3I3ckRHR3Q5NkpYMHEwenZLTGhzWjZJRUNQMWx6T21SVVZVVm5kZGhSS2dOa1JoaWR4VlItMWVlR0gwc2o1eV9pMVd5SlppdF9nc1YxNEVDRnpiSjQwaTdHMXNfdjU4SXNkWWpRdV8xUTRDdlRRTFgxN1NYYktiWHFxblNY?oc=5",
+      "medio": "EL PAÍS",
+      "fecha": "2026-08-22T07:00:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "El manual de desinformación de Gustavo Petro - La Silla Vacía",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWd0aXdZYzJBWUNNQlNBVGR3cmMxelB6OWJ2bjJIdUl5NUlNdmlfMTNXdXlGcWt6YTNadXpZN29SREd3UE5jNm9DTVQtcEpwZkY3Z09fcFBUUVU3cGxGWXVFWHB4OElyaW0tcmh1LUR0SFFCTmZuS05IVFJWZ0FHT0R6VzFQd21kX2paWHRKTUo2YWFGVU5qdFVGbw",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWd0aXdZYzJBWUNNQlNBVGR3cmMxelB6OWJ2bjJIdUl5NUlNdmlfMTNXdXlGcWt6YTNadXpZN29SREd3UE5jNm9DTVQtcEpwZkY3Z09fcFBUUVU3cGxGWXVFWHB4OElyaW0tcmh1LUR0SFFCTmZuS05IVFJWZ0FHT0R6VzFQd21kX2paWHRKTUo2YWFGVU5qdFVGbw?oc=5",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-08-22T07:00:00.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "No solo ayudas materiales: alcalde de Cartagena también envía a Pereira comisión de ingenieros especialistas - revistametro.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkd1Q2diU2FuVlFmZFVhZ3hkMVJfbXF5VEo0aUo5S18wSjNLb3EzaFM0RHlQRnloOHRzanF4cGVZV3VwMVU0VFJwZHF2REJvZzdiWC1maFFyTnNWY053TllVU05iRkd4ODhXUGh2ck9PUFVOYWl4RzNmVFJab2h0bk1aeGdXVVBRNEk0V2NGeVVhWFpqOFlmcXFWUl",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkd1Q2diU2FuVlFmZFVhZ3hkMVJfbXF5VEo0aUo5S18wSjNLb3EzaFM0RHlQRnloOHRzanF4cGVZV3VwMVU0VFJwZHF2REJvZzdiWC1maFFyTnNWY053TllVU05iRkd4ODhXUGh2ck9PUFVOYWl4RzNmVFJab2h0bk1aeGdXVVBRNEk0V2NGeVVhWFpqOFlmcXFWUlVVaVpYMl9WbXBES0tNQkxVREZ6LW00eFExZEpKY0IzS0pwQnJPQjI0OHRJbWtpMHZxbGstc2p3THlHZw?oc=5",
+      "medio": "revistametro.co",
+      "fecha": "2026-08-21T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Alcaldía envía equipo de ingenieros a Pereira luego de entregar ayudas en Chocó y Valle - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSExLblN6TDF1SlFZc3dhVHBHN2pzV3VhWkhTN3BlNkp4cWFPRWg4SGJzNGhyMzNyV3NiSGcxV0JnenJ1X0RRR1Bta0ZuamdhcUFYYkQtRFN6NC1BUjZ6akl2Q2tOOTg5d2s1M2lrSWxka0hzX2pGU0xIOXoyd0tvOG9YY0lPVVprUnNXR3BGMWMtcEIydGpSUlZMeH",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSExLblN6TDF1SlFZc3dhVHBHN2pzV3VhWkhTN3BlNkp4cWFPRWg4SGJzNGhyMzNyV3NiSGcxV0JnenJ1X0RRR1Bta0ZuamdhcUFYYkQtRFN6NC1BUjZ6akl2Q2tOOTg5d2s1M2lrSWxka0hzX2pGU0xIOXoyd0tvOG9YY0lPVVprUnNXR3BGMWMtcEIydGpSUlZMeHVsQkhBclhUVll6UzNTNWlpQ3pHZmFFRzVpVFhBN2NPZWV2VdIB0wFBVV95cUxPUWZRX0llWk56QzBueGkxRjNSNXFNb2EyNHRXcGliQ0w1bW5obWhvRTB2Nm50UElPdGc5LVQ4c0kySlFEc2dvbEpidlg5ZjIwS0dwT1pISkhqUzRuMWR0YTcwUnpvSGpNRDAwWlppS2pueURKSklEM1ZVTFc3UEtQMkl1Y2h0ZER5X1d4RnM0NlcyWURXLW0yR1lqaG1vazBKRXIzVmVXYVU0WU9XNUFlRFptbDQzaTZPd2pFbUlYVWNOUU1jQm1ST2xPUDV0VnVqaEdF?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-08-20T07:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    }
   ]
 }
