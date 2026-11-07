@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T20:25:42.469Z",
+  "actualizado": "2026-11-07T23:51:18.071Z",
   "total": 80,
   "noticias": [
     {
@@ -43,7 +43,7 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3M2Sy1DLVBmNEQ4Y0JfVkpSZ0lnR2thTXhrVjBVM0haaDRVSWQ4dDRWVmhyRjJxalJfbWU3U1RuQXZvT2Q0dzFKWlJGcC1peHJudk80dFhnMWl3ZWhEZzcwT2lmTy1Md1VrWUFrWi1LYVgtMVhmWThvNnlreGV3aEo3b09ubkJPSm12Qw?oc=5\" target=\"_blan",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3M2Sy1DLVBmNEQ4Y0JfVkpSZ0lnR2thTXhrVjBVM0haaDRVSWQ4dDRWVmhyRjJxalJfbWU3U1RuQXZvT2Q0dzFKWlJGcC1peHJudk80dFhnMWl3ZWhEZzcwT2lmTy1Md1VrWUFrWi1LYVgtMVhmWThvNnlreGV3aEo3b09ubkJPSm12Qw?oc=5",
       "medio": "Kienyke",
-      "fecha": "2026-11-07T14:56:20.000Z",
+      "fecha": "2026-11-07T13:49:47.000Z",
       "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
@@ -57,13 +57,22 @@
       "tema": "Presidencia"
     },
     {
+      "titulo": "Presidencia desmiente vinculaci&#243;n de visita de De la Espriella a Tolemaida con atentado en Planadas",
+      "resumen": "El vocero de la Presidencia, Miller Soto, desminti&#243; las versiones que vinculaban temporalmente la visita del presidente Abelardo De la Espriella a ...",
+      "link": "https://ifmnoticias.com/gobierno/el-gobierno-desmiente-la-presidencia-acusa-manipulacion-cronologica-al-vincular-/",
+      "medio": "ifmnoticias",
+      "fecha": "2026-11-07T08:53:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.AhdCM_Td7KZlLWLLrWZ_cw&pid=News",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
       "titulo": "Gobierno denunci&#243; “manipulaci&#243;n cronol&#243;gica” de la visita de Abelardo de la Espriella a Tolemaida y el atentado en Planadas: \"Fabricar una noticia para cazar likes\"",
       "resumen": "Miller Soto, vocero de la Presidencia, destac&#243; que el primer mandatario particip&#243; el s&#225;bado 31 de octubre, durante la ma&#241;ana, en actividades de entrenamiento con las Fuerzas Militares, como parte de l ...",
       "link": "https://www.infobae.com/colombia/2026/11/07/gobierno-denuncio-manipulacion-cronologica-de-la-visita-de-abelardo-de-la-espriella-a-tolemaida-y-el-atentado-en-planadas-fabricar-una-noticia-para-cazar-likes/",
       "medio": "Infobae",
       "fecha": "2026-11-07T08:16:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.x6AfEpD2W_wvGrKAdkrFIA&pid=News",
-      "tema": "Tolemaida Planadas presidente"
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
     },
     {
       "titulo": "Gobierno De la Espriella desminti&#243; relaci&#243;n entre visita del presidente a Tolemaida y ataque en Planadas",
@@ -174,6 +183,15 @@
       "tema": "Presidencia rechaza calumnia"
     },
     {
+      "titulo": "EEUU desmiente salida de Marco Rubio del Departamento de Estado",
+      "resumen": "El Departamento de Estado desminti&#243; los reportes period&#237;sticos que afirmaban la eventual renuncia del secretario de Estado, Marco Rubio ...",
+      "link": "https://talcualdigital.com/noticias/eeuu-desmiente-salida-de-marco-rubio-al-departamento-de-estado/",
+      "medio": "TalCual",
+      "fecha": "2026-11-05T14:26:00.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
       "titulo": "'Se acab&#243; la falsa paz': presidente Abelardo De La Espriella sentenci&#243; el fin de la 'paz total' tras sancionar la ley de sometimiento",
       "resumen": "El jefe de Estado asegur&#243; que no habr&#225; beneficios sin compromisos y defendi&#243; la justicia, la autoridad y la reparaci&#243;n como pilares de su Gobierno.",
       "link": "https://www.msn.com/es-co/noticias/otras/se-acab%C3%B3-la-falsa-paz-presidente-abelardo-de-la-espriella-sentenci%C3%B3-el-fin-de-la-paz-total-tras-sancionar-la-ley-de-sometimiento/ar-AA2gQ3wX",
@@ -242,7 +260,7 @@
       "link": "https://www.pulzo.com/nacion/asi-reacciono-espriella-sancion-ley-sometimiento-colombia-PP5348988",
       "medio": "Pulzo",
       "fecha": "2026-11-04T20:56:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.I0yJ5cE8k3Op6zWt_O5Cmg&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.e7SoKM02ngUAKHrFx5GxjQ&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -269,7 +287,7 @@
       "link": "https://www.ntn24.com/noticias-actualidad/la-falsa-paz-total-llego-a-su-fin-abelardo-de-la-espriella-celebra-la-aprobacion-de-la-ley-de-sometimiento-en-el-congreso-663705",
       "medio": "NTN24",
       "fecha": "2026-11-04T13:39:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.L5tSKDBZFb1nzUPQjbAZPg&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.Qywiu1pBudvsniP_tNKeHw&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -332,7 +350,7 @@
       "link": "https://redmas.com.co/colombia/la-falsa-paz-total-llego-a-su-fin-presidente-de-la-espriella-acaba-con-legado-de-petro-tras-luz-verde-a-nueva-ley-en-el-congreso-20261104-0001.html",
       "medio": "Red+ Noticias",
       "fecha": "2026-11-04T03:45:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.kZ5xrfiZeRCUu2kCl8C-sA&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.7nKtNyK27VL7MXDQ72qeKQ&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -341,7 +359,7 @@
       "link": "https://www.msn.com/es-co/noticias/nacional/la-falsa-paz-total-lleg%C3%B3-a-su-fin-de-la-espriella-tras-aprobaci%C3%B3n-de-ley-de-sometimiento/ar-AA2gJhBh",
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-04T03:04:35.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.pY2ZYHaQFB8pJ7j93zAnlw&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.UvFl80of-n5qqsYXU83Fcw&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -431,7 +449,7 @@
       "link": "https://www.infobae.com/colombia/2026/11/02/abelardo-de-la-espriella-mostro-que-es-bueno-con-las-armas-y-fue-criticado-asi-quedo-en-video-durante-simulacro-de-rescate-de-rehen-en-tolemaida/",
       "medio": "Infobae",
       "fecha": "2026-11-02T12:55:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.7KD3pvXe9L3_mgZzRaYsPg&pid=News",
+      "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -458,7 +476,7 @@
       "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-reacciona-al-terrorismo-en-tolima-huila-y-cauca-no-vamos-a-retroceder-ni-un-milimetro/202658/",
       "medio": "Semana",
       "fecha": "2026-11-02T06:59:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
+      "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -584,7 +602,7 @@
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-no-amenazo-con-carcel-a-matador-por-caricatura-de-la-primera-dama/",
       "medio": "La Silla Vac&#237;a",
       "fecha": "2026-10-23T14:29:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.EQR1OC0ZKTPFjzwq5FhkiA&pid=News",
       "tema": "Detector de mentiras Presidencia Colombia"
     },
     {
@@ -703,24 +721,6 @@
       "fecha": "2026-09-10T01:48:00.000Z",
       "imagen": "",
       "tema": "comisiones reconstrucción Pereira"
-    },
-    {
-      "titulo": "“Calumnia falsa”: Netanyahu niega haber recibido aviso de Emiratos sobre ataque de Hamás días antes del 7 de octubre - ADN Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRG9rUWZqVzZuZmpKLU5PUzRuTXVCSTdTbnV5d05ZNTFpblhjc05SdmYtS1NKZWpzbWJiQ3poYjY4V05jekV3RFlsSVcyLTQ1VWliYmJQSE1iVE1MVkxWMWZkTDBSaS1MZnR2STdZWlFBcElpbU92TW4zaHRTNVU4UC1ud3lmaUt3cEZaTEgwVXdTU2ZsM0Y2OTQ5Zm",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRG9rUWZqVzZuZmpKLU5PUzRuTXVCSTdTbnV5d05ZNTFpblhjc05SdmYtS1NKZWpzbWJiQ3poYjY4V05jekV3RFlsSVcyLTQ1VWliYmJQSE1iVE1MVkxWMWZkTDBSaS1MZnR2STdZWlFBcElpbU92TW4zaHRTNVU4UC1ud3lmaUt3cEZaTEgwVXdTU2ZsM0Y2OTQ5Zmh4UHgxV1FvT0tFOUFEdU1QSzlSbXNpOUVuaGlYS2ozZEVQclZpdkdqUENPcDZfUGdkLVRSdHJYWlBRSGJwZU5KWXpJVWkyNNIB9wFBVV95cUxQMUlmMzVKbUlpNC04dEs1SUJGM2JvT2ZQcVNrRE1lREl0MXZTREkyTHg1STZwZWw5MVVQNW5HZzFqbDdRel9ublhaOGJmSWN1QktEdF9mZXZlS2Y0Y0lGS2g4NWR2QWw3UWdjWjlOeGxDNVJnTEg1MmJyU1lmWGppSGg4Um1iRFpGRFZ3UnE0OTJOWmFkX0poV3Q5Z1U5MnN5TG9OLTdWblVpN1JqcWF0MkZUTWZmWktBRGlQRUNNUmZBNktiWFEwREZvLVVFMWUxdkZ3VHhhU1dMdWk5UnVkNk93d0FzSmNBc2xEbnN0WGF1VjRndVpN?oc=5",
-      "medio": "ADN Radio",
-      "fecha": "2026-09-09T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Presidencia rechaza calumnia"
-    },
-    {
-      "titulo": "Detector: 74% de “aprobación” de Abelardo no sale de una encuesta - La Silla Vacía",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkRrNDZlRVZ6ZjEyNVp2OWpmLVN1WGFXQW9oeDN3bGNkUHRtT2ZzeU9hbWhydVItRU9WTGNtRzA0d0FZaDZtcHc2QkhsbERYSThNX2VYTFpmRTl5R2Njbk9VcXNPY21UVUh2QmJaWE1KLVFfcTZFbVRLdkFEN3dUb3ZLdVdsV216WWktWmxrdUlkUkU3MXFteEEwZm",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTkRrNDZlRVZ6ZjEyNVp2OWpmLVN1WGFXQW9oeDN3bGNkUHRtT2ZzeU9hbWhydVItRU9WTGNtRzA0d0FZaDZtcHc2QkhsbERYSThNX2VYTFpmRTl5R2Njbk9VcXNPY21UVUh2QmJaWE1KLVFfcTZFbVRLdkFEN3dUb3ZLdVdsV216WWktWmxrdUlkUkU3MXFteEEwZmJhRERaUmVrd05sYjVuNVFyREdObWlvVThLYzdiMkE?oc=5",
-      "medio": "La Silla Vacía",
-      "fecha": "2026-09-09T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Detector de mentiras Presidencia Colombia"
     }
   ]
 }
