@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>InfoPresidencia al Día — cada desmentido, con las dos versiones</title>
+<meta name="description" content="Seguimiento ciudadano a los desmentidos de la Vocería de la Presidencia: lo que dice el Gobierno, lo que dicen la prensa y los críticos, y lo que está verificado. Vibras Positivas HM.">
+<meta name="theme-color" content="#0b1020">
+<link rel="manifest" href="manifest.webmanifest">
+<!-- Vista previa al compartir el enlace (foto real) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="InfoPresidencia al Día — las dos versiones de cada desmentido">
+<meta property="og:description" content="Lo que dice la Presidencia, lo que dicen la prensa y los críticos, y lo que está verificado. Se actualiza cada 30 minutos.">
+<meta property="og:url" content="https://infopresidencia-al-dia.netlify.app/">
+<meta property="og:image" content="https://infopresidencia-al-dia.netlify.app/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://infopresidencia-al-dia.netlify.app/og.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b1020;--card:#141b33;--line:#243056;--tx:#eef2ff;--mut:#9aa6c9;--oro:#f6c445;--az:#3d7bff;--rojo:#ff4d5e;--verde:#2fd08a;--lila:#a77bff}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--tx);line-height:1.5;overflow-x:hidden}
+a{color:var(--oro)}
+.wrap{max-width:1100px;margin:auto;padding:0 18px}
+/* Barra superior */
+.top{position:sticky;top:0;z-index:20;background:rgba(11,16,32,.85);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:58px}
+.marca{font-family:'Archivo Black';font-size:17px;letter-spacing:.3px;flex:1}
+.marca span{color:var(--oro)}
+.btn{border:0;border-radius:999px;padding:9px 16px;font:600 14px Inter;cursor:pointer;background:var(--card);color:var(--tx);border:1px solid var(--line);transition:.2s}
+.btn:hover{border-color:var(--oro)}
+.btn.prim{background:linear-gradient(135deg,var(--oro),#ff9f43);color:#1a1200;border:0}
+.btn.girando{animation:pulso 1s infinite}
+@keyframes pulso{50%{opacity:.5}}
+/* Portada */
+.hero{position:relative;min-height:78vh;display:flex;align-items:flex-end;overflow:hidden}
+.hero .foto{position:absolute;inset:0;background-size:cover;background-position:center;animation:kb 22s ease-in-out infinite alternate;filter:saturate(1.1)}
+@keyframes kb{from{transform:scale(1.05)}to{transform:scale(1.22) translate(-2%,-2%)}}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,16,32,.2),rgba(11,16,32,.65) 45%,var(--bg) 96%)}
+.hero .wrap{position:relative;z-index:2;padding-bottom:40px}
+.vivo{display:inline-flex;align-items:center;gap:8px;background:rgba(255,77,94,.15);border:1px solid var(--rojo);color:#ffd0d5;padding:5px 12px;border-radius:999px;font-weight:600;font-size:13px}
+.vivo i{width:9px;height:9px;border-radius:50%;background:var(--rojo);animation:latido 1.4s infinite}
+@keyframes latido{0%{box-shadow:0 0 0 0 rgba(255,77,94,.7)}70%{box-shadow:0 0 0 12px rgba(255,77,94,0)}}
+h1{font-family:'Archivo Black';font-size:clamp(34px,7vw,68px);line-height:1.02;margin:14px 0 12px}
+h1 em{font-style:normal;background:linear-gradient(90deg,var(--oro),#ff7a59,var(--lila));-webkit-background-clip:text;background-clip:text;color:transparent;background-size:200%;animation:brillo 6s linear infinite}
+@keyframes brillo{to{background-position:200%}}
+.hero p{max-width:640px;color:#d6ddf5;font-size:17px}
+.cifras{display:flex;gap:12px;margin-top:22px;flex-wrap:wrap}
+.cifra{background:rgba(20,27,51,.8);border:1px solid var(--line);border-radius:16px;padding:12px 16px;min-width:130px}
+.cifra b{font-family:'Archivo Black';font-size:28px;display:block;color:var(--oro)}
+.cifra small{color:var(--mut)}
+/* Cinta de titulares */
+.cinta{background:var(--oro);color:#1a1200;overflow:hidden;white-space:nowrap;font-weight:600;font-size:14px}
+.cinta div{display:inline-block;padding:10px 0;animation:corre 60s linear infinite}
+.cinta span{margin-right:48px}
+@keyframes corre{to{transform:translateX(-50%)}}
+section{padding:54px 0}
+h2{font-family:'Archivo Black';font-size:clamp(24px,4.5vw,36px);margin-bottom:6px}
+.sub{color:var(--mut);margin-bottom:24px}
+/* Hoy */
+.hoy{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.nota{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;text-decoration:none;color:var(--tx);display:flex;flex-direction:column;transition:.25s;opacity:0;transform:translateY(16px);animation:entra .5s forwards}
+.nota:hover{transform:translateY(-4px);border-color:var(--oro)}
+@keyframes entra{to{opacity:1;transform:none}}
+.nota .img{height:150px;background-size:cover;background-position:center}
+.nota .cu{padding:14px}
+.nota h3{font-size:16px;line-height:1.3;margin-bottom:6px}
+.meta{font-size:12px;color:var(--mut)}
+.vacio{color:var(--mut);background:var(--card);border:1px dashed var(--line);border-radius:16px;padding:18px}
+/* Casos */
+.caso{background:var(--card);border:1px solid var(--line);border-radius:24px;overflow:hidden;margin-bottom:28px}
+.caso .ban{height:220px;background-size:cover;background-position:center;position:relative}
+.caso .ban:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,var(--card))}
+.caso .cab{padding:0 22px;margin-top:-56px;position:relative;z-index:2}
+.caso h3{font-family:'Archivo Black';font-size:clamp(20px,3.6vw,28px);line-height:1.15}
+.est{display:inline-block;font-size:12px;font-weight:800;padding:4px 10px;border-radius:999px;margin-bottom:8px;letter-spacing:.4px;text-transform:uppercase}
+.est.parcial{background:rgba(246,196,69,.18);color:var(--oro);border:1px solid var(--oro)}
+.est.sin-prueba{background:rgba(167,123,255,.18);color:#d4c2ff;border:1px solid var(--lila)}
+.est.confirmado{background:rgba(47,208,138,.15);color:var(--verde);border:1px solid var(--verde)}
+.est.desmentido{background:rgba(255,77,94,.15);color:#ffb3bb;border:1px solid var(--rojo)}
+.lados{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;padding:20px 22px}
+.lado{border-radius:16px;padding:16px;border:1px solid var(--line);background:#0f1530;position:relative}
+.lado:before{content:"";position:absolute;left:0;top:14px;bottom:14px;width:4px;border-radius:4px}
+.lado.p:before{background:var(--az)}.lado.o:before{background:var(--rojo)}.lado.v:before{background:var(--verde)}.lado.f:before{background:var(--oro)}
+.lado h4{font-size:12px;text-transform:uppercase;letter-spacing:1px;color:var(--mut);margin-bottom:6px}
+.fuentes{padding:0 22px 22px;font-size:14px}
+.fuentes summary{cursor:pointer;color:var(--oro);font-weight:600}
+.fuentes li{margin:6px 0 0 18px}
+/* Guía */
+.guia{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;counter-reset:g}
+.paso{background:linear-gradient(160deg,#18214a,#101632);border:1px solid var(--line);border-radius:18px;padding:18px;counter-increment:g}
+.paso:before{content:counter(g);font-family:'Archivo Black';font-size:34px;color:var(--oro);display:block;line-height:1}
+/* En vivo */
+.buscar{display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap}
+.buscar input{flex:1;min-width:200px;background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:999px;padding:12px 18px;font:15px Inter}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.chip{background:transparent;border:1px solid var(--line);color:var(--mut);border-radius:999px;padding:6px 12px;font:600 13px Inter;cursor:pointer}
+.chip.on{background:var(--az);color:#fff;border-color:var(--az)}
+/* Petición */
+.pet{background:linear-gradient(135deg,#1c1240,#0f1a3d);border:1px solid var(--lila);border-radius:24px;padding:24px}
+.campos{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:16px 0}
+.campos input{background:#0b1020;border:1px solid var(--line);color:var(--tx);border-radius:12px;padding:11px 12px;font:15px Inter}
+textarea{width:100%;min-height:280px;background:#0b1020;border:1px solid var(--line);color:var(--tx);border-radius:14px;padding:14px;font:14px/1.5 Inter}
+.dest{font-size:13px;color:var(--mut);margin:10px 0}
+.acc{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+footer{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--mut);font-size:14px}
+.aviso{position:fixed;left:50%;bottom:20px;transform:translateX(-50%) translateY(120px);background:var(--oro);color:#1a1200;font-weight:700;padding:12px 18px;border-radius:999px;transition:.3s;z-index:50}
+.aviso.ver{transform:translateX(-50%)}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="marca">InfoPresidencia <span>al Día</span></div>
+  <button class="btn" id="idioma">EN</button>
+  <button class="btn prim" id="actualizar" data-t="actualizar">Actualizar</button>
+</div></header>
+
+<div class="hero">
+  <div class="foto" id="heroFoto"></div>
+  <div class="wrap">
+    <span class="vivo"><i></i><span data-t="vivo">En vivo · se actualiza cada 30 min</span></span>
+    <h1><span data-t="h1a">Cada desmentido,</span><br><em data-t="h1b">con las dos versiones</em></h1>
+    <p id="intro"></p>
+    <div class="cifras">
+      <div class="cifra"><b id="nCasos">0</b><small data-t="cCasos">desmentidos en seguimiento</small></div>
+      <div class="cifra"><b id="nHoy">0</b><small data-t="cHoy">noticias de hoy</small></div>
+      <div class="cifra"><b id="nTotal">0</b><small data-t="cTotal">noticias reunidas</small></div>
+      <div class="cifra"><b id="hora">--:--</b><small data-t="cHora">última revisión (hora Colombia)</small></div>
+    </div>
+  </div>
+</div>
+<div class="cinta"><div id="cinta"></div></div>
+
+<main class="wrap">
+  <section id="hoy">
+    <h2 data-t="hoyT">Hoy</h2>
+    <p class="sub" data-t="hoyS">Lo último sobre la Vocería de la Presidencia y los temas que desmiente, de las últimas 24 horas.</p>
+    <div class="hoy" id="hoyGrid"></div>
+  </section>
+
+  <section id="casos">
+    <h2 data-t="casosT">Los desmentidos, punto por punto</h2>
+    <p class="sub" data-t="casosS">Azul: lo que dice la Presidencia. Rojo: lo que dicen la prensa y los críticos. Verde: lo que está verificado con fuentes. Amarillo: lo que todavía falta saber.</p>
+    <div id="casosLista"></div>
+  </section>
+
+  <section id="guia">
+    <h2 data-t="guiaT">Cómo leer un desmentido sin que lo engañen</h2>
+    <p class="sub" data-t="guiaS">Sirve igual para un desmentido del Gobierno que para una denuncia de la oposición.</p>
+    <div class="guia" id="guiaLista"></div>
+  </section>
+
+  <section id="vivo">
+    <h2 data-t="vivoT">Noticias en vivo</h2>
+    <p class="sub" data-t="vivoS">Busque cualquier tema. Al abrir la app se hace una búsqueda nueva en la red.</p>
+    <div class="buscar"><input id="q" data-ph="buscarPh" placeholder="Buscar: Tolemaida, Pereira, Fondo Milagro..."><button class="btn" id="buscarRed" data-t="buscarRed">Buscar en la red</button></div>
+    <div class="chips" id="chips"></div>
+    <div class="hoy" id="vivoGrid"></div>
+  </section>
+
+  <section id="peticion">
+    <div class="pet">
+      <h2 data-t="petT">Derecho de petición: exija los soportes</h2>
+      <p class="sub" data-t="petS">Un solo envío a todas las entidades involucradas. Es su derecho (artículo 23 de la Constitución y Ley 1755 de 2015): deben responderle en 15 días hábiles.</p>
+      <div class="campos">
+        <input id="fNombre" data-ph="fNombre" placeholder="Nombre completo">
+        <input id="fCedula" data-ph="fCedula" placeholder="Cédula">
+        <input id="fCiudad" data-ph="fCiudad" placeholder="Ciudad">
+        <input id="fCorreo" data-ph="fCorreo" placeholder="Correo para la respuesta">
+        <input id="fTel" data-ph="fTel" placeholder="Teléfono">
+      </div>
+      <textarea id="carta"></textarea>
+      <p class="dest"><b data-t="para">Para:</b> <span id="destinos"></span></p>
+      <div class="acc">
+        <button class="btn prim" id="enviar" data-t="enviar">Enviar a todas las entidades</button>
+        <button class="btn" id="copiar" data-t="copiar">Copiar carta</button>
+        <button class="btn" id="whats" data-t="whats">Compartir por WhatsApp</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <p><b>Vibras Positivas HM</b> · <span data-t="pie">App ciudadana independiente. No pertenece al Gobierno ni a ningún partido. Los resúmenes enlazan a sus fuentes para que usted verifique.</span></p>
+  <p id="pieHora"></p>
+</div></footer>
+<div class="aviso" id="aviso"></div>
+
+<script>
+const T = {
+ es:{actualizar:'Actualizar',vivo:'En vivo · se actualiza cada 30 min',h1a:'Cada desmentido,',h1b:'con las dos versiones',cCasos:'desmentidos en seguimiento',cHoy:'noticias de hoy',cTotal:'noticias reunidas',cHora:'última revisión (hora Colombia)',hoyT:'Hoy',hoyS:'Lo último sobre la Vocería de la Presidencia y los temas que desmiente, de las últimas 24 horas.',casosT:'Los desmentidos, punto por punto',casosS:'Azul: lo que dice la Presidencia. Rojo: lo que dicen la prensa y los críticos. Verde: lo que está verificado con fuentes. Amarillo: lo que todavía falta saber.',guiaT:'Cómo leer un desmentido sin que lo engañen',guiaS:'Sirve igual para un desmentido del Gobierno que para una denuncia de la oposición.',vivoT:'Noticias en vivo',vivoS:'Busque cualquier tema. Al abrir la app se hace una búsqueda nueva en la red.',buscarPh:'Buscar: Tolemaida, Pereira, Fondo Milagro...',buscarRed:'Buscar en la red',petT:'Derecho de petición: exija los soportes',petS:'Un solo envío a todas las entidades involucradas. Es su derecho (artículo 23 de la Constitución y Ley 1755 de 2015): deben responderle en 15 días hábiles.',fNombre:'Nombre completo',fCedula:'Cédula',fCiudad:'Ciudad',fCorreo:'Correo para la respuesta',fTel:'Teléfono',para:'Para:',enviar:'Enviar a todas las entidades',copiar:'Copiar carta',whats:'Compartir por WhatsApp',pie:'App ciudadana independiente. No pertenece al Gobierno ni a ningún partido. Los resúmenes enlazan a sus fuentes para que usted verifique.',
+  p:'Lo que dice la Presidencia',o:'Lo que dicen la prensa y los críticos',v:'Lo verificado',f:'Lo que falta saber',fuentes:'Ver fuentes',entrega:'Entrega',sinHoy:'Hoy todavía no hay noticias nuevas. El robot revisa cada 30 minutos; toque Actualizar.',sinRes:'No hay resultados para esa búsqueda.',todo:'Todo',listo:'Actualizado',copiado:'Carta copiada',buscando:'Buscando en la red...',
+  est:{parcial:'Fechas confirmadas en parte','sin-prueba':'Acusación sin fuente pública',confirmado:'Desmentido confirmado',desmentido:'Desmentido no se sostiene'},
+  guia:['¿Quién lo dice? Separe el hecho de quien lo cuenta: Gobierno, oposición o medio.','¿Hay documento? Pida la agenda, el contrato, el video con fecha. Sin soporte es solo una versión.','¿Coinciden las fechas y horas? En el caso Tolemaida, la diferencia entre grabar y publicar un video cambia todo.','¿Qué dicen los verificadores independientes? Colombiacheck y el Detector de Mentiras de La Silla Vacía.','¿Lo pueden demostrar en la justicia? Si alguien dice "calumnia", pregunte si ya hay denuncia formal.']},
+ en:{actualizar:'Refresh',vivo:'Live · updates every 30 min',h1a:'Every rebuttal,',h1b:'with both sides',cCasos:'rebuttals tracked',cHoy:'stories today',cTotal:'stories collected',cHora:'last check (Colombia time)',hoyT:'Today',hoyS:'The latest on the Presidential Spokesperson\'s Office and the topics it rebuts, from the last 24 hours.',casosT:'The rebuttals, point by point',casosS:'Blue: what the Presidency says. Red: what the press and critics say. Green: what is verified with sources. Yellow: what is still unknown.',guiaT:'How to read a rebuttal without being fooled',guiaS:'Works just as well for a government rebuttal as for an opposition accusation.',vivoT:'Live news',vivoS:'Search any topic. A fresh web search runs every time you open the app.',buscarPh:'Search: Tolemaida, Pereira, Fondo Milagro...',buscarRed:'Search the web',petT:'Right of petition: demand the evidence',petS:'One message to every agency involved. It is your right (Article 23 of the Constitution and Law 1755 of 2015): they must answer within 15 business days.',fNombre:'Full name',fCedula:'ID number',fCiudad:'City',fCorreo:'Email for the reply',fTel:'Phone',para:'To:',enviar:'Send to all agencies',copiar:'Copy letter',whats:'Share on WhatsApp',pie:'Independent civic app. Not affiliated with the Government or any party. Summaries link to their sources so you can check.',
+  p:'What the Presidency says',o:'What the press and critics say',v:'What is verified',f:'What we still don\'t know',fuentes:'See sources',entrega:'Issue',sinHoy:'No new stories yet today. The robot checks every 30 minutes; tap Refresh.',sinRes:'No results for that search.',todo:'All',listo:'Updated',copiado:'Letter copied',buscando:'Searching the web...',
+  est:{parcial:'Dates partly confirmed','sin-prueba':'Accusation with no public source',confirmado:'Rebuttal confirmed',desmentido:'Rebuttal does not hold'},
+  guia:['Who says it? Separate the fact from the teller: Government, opposition or media.','Is there a document? Ask for the schedule, the contract, the dated video. Without proof it is just a version.','Do dates and times match? In the Tolemaida case, recording versus posting a video changes everything.','What do independent fact-checkers say? Colombiacheck and La Silla Vacía\'s Detector de Mentiras.','Can it be proven in court? If someone says "slander", ask whether a formal complaint exists.']}
+};
+const FOTOS=['https://commons.wikimedia.org/wiki/Special:FilePath/Casa_presidencial_de_Bogot%C3%A1.jpg?width=1600','https://commons.wikimedia.org/wiki/Special:FilePath/Costado2_Casa_de_Nari%C3%B1o.jpg?width=1600'];
+const DEST=[
+ ['Presidencia de la República (Vocería, Secretaría de Prensa y Vicepresidencia)','contacto@presidencia.gov.co'],
+ ['Ministerio de Hacienda y Crédito Público','relacionciudadano@minhacienda.gov.co'],
+ ['Ministerio de Defensa Nacional','usuarios@mindefensa.gov.co'],
+ ['Procuraduría General de la Nación','quejas@procuraduria.gov.co'],
+ ['Contraloría General de la República','cgr@contraloria.gov.co']];
+let L=localStorage.getItem('lang')||'es', CASOS=null, NOTI=[], VIVO=[], filtro='';
+const $=id=>document.getElementById(id);
+const hBog=d=>new Date(d).toLocaleString(L==='es'?'es-CO':'en-US',{timeZone:'America/Bogota',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function aviso(t){const a=$('aviso');a.textContent=t;a.classList.add('ver');setTimeout(()=>a.classList.remove('ver'),2200)}
+function contar(el,n){let i=0;const s=Math.max(1,Math.ceil(n/30));const t=setInterval(()=>{i=Math.min(n,i+s);el.textContent=i;if(i>=n)clearInterval(t)},30)}
+
+function textos(){
+ document.documentElement.lang=L; $('idioma').textContent=L==='es'?'EN':'ES';
+ document.querySelectorAll('[data-t]').forEach(e=>e.textContent=T[L][e.dataset.t]);
+ document.querySelectorAll('[data-ph]').forEach(e=>e.placeholder=T[L][e.dataset.ph]);
+ $('guiaLista').innerHTML=T[L].guia.map(g=>`<div class="paso"><p>${esc(g)}</p></div>`).join('');
+}
+function tarjeta(n,i){
+ const img=n.imagen||FOTOS[i%FOTOS.length];
+ return `<a class="nota" style="animation-delay:${i*60}ms" href="${esc(n.link)}" target="_blank" rel="noopener"><div class="img" style="background-image:url('${esc(img)}')"></div><div class="cu"><h3>${esc(n.titulo)}</h3><div class="meta">${esc(n.medio)} · ${hBog(n.fecha)}</div></div></a>`;
+}
+function pintarCasos(){
+ if(!CASOS)return; $('intro').textContent=CASOS.espacio[L];
+ $('casosLista').innerHTML=CASOS.casos.map(c=>`<article class="caso" id="${c.id}">
+  <div class="ban" style="background-image:url('${esc(c.foto)}')"></div>
+  <div class="cab"><span class="est ${c.estado}">${T[L].est[c.estado]}</span><div class="meta">${T[L].entrega} ${c.entrega} · ${c.fecha}</div><h3>${esc(c.titulo[L])}</h3></div>
+  <div class="lados">
+   <div class="lado p"><h4>${T[L].p}</h4><p>${esc(c.presidencia[L])}</p></div>
+   <div class="lado o"><h4>${T[L].o}</h4><p>${esc(c.otros[L])}</p></div>
+   <div class="lado v"><h4>${T[L].v}</h4><p>${esc(c.verificado[L])}</p></div>
+   <div class="lado f"><h4>${T[L].f}</h4><p>${esc(c.pendiente[L])}</p></div>
+  </div>
+  <details class="fuentes"><summary>${T[L].fuentes} (${c.fuentes.length})</summary><ul>${c.fuentes.map(f=>`<li><a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.t)}</a></li>`).join('')}</ul></details>
+ </article>`).join('');
+}
+function pintarHoy(){
+ const ayer=Date.now()-864e5, hoy=NOTI.filter(n=>new Date(n.fecha)>ayer);
+ $('hoyGrid').innerHTML=hoy.length?hoy.slice(0,9).map(tarjeta).join(''):`<div class="vacio">${T[L].sinHoy}</div>`;
+ contar($('nHoy'),hoy.length); contar($('nTotal'),NOTI.length);
+ const tit=NOTI.slice(0,12).map(n=>`<span>${esc(n.titulo)} — ${esc(n.medio)}</span>`).join('');
+ $('cinta').innerHTML=tit+tit;
+}
+function pintarVivo(){
+ const todas=[...VIVO,...NOTI].filter((n,i,a)=>a.findIndex(x=>x.titulo===n.titulo)===i);
+ const temas=[...new Set(NOTI.map(n=>n.tema))].slice(0,8);
+ $('chips').innerHTML=[`<button class="chip ${!filtro?'on':''}" data-f="">${T[L].todo}</button>`,...temas.map(t=>`<button class="chip ${filtro===t?'on':''}" data-f="${esc(t)}">${esc(t)}</button>`)].join('');
+ const q=$('q').value.toLowerCase().trim();
+ const r=todas.filter(n=>(!filtro||n.tema===filtro)&&(!q||(n.titulo+' '+n.resumen+' '+n.medio).toLowerCase().includes(q)));
+ $('vivoGrid').innerHTML=r.length?r.slice(0,24).map(tarjeta).join(''):`<div class="vacio">${T[L].sinRes}</div>`;
+}
+async function cargar(){
+ const b=$('actualizar'); b.classList.add('girando');
+ try{CASOS=await (await fetch('data/casos.json?'+Date.now())).json()}catch(e){}
+ try{const d=await (await fetch('data/noticias.json?'+Date.now())).json(); NOTI=d.noticias||[]; $('hora').textContent=new Date(d.actualizado).toLocaleTimeString('es-CO',{timeZone:'America/Bogota',hour:'2-digit',minute:'2-digit'}); $('pieHora').textContent=(L==='es'?'Robot: ':'Robot: ')+hBog(d.actualizado)+' (America/Bogota)'}catch(e){}
+ if(CASOS)contar($('nCasos'),CASOS.casos.length);
+ pintarCasos(); pintarHoy(); pintarVivo(); b.classList.remove('girando');
+}
+// Búsqueda en vivo en la red al abrir y al buscar
+async function buscarRed(q){
+ q=q||'Presidencia desmiente Colombia'; const vg=$('vivoGrid');
+ if(!VIVO.length) vg.insertAdjacentHTML('afterbegin',`<div class="vacio" id="buscando">${T[L].buscando}</div>`);
+ const rss='https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=es-419&gl=CO&ceid=CO:es-419';
+ try{
+  const d=await (await fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(rss))).json();
+  if(d.items) VIVO=d.items.map(i=>({titulo:i.title,resumen:'',link:i.link,medio:(i.author||i.title.split(' - ').pop()||'Google News'),fecha:new Date(i.pubDate.replace(' ','T')+'Z').toISOString(),imagen:i.thumbnail||'',tema:q})).concat(VIVO);
+ }catch(e){}
+ const x=$('buscando'); if(x)x.remove(); pintarVivo();
+}
+// Derecho de petición
+function carta(){
+ const v=id=>$(id).value.trim()||'['+T[L][id]+']';
+ const f=new Date().toLocaleDateString('es-CO',{timeZone:'America/Bogota',day:'numeric',month:'long',year:'numeric'});
+ return `${v('fCiudad')}, ${f}
+
+Señores
+${DEST.map(d=>d[0]).join('\n')}
+
+Asunto: Derecho de petición — soportes de los desmentidos publicados por la Vocería de la Presidencia (espacio @infopresidencia)
+
+Yo, ${v('fNombre')}, identificado(a) con cédula ${v('fCedula')}, en ejercicio del derecho fundamental de petición (artículo 23 de la Constitución Política y Ley 1755 de 2015) y del derecho de acceso a la información pública (Ley 1712 de 2014), solicito respetuosamente:
+
+1. A la Presidencia de la República: copia de la agenda oficial del señor Presidente para los días 31 de octubre y 1 de noviembre de 2026, con la hora de llegada y salida del Fuerte Militar de Tolemaida, y la fecha y hora en que se grabó y en que se publicó en redes el video del simulacro de rescate.
+
+2. A la Presidencia de la República: los soportes con los que la Vocería afirma que la acusación de cobro de comisiones del 5 % en contratos de reconstrucción de Pereira es falsa, e informar si se presentó denuncia penal por calumnia, ante qué autoridad y con qué número de radicado.
+
+3. A la Presidencia de la República: el acto o documento que crea el espacio de la Vocería para "contrastar falsedades", su metodología y criterios de verificación, el equipo responsable, su costo y cómo se garantiza que no se use para estigmatizar a periodistas o ciudadanos.
+
+4. Al Ministerio de Hacienda y Crédito Público y a la Vicepresidencia: relación de los contratos de reconstrucción en Pereira financiados con recursos de la Nación o del Fondo Milagro, con contratista, valor, modalidad y enlace al SECOP.
+
+5. Al Ministerio de Defensa Nacional: confirmar la fecha y hora de la visita presidencial a Tolemaida y de la presentación de los drones MQ-9.
+
+6. A la Procuraduría General de la Nación y a la Contraloría General de la República: informar si existen actuaciones disciplinarias o fiscales abiertas relacionadas con la contratación de la reconstrucción en Pereira.
+
+Si alguna de estas solicitudes no es de su competencia, les pido darle traslado a la entidad competente, como lo ordena el artículo 21 de la Ley 1755 de 2015.
+
+Recibo respuesta en: ${v('fCorreo')} · Teléfono: ${v('fTel')}
+
+Atentamente,
+
+${v('fNombre')}
+C.C. ${v('fCedula')}`;
+}
+function pintarCarta(){ $('carta').value=carta(); $('destinos').textContent=DEST.map(d=>d[1]).join(', '); }
+['fNombre','fCedula','fCiudad','fCorreo','fTel'].forEach(id=>$(id).addEventListener('input',pintarCarta));
+$('enviar').onclick=()=>{location.href='mailto:'+DEST.map(d=>d[1]).join(',')+'?subject='+encodeURIComponent('Derecho de petición — soportes de los desmentidos de la Vocería de la Presidencia')+'&body='+encodeURIComponent($('carta').value)};
+$('copiar').onclick=()=>{navigator.clipboard.writeText($('carta').value).then(()=>aviso(T[L].copiado))};
+$('whats').onclick=()=>window.open('https://wa.me/?text='+encodeURIComponent((L==='es'?'Exijamos los soportes de los desmentidos de la Presidencia. Envíe su derecho de petición aquí: ':'Let\'s demand the evidence behind the Presidency\'s rebuttals: ')+'https://infopresidencia-al-dia.netlify.app/#peticion'));
+// Eventos
+$('actualizar').onclick=async()=>{await cargar(); await buscarRed($('q').value); aviso(T[L].listo)};
+$('idioma').onclick=()=>{L=L==='es'?'en':'es';localStorage.setItem('lang',L);textos();pintarCasos();pintarHoy();pintarVivo()};
+$('q').addEventListener('input',pintarVivo);
+$('q').addEventListener('keydown',e=>{if(e.key==='Enter')buscarRed($('q').value)});
+$('buscarRed').onclick=()=>buscarRed($('q').value);
+$('chips').onclick=e=>{if(e.target.dataset.f!==undefined){filtro=e.target.dataset.f;pintarVivo()}};
+// Portada con fotos reales que rotan
+let fi=0; const hf=$('heroFoto'); hf.style.backgroundImage=`url('${FOTOS[0]}')`;
+setInterval(()=>{fi=(fi+1)%FOTOS.length;hf.style.backgroundImage=`url('${FOTOS[fi]}')`},11000);
+// "Hoy" se actualiza cada vez que entra a la app
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)cargar()});
+setInterval(cargar,5*60*1000);
+textos(); pintarCarta(); cargar().then(()=>buscarRed());
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
+</script>
+</body>
+</html>

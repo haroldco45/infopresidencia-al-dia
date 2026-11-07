@@ -1,0 +1,76 @@
+{
+  "actualizado": "2026-11-07T04:45:00-05:00",
+  "espacio": {
+    "es": "La Vocería de la Presidencia inauguró en noviembre de 2026 un espacio (cuenta @infopresidencia) para \"contrastar falsedades y acusaciones sin fundamento\". Aquí ponemos cada desmentido al lado de lo que dicen la prensa, los críticos y los datos públicos, para que usted saque sus propias conclusiones.",
+    "en": "In November 2026 the Presidential Spokesperson's Office launched a segment (@infopresidencia) to \"counter falsehoods and unfounded accusations\". Here each rebuttal sits next to what the press, critics and public records say, so you can draw your own conclusions."
+  },
+  "casos": [
+    {
+      "id": "tolemaida-planadas",
+      "entrega": 1,
+      "fecha": "2026-11-06",
+      "titulo": {
+        "es": "La visita a Tolemaida y el atentado en Planadas",
+        "en": "The Tolemaida visit and the Planadas attack"
+      },
+      "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_presidencial_de_Bogot%C3%A1.jpg?width=1200",
+      "presidencia": {
+        "es": "Dice que hubo una \"manipulación cronológica\": la visita del presidente a Tolemaida fue la mañana del 31 de octubre y el atentado en Planadas ocurrió la noche del día siguiente, así que no se puede decir que el presidente estaba en un simulacro mientras ocurría el ataque.",
+        "en": "Says there was a \"chronological manipulation\": the president's Tolemaida visit was on the morning of October 31 and the Planadas attack happened the following night, so it is false that he was at a drill while the attack took place."
+      },
+      "otros": {
+        "es": "Varios medios y dirigentes de oposición, entre ellos Claudia López, criticaron que el video del presidente manipulando un fusil y un revólver en un simulacro de rescate circulara el mismo día del atentado. Algunos portales fecharon el simulacro el domingo 1 de noviembre.",
+        "en": "Several outlets and opposition figures, including Claudia López, criticized that the video of the president handling a rifle and a revolver at a rescue drill circulated on the same day as the attack. Some sites dated the drill Sunday, November 1."
+      },
+      "verificado": {
+        "es": "Infobae reportó que el presidente estuvo en Tolemaida la tarde del sábado 31 de octubre, en la presentación de los drones MQ-9 Reaper. El atentado con volqueta bomba y drones en Planadas fue hacia las 9:45 p. m. del domingo 1 de noviembre: 4 muertos, entre ellos una bebé de dos meses, y unos 17 heridos.",
+        "en": "Infobae reported the president was at Tolemaida on the afternoon of Saturday, October 31, for the MQ-9 Reaper drone presentation. The truck-bomb and drone attack in Planadas happened around 9:45 p.m. on Sunday, November 1: 4 dead, including a two-month-old baby, and about 17 injured."
+      },
+      "pendiente": {
+        "es": "Falta saber la fecha y hora exactas en que se publicó el video en X. La Presidencia dice \"mañana\" del 31; la prensa habla de \"tarde\". Aunque la grabación fuera del 31, la crítica de fondo era la publicación del video el mismo día del ataque.",
+        "en": "Still missing: the exact date and time the video was posted on X. The Presidency says \"morning\" of the 31st; the press says \"afternoon\". Even if it was recorded on the 31st, the core criticism was posting it the day of the attack."
+      },
+      "estado": "parcial",
+      "fuentes": [
+        {"t": "Infobae — drones MQ-9 en Tolemaida (31 oct)", "u": "https://www.infobae.com/colombia/2026/11/01/estados-unidos-presento-en-el-aire-los-tres-drones-mq-9-reaper-para-apoyar-operaciones-contra-grupos-armados-en-colombia-en-tolemaida/"},
+        {"t": "Infobae — críticas al video de Tolemaida", "u": "https://www.infobae.com/colombia/2026/11/02/abelardo-de-la-espriella-mostro-que-es-bueno-con-las-armas-y-fue-criticado-asi-quedo-en-video-durante-simulacro-de-rescate-de-rehen-en-tolemaida/"},
+        {"t": "Chicanoticias — críticas de Claudia López", "u": "https://www.chicanoticias.com/2026/11/02/presidente-jugaba-claudia-lopez/"},
+        {"t": "La Veintitrés — fecha el simulacro el 1 de noviembre", "u": "https://laveintitres.com/presidente-manipul-armas-en-tolemaida-mientras-atentado-en-planadas-dejaba-4-muertos/"},
+        {"t": "Diario del Sur — hora del atentado", "u": "https://www.diariodelsur.com.co/noticias/atentado-con-explosivos-en-planadas-deja-cuatro-muertos-y-viviendas-destruidas"},
+        {"t": "El Tiempo — balance del atentado", "u": "https://www.eltiempo.com/colombia/otras-ciudades/declaran-alerta-roja-hospitalaria-en-planadas-blanco-de-ataque-terrorista-donde-murieron-cuatro-civiles-entre-ellos-a-una-bebe-de-dos-meses-3598003"}
+      ]
+    },
+    {
+      "id": "comisiones-pereira",
+      "entrega": 1,
+      "fecha": "2026-11-06",
+      "titulo": {
+        "es": "Supuestas comisiones del 5 % en la reconstrucción de Pereira",
+        "en": "Alleged 5% kickbacks in Pereira's reconstruction"
+      },
+      "foto": "https://commons.wikimedia.org/wiki/Special:FilePath/Costado2_Casa_de_Nari%C3%B1o.jpg?width=1200",
+      "presidencia": {
+        "es": "Rechaza como \"calumnia sin pruebas\" que se le atribuya al vicepresidente José Manuel Restrepo, al ministro de Hacienda Miguel Gómez y a otros funcionarios exigir comisiones del 5 % en contratos de reconstrucción en Pereira.",
+        "en": "Rejects as \"slander without evidence\" the claim that Vice President José Manuel Restrepo, Finance Minister Miguel Gómez and other officials demanded 5% kickbacks on reconstruction contracts in Pereira."
+      },
+      "otros": {
+        "es": "Al 7 de noviembre no encontramos en medios nacionales la publicación original de esa acusación ni quién la hizo; parece haber circulado en redes. Si usted la tiene, compártala con la fuente.",
+        "en": "As of November 7 we have not found the original accusation in national media or who made it; it appears to have circulated on social media. If you have it, share it with its source."
+      },
+      "verificado": {
+        "es": "Transparencia por Colombia halló que de 768 contratos de la emergencia registrados en SECOP, el 82 % fue por contratación directa y solo 5 eran del nivel nacional; la Alcaldía de Pereira es la que más contratos tiene. La Silla Vacía reportó molestia de damnificados y poca claridad sobre el Fondo Milagro.",
+        "en": "Transparencia por Colombia found that of 768 emergency contracts in SECOP, 82% were direct awards and only 5 were national-level; Pereira's mayor's office holds the most. La Silla Vacía reported victims' frustration and little clarity on the Fondo Milagro."
+      },
+      "pendiente": {
+        "es": "¿Quién hizo la acusación y con qué pruebas? ¿La Presidencia presentó denuncia formal por calumnia? ¿Dónde se puede ver, contrato por contrato, la plata del Fondo Milagro?",
+        "en": "Who made the accusation and with what evidence? Did the Presidency file a formal slander complaint? Where can the public see Fondo Milagro spending, contract by contract?"
+      },
+      "estado": "sin-prueba",
+      "fuentes": [
+        {"t": "El Nuevo Siglo — Transparencia por Colombia", "u": "https://www.elnuevosiglo.com.co/entrevista/alcaldia-de-pereira-puntea-contratacion-de-fondo-de-reconstruccion-hernandez"},
+        {"t": "La Silla Vacía — opacidad del Fondo Milagro", "u": "https://www.lasillavacia.com/silla-nacional/crece-la-molestia-con-la-reconstruccion-y-la-opacidad-del-fondo-milagro/"},
+        {"t": "SECOP II — consulte los contratos", "u": "https://community.secop.gov.co/"}
+      ]
+    }
+  ]
+}

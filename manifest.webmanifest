@@ -1,0 +1,12 @@
+{
+  "name": "InfoPresidencia al Día — Vibras Positivas HM",
+  "short_name": "InfoPresidencia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "og.jpg", "sizes": "1200x800", "type": "image/jpeg" }
+  ]
+}
