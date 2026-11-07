@@ -13,11 +13,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Imágenes con foto real (vista previa y flyers)
+        run: |
+          if [ ! -f og.jpg ] || [ ! -f flyer.jpg ]; then
+            npm install --no-save sharp && rm -f og.jpg && node scripts/hacer-imagenes.mjs
+          fi
       - run: node scripts/robot-noticias.mjs
       - name: Guardar cambios
         run: |
           git config user.name "robot-vibras"
           git config user.email "robot@users.noreply.github.com"
-          git add data/noticias.json og.jpg || true
+          git add data/noticias.json og.jpg flyer.jpg flyer-historia.jpg || true
           git diff --cached --quiet || git commit -m "Noticias al día $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
           git push

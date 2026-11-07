@@ -7,6 +7,6 @@
   "theme_color": "#0b1020",
   "lang": "es-CO",
   "icons": [
-    { "src": "og.jpg", "sizes": "1200x800", "type": "image/jpeg" }
+    { "src": "og.jpg", "sizes": "1200x630", "type": "image/jpeg" }
   ]
 }
