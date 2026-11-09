@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T22:22:30.667Z",
+  "actualizado": "2026-11-09T01:51:48.519Z",
   "total": 80,
   "noticias": [
     {
@@ -71,7 +71,7 @@
       "link": "https://www.infobae.com/colombia/2026/11/07/gobierno-denuncio-manipulacion-cronologica-de-la-visita-de-abelardo-de-la-espriella-a-tolemaida-y-el-atentado-en-planadas-fabricar-una-noticia-para-cazar-likes/",
       "medio": "Infobae",
       "fecha": "2026-11-07T08:16:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.x6AfEpD2W_wvGrKAdkrFIA&pid=News",
+      "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -81,7 +81,7 @@
       "medio": "Infobae",
       "fecha": "2026-11-07T07:33:00.000Z",
       "imagen": "",
-      "tema": "infopresidencia"
+      "tema": "Tolemaida Planadas presidente"
     },
     {
       "titulo": "¡MARCO RUBIO ROMPE EL SILENCIO! DESMIENTE QUE VAYA A RENUNCIAR AL GOBIERNO DE DONALD TRUMP - América TeVé",
@@ -242,7 +242,7 @@
       "link": "https://caracol.com.co/2026/11/05/reconstruccion-de-pereira-y-risaralda-podria-tardar-hasta-ocho-anos-por-demoras-con-las-aseguradoras/",
       "medio": "Caracol Radio",
       "fecha": "2026-11-05T02:44:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.KCjCmtS6xszE7lyC2XyqAg&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.-4dZ9Yctk0wyf2aP3yBZdQ&pid=News",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -494,7 +494,7 @@
       "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-reacciona-al-terrorismo-en-tolima-huila-y-cauca-no-vamos-a-retroceder-ni-un-milimetro/202658/",
       "medio": "Semana",
       "fecha": "2026-11-02T06:59:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
+      "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -633,6 +633,15 @@
       "tema": "comisiones reconstrucción Pereira"
     },
     {
+      "titulo": "Denuncian supuesto caso de 'falso positivo' en operaci&#243;n anunciada por Abelardo de la Espriella en Meta: \"Que mate sin investigar qui&#233;nes son\"",
+      "resumen": "La joven Yasm&#237;n Rodr&#237;guez, de 22 a&#241;os, falleci&#243; el 17 de octubre en la finca Rancho Grande, en Puerto Rico, Meta, durante una acci&#243;n de tropas que dej&#243; tres detenidos y material b&#233;lico incautado ...",
+      "link": "https://www.infobae.com/colombia/2026/10/25/denuncian-supuesto-caso-de-falso-positivo-en-operacion-anunciada-por-abelardo-de-la-espriella-en-meta-que-mate-sin-investigar-quienes-son/",
+      "medio": "Infobae",
+      "fecha": "2026-10-25T10:34:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
       "titulo": "Juliana Guerrero se mete en nuevo l&#237;o tras condena por t&#237;tulos falsos: Gobierno De La Espriella toma contundente decisi&#243;n",
       "resumen": "John Milton Rodr&#237;guez, liquidador del Ministerio de la Igualdad, anuncia medida en contra de Juliana Guerrero y su hermana Ver&#243;nica.",
       "link": "https://redmas.com.co/colombia/juliana-guerrero-se-mete-en-nuevo-lio-tras-condena-por-titulos-falsos-gobierno-de-la-espriella-toma-contundente-decision-20261024-0002.html",
@@ -712,15 +721,6 @@
       "fecha": "2026-10-15T12:00:00.000Z",
       "imagen": "",
       "tema": "comisiones reconstrucción Pereira"
-    },
-    {
-      "titulo": "Exedec&#225;n de Ver&#243;nica Alcocer denunci&#243; a Eva Ferrer por calumnia: la se&#241;al&#243; de participar en varios delitos",
-      "resumen": "El escrito presentado por el abogado Nicol&#225;s Felipe Ni&#241;o Mej&#237;a sostiene que Eva Ferrer atribuy&#243; falsamente a su representada complicidad con la exprimera dama, Ver&#243;nica Alcocer, en hechos delictivos ...",
-      "link": "https://www.infobae.com/colombia/2026/10/14/exedecan-de-veronica-alcocer-denuncio-a-eva-ferrer-por-calumnia-la-vinculo-a-varios-delitos/",
-      "medio": "Infobae",
-      "fecha": "2026-10-14T08:16:00.000Z",
-      "imagen": "",
-      "tema": "Presidencia rechaza calumnia"
     }
   ]
 }
