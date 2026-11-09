@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-09T01:51:48.519Z",
+  "actualizado": "2026-11-09T09:28:03.303Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Cuentas del Fondo Milagro: Miller Soto habl&#243; de las inversiones",
+      "resumen": "Miller Soto detalla los esfuerzos del gobierno colombiano para la reconstrucci&#243;n tras el terremoto del 10 de agosto (@infopresidencia/X) ...",
+      "link": "https://www.infobae.com/video/politica/cuentas-del-fondo-milagro-miller-soto-hablo-de-las-inversiones/7dqMpmVK/",
+      "medio": "Infobae",
+      "fecha": "2026-11-08T18:09:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
     {
       "titulo": "Zelensky sigue vivo: la Presidencia de Ucrania desmiente la noticia de su muerte - Mix Vale",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXJlR1pjQS1jRHZiRHBmUmg0dHZhMk1tY1ZaSE1IOGhNMUEtNnpuZHdNZXVhcUFWcV9LTlFURkJHLV9WV3JwdHVIbHA2VFZTUFBzaHFfVC1uY1lEUkVrRnh6amZibnBmNDN4R3BkcVJ4N0Z6LUc0S1lHM0VLS1pfV3cxRHByRHhEU2syUmJKV2NTVXltWmg2aTlBUz",
@@ -71,7 +80,7 @@
       "link": "https://www.infobae.com/colombia/2026/11/07/gobierno-denuncio-manipulacion-cronologica-de-la-visita-de-abelardo-de-la-espriella-a-tolemaida-y-el-atentado-en-planadas-fabricar-una-noticia-para-cazar-likes/",
       "medio": "Infobae",
       "fecha": "2026-11-07T08:16:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.x6AfEpD2W_wvGrKAdkrFIA&pid=News",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -81,7 +90,7 @@
       "medio": "Infobae",
       "fecha": "2026-11-07T07:33:00.000Z",
       "imagen": "",
-      "tema": "Tolemaida Planadas presidente"
+      "tema": "infopresidencia"
     },
     {
       "titulo": "¡MARCO RUBIO ROMPE EL SILENCIO! DESMIENTE QUE VAYA A RENUNCIAR AL GOBIERNO DE DONALD TRUMP - América TeVé",
@@ -242,7 +251,7 @@
       "link": "https://caracol.com.co/2026/11/05/reconstruccion-de-pereira-y-risaralda-podria-tardar-hasta-ocho-anos-por-demoras-con-las-aseguradoras/",
       "medio": "Caracol Radio",
       "fecha": "2026-11-05T02:44:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.-4dZ9Yctk0wyf2aP3yBZdQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.KCjCmtS6xszE7lyC2XyqAg&pid=News",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -494,7 +503,7 @@
       "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-reacciona-al-terrorismo-en-tolima-huila-y-cauca-no-vamos-a-retroceder-ni-un-milimetro/202658/",
       "medio": "Semana",
       "fecha": "2026-11-02T06:59:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -595,6 +604,15 @@
       "fecha": "2026-10-29T09:08:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.HrZiCE7WXdKbrTqnOed9yQ&pid=News",
       "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "“Las noticias falsas est&#225;n generando hostilidad y odio”: Registrador tras amenazas de muerte",
+      "resumen": "Penagos dijo que las noticias falsas generan “hostilidad y odio”. Habl&#243; de las amenazas en su contra y de las regionales de 2027.",
+      "link": "https://www.msn.com/es-co/noticias/politica/las-noticias-falsas-est%C3%A1n-generando-hostilidad-y-odio-registrador-tras-amenazas-de-muerte/ar-AA2gfRmU",
+      "medio": "El Espectador on MSN",
+      "fecha": "2026-10-28T09:47:20.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.sfwNPv3oEklBr2cs_Gb3-w&pid=News",
+      "tema": "De la Espriella noticias falsas"
     },
     {
       "titulo": "Pereira reunir&#225; a m&#225;s de 100 personeros y autoridades para exigir avances en la reconstrucci&#243;n",
@@ -703,24 +721,6 @@
       "fecha": "2026-10-19T07:00:00.000Z",
       "imagen": "",
       "tema": "Vocería Presidencia desmiente"
-    },
-    {
-      "titulo": "Trump despide a Katie Zacharia como vocera de la Casa Blanca, según NYT - La Razón de México",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUNfa3owcmVJX0QxZUVSWmVxbXh4WVhfYW45V1BSV1JmbG8xZERhN3h3TVV1Tm9sWkZINzJoUzJkclByMzFvYUN2b0NhUW1SU21ONjRmN2ZZZC1rbGVWaEtndVVTOWo3dXNJcTZ1V1ljNlZIZ3JVeGR4bFVpbXZBVVdFU3RqSzBFWXMwRnNZZkhQZndKTlRnLURvT2",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUNfa3owcmVJX0QxZUVSWmVxbXh4WVhfYW45V1BSV1JmbG8xZERhN3h3TVV1Tm9sWkZINzJoUzJkclByMzFvYUN2b0NhUW1SU21ONjRmN2ZZZC1rbGVWaEtndVVTOWo3dXNJcTZ1V1ljNlZIZ3JVeGR4bFVpbXZBVVdFU3RqSzBFWXMwRnNZZkhQZndKTlRnLURvT2FlUG1tUE9LMWI1RXlwRWhuQlpMVndCQdIBzgFBVV95cUxOY3pTWFRFLVdCZzlZS0U4c1FhdlMzSVZkd1o1Snk4QUo3S1lJaXVwTEtXcmNYdC1wdWpfMm9VUW9nTkxXVHhOV01uWVZ6MlJYaVhyb2RlTFJLV18td1RmTUxZaHVFT0dCWTVOZnlreFQtV1NTR25VUzFLOXJ0S3BPaWdLQnZ6Rk5oUGZoX3U2VnFiczJ3RlZSTlB1Sm1HLUw3VEhvdWIzT0FSR0tRa1dwSExrQkhvZ3dkUU8xUE1kMFllYzcxSEQ4bHpTcFQydw?oc=5",
-      "medio": "La Razón de México",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Vocería Presidencia desmiente"
-    },
-    {
-      "titulo": "Crece la molestia con la reconstrucción y la opacidad del Fondo Milagro",
-      "resumen": "Damnificados de Pereira y Quibdó reclaman un plan concreto.",
-      "link": "https://www.lasillavacia.com/silla-nacional/crece-la-molestia-con-la-reconstruccion-y-la-opacidad-del-fondo-milagro/",
-      "medio": "La Silla Vacía",
-      "fecha": "2026-10-15T12:00:00.000Z",
-      "imagen": "",
-      "tema": "comisiones reconstrucción Pereira"
     }
   ]
 }
