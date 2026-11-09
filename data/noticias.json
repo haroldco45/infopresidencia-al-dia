@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T09:28:03.303Z",
+  "actualizado": "2026-11-09T19:59:30.156Z",
   "total": 80,
   "noticias": [
     {
@@ -390,6 +390,15 @@
       "tema": "Tolemaida Planadas presidente"
     },
     {
+      "titulo": "Andy López Beltrán niega nexos con huachicol fiscal y tráfico de influencias; acusa calumnias - Grupo Animal",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1RvakFzTnZneThRMmhrYXJ6LWlVQU1DTXRuaE96RHF3YW1xbnlUQ0VOQzBFRFFUcWpBWnJQT0dsSlRlaDlkMG9UZzJiamVPR081S3VYSmVZU1RDZXRHaHhsUmo5QzFtT2Q5MEZTTi1HWUtBMTFRcjZYS3JjczMtZ2RLZmZKclZDbGZOUjNKVzc?oc=5\" target=\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1RvakFzTnZneThRMmhrYXJ6LWlVQU1DTXRuaE96RHF3YW1xbnlUQ0VOQzBFRFFUcWpBWnJQT0dsSlRlaDlkMG9UZzJiamVPR081S3VYSmVZU1RDZXRHaHhsUmo5QzFtT2Q5MEZTTi1HWUtBMTFRcjZYS3JjczMtZ2RLZmZKclZDbGZOUjNKVzc?oc=5",
+      "medio": "Grupo Animal",
+      "fecha": "2026-11-03T15:35:46.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
       "titulo": "Carrillo cuestiona la estrategia de seguridad de De la Espriella tras atentado en Planadas - La Otra Verdad",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2NKSnY5aFlleE1SMEF5ZWR4LXhtOG10S1lBQVVEUnFkZjNnZ091NTFnYUNpM3Y0NXBjMGt2bDA4dWI3X1A0ei1BZ3M3ZXNjeFVpQzY3N0wwNWdMNHJlb3RoVGpWQnpZRWtUQ29qcnd5UUFPVU03YURvWllMRlg0ZUl6WnJPdVhoUGVMREliODU3clRPaWFMeFM1eE",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2NKSnY5aFlleE1SMEF5ZWR4LXhtOG10S1lBQVVEUnFkZjNnZ091NTFnYUNpM3Y0NXBjMGt2bDA4dWI3X1A0ei1BZ3M3ZXNjeFVpQzY3N0wwNWdMNHJlb3RoVGpWQnpZRWtUQ29qcnd5UUFPVU03YURvWllMRlg0ZUl6WnJPdVhoUGVMREliODU3clRPaWFMeFM1eEhBTTJtMkk5aEJkNUlVVFR6TUh3N01nUTU1dw?oc=5",
@@ -503,7 +512,7 @@
       "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-reacciona-al-terrorismo-en-tolima-huila-y-cauca-no-vamos-a-retroceder-ni-un-milimetro/202658/",
       "medio": "Semana",
       "fecha": "2026-11-02T06:59:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
+      "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -712,15 +721,6 @@
       "fecha": "2026-10-19T13:37:00.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Vocero de Honor Colorado desmiente crisis de salud de Cartes - https://www.latribuna.com.py/",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNJQmVvakNKT2J0QzZyQnlZZGNVeURCNTFoeXdBQ2NwMUE2emZ2R3g4Ri1KeUgzLWxyS0F2NlBZTG9GRWJkcDIwQ0VhTnFFQlR3Z1RzZjJGYUxwM3h2ejF5Yk83bnNLTWRhM3ZYWlJiWlFjYmswYnlhUEJFWG9ZMVpvbWIwZG1wcWptY19OMnFkMXVTb1IyU3RMRG",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNJQmVvakNKT2J0QzZyQnlZZGNVeURCNTFoeXdBQ2NwMUE2emZ2R3g4Ri1KeUgzLWxyS0F2NlBZTG9GRWJkcDIwQ0VhTnFFQlR3Z1RzZjJGYUxwM3h2ejF5Yk83bnNLTWRhM3ZYWlJiWlFjYmswYnlhUEJFWG9ZMVpvbWIwZG1wcWptY19OMnFkMXVTb1IyU3RMRGZWTnJUcGYtSU55VXY2dlQxaGJv?oc=5",
-      "medio": "https://www.latribuna.com.py/",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Vocería Presidencia desmiente"
     }
   ]
 }
