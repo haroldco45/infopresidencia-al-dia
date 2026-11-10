@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-11-09T19:59:30.156Z",
+  "actualizado": "2026-11-10T02:40:00.720Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Alcaldía de Soledad pidió apoyo logístico y tecnológico a Presidencia para buscar a la pequeña Zoe - Zona Cero",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3QwQXJxMUQ0MUtvUUdXZFctSHZXNlBBYUIyQ2xQcHdOc1BSMDlFQXJJcEZjV2Nib05TV0kzX1dNVEdaRVV2UUFfTFdpUjdVZVVZVHBRWTQ0OHFmUEdITGljQkMybDk0YkszQ2NUQ3h4MXdJS1o2aWE2Nk83QXdsaGdZVGFDeExYbmZkRFVVVmVLYUtoWmxNS2x1Sl",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3QwQXJxMUQ0MUtvUUdXZFctSHZXNlBBYUIyQ2xQcHdOc1BSMDlFQXJJcEZjV2Nib05TV0kzX1dNVEdaRVV2UUFfTFdpUjdVZVVZVHBRWTQ0OHFmUEdITGljQkMybDk0YkszQ2NUQ3h4MXdJS1o2aWE2Nk83QXdsaGdZVGFDeExYbmZkRFVVVmVLYUtoWmxNS2x1SlVucjhZTS1HYlNHaXloZDhMYnhGXzBsbmQ?oc=5",
+      "medio": "Zona Cero",
+      "fecha": "2026-11-09T19:02:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
+    },
+    {
+      "titulo": "China rechaza como «pura invención y calumnia» el caso de la supuesta espía china vinculada a Nvidia - upday News",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdmo4WEdXd2dXOTBZZ3BjUFJYN1REd3RXaXBNSDJsbjI0X3NnT1lWVVBlN00zbkdOMnBzcllzLTUtMDUyS3ZoaTNrYWI4Z2dJdFNtVFdCcHJSaDNrcDY3SjBjYjBBLWdET1o1OUJDODhycWduQ2pualBGczczcG1TbnljOVpUMGtnaGxlam5IUXRBUk90TnVzNHhSdD",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdmo4WEdXd2dXOTBZZ3BjUFJYN1REd3RXaXBNSDJsbjI0X3NnT1lWVVBlN00zbkdOMnBzcllzLTUtMDUyS3ZoaTNrYWI4Z2dJdFNtVFdCcHJSaDNrcDY3SjBjYjBBLWdET1o1OUJDODhycWduQ2pualBGczczcG1TbnljOVpUMGtnaGxlam5IUXRBUk90TnVzNHhSdDZnSmVxYWx1aV9FdXZ6dWVDcmNlMEtCSzdsczA4ZTdnX1ZPd3Q?oc=5",
+      "medio": "upday News",
+      "fecha": "2026-11-09T16:17:30.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
+      "titulo": "Gobierno De la Espriella pide investigar presuntas irregularidades en DNI: Pacto responde",
+      "resumen": "Tras presuntas irregularidades en DNI del gobierno de Petro, el vicepresidente Restrepo pide investigar y el Pacto Hist&#243;rico se&#241;ala ataque.",
+      "link": "https://www.elespectador.com/politica/gobierno-de-la-espriella-pide-investigar-presuntas-irregularidades-en-dni-pacto-responde/",
+      "medio": "El Espectador",
+      "fecha": "2026-11-09T09:29:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.rLaIWvJUUF33km5vdHyU4w&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Deja muchas dudas y preocupaciones de fondo: gobierno De La Espriella por presuntas irregularidades en la DNI durante la administraci&#243;n Petro",
+      "resumen": "El vicepresidente Jos&#233; Manuel Restrepo se pronunci&#243; por documentos que revelar&#237;an planes de espionaje a expresidentes e interferencia electoral.",
+      "link": "https://www.msn.com/es-co/noticias/other/deja-muchas-dudas-y-preocupaciones-de-fondo-gobierno-de-la-espriella-por-presuntas-irregularidades-en-la-dni-durante-la-administraciÃ³n-petro/ar-AA2h47jN",
+      "medio": "El Tiempo on MSN",
+      "fecha": "2026-11-09T04:43:43.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.WrIdB7uIazXuH9iBW6yMQA&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
     {
       "titulo": "Cuentas del Fondo Milagro: Miller Soto habl&#243; de las inversiones",
       "resumen": "Miller Soto detalla los esfuerzos del gobierno colombiano para la reconstrucci&#243;n tras el terremoto del 10 de agosto (@infopresidencia/X) ...",
@@ -111,6 +147,15 @@
       "tema": "Presidencia desmiente noticia falsa"
     },
     {
+      "titulo": "‘Se acabó la falsa paz’: presidente Abelardo De La Espriella sentenció el fin de la ‘paz total’ tras sancionar la ley de sometimiento - La Linterna Azul",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQX293VHRPMXZQZVBHb0VJcElZcGllZGVfWHMybHZkRVB2SF9NLTFtQXh1MUhqOWJYMkVUNU83VVZHVlRBRXJXZkl1c0RqV2dNcHF1S1JNbVlfLUlIc0ZicFFBb3BqVzlydUQ2Nm92YW9VeTlORzdUSS1xSkhZZ2dJbXBvS3JfcVowdmtOekstRElkZUcybk9yVHViNF",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX293VHRPMXZQZVBHb0VJcElZcGllZGVfWHMybHZkRVB2SF9NLTFtQXh1MUhqOWJYMkVUNU83VVZHVlRBRXJXZkl1c0RqV2dNcHF1S1JNbVlfLUlIc0ZicFFBb3BqVzlydUQ2Nm92YW9VeTlORzdUSS1xSkhZZ2dJbXBvS3JfcVowdmtOekstRElkZUcybk9yVHViNFJJdEZGTXJSc1lTSGlCbDJIdXhReGxTSVdmWUpMdzc4cVNMd3FKaFpkUHc?oc=5",
+      "medio": "La Linterna Azul",
+      "fecha": "2026-11-06T05:15:31.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
       "titulo": "Marco Rubio desmiente que est&#233; planeando renunciar al Gobierno para ser candidato presidencial",
       "resumen": "El secretario de Estado Marco Rubio desminti&#243; que planee dejar el cargo tras la derrota de los republicanos en las legislativas de mitad de mandato en Estados Unidos, seg&#250;n dijo en una entrevista con ...",
       "link": "https://www.emol.com/noticias/Internacional/2026/11/06/1216312/marco-rubio-rumores-renuncia-elecciones.html",
@@ -172,15 +217,6 @@
       "fecha": "2026-11-05T18:00:00.000Z",
       "imagen": "",
       "tema": "Vicepresidencia"
-    },
-    {
-      "titulo": "'Se acabó la falsa paz': presidente Abelardo De La Espriella sentenció el fin de la 'paz total' tras sancionar la ley de sometimiento - El Tiempo",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPVHQ0S1Z3cS1IbTI5cVFQcU45VEdkOXJVT2QxWkxST1FYU2ZycFg1TkFvNXhDUFNUYVNzOFA2WUJJS0VrTzBFc1pfekxEYnlXM1VZQUhFNXdIcGNlUGxDRUh4MEFIbk1uRzd0YWQ1dFd5TmtNekhvSEhwTFJucVdYWlE5Z0drbnJ4aS16MzJpeFRZenM0X21pOWptQ3",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVHQ0S1Z3cS1IbTI5cVFQcU45VEdkOXJVT2QxWkxST1FYU2ZycFg1TkFvNXhDUFNUYVNzOFA2WUJJS0VrTzBFc1pfekxEYnlXM1VZQUhFNXdIcGNlUGxDRUh4MEFIbk1uRzd0YWQ1dFd5TmtNekhvSEhwTFJucVdYWlE5Z0drbnJ4aS16MzJpeFRZenM0X21pOWptQ3k5RGYyblV3akV3RU45SjU0VUtkMWFmOVY5WHowb013NnFTMExqcGtfa1Jzek9iRzM2NVpmR1FQVDRncVk5aDlvUVdsRlFGN1R2T3NBZTdxN0VHQ2pUelJYYVRRSG5VYnIyRkZRSDdwT0dEeVB0amJVZURsV3Z4Y3hzd3p0OU8xTXR4QUrSAaYCQVVfeXFMTlRRdUZFWTZickVrVEhtT0VsV3ZkQzlhNmFLM1NUWUItc254SkpwQUZSeDVoaG1fWlNCQVN0UG1jY3dBRUE5ZEZtci0xNWlLZDZlTk1udUxiTUdyaUp0ZzQxbm5jeTJoSTNoTndCbGlBamFaTDVXUGxZX1E5X1B3MElYUG1Kazdqa01LbXViT3pfMFhEVFp4VzljOE9yU2EwZDhsTXkwOWdvZTAzSXZVT0w1dTFrYlEzbV8tMml3ZXFsQmI2bVlVeDJEMWEzT0FPT1F3UzVFQjdCd3ljLVlhaldDSWNDTXZsMmp6clNtamlNM3Rtd1d3NXZFVDRERkI2MFdTQ3pUbDMydjBHRi1WaGVzbWNxSmZGSDhsYkRwMjN1WkhveWpn?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-11-05T17:38:29.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
     },
     {
       "titulo": "Departamento de Estado desmiente que Marco Rubio planee renunciar para lanzar su candidatura presidencial en 2028 - AlbertoNews",
@@ -512,7 +548,7 @@
       "link": "https://www.semana.com/nacion/articulo/presidente-abelardo-de-la-espriella-reacciona-al-terrorismo-en-tolima-huila-y-cauca-no-vamos-a-retroceder-ni-un-milimetro/202658/",
       "medio": "Semana",
       "fecha": "2026-11-02T06:59:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -674,7 +710,7 @@
       "link": "https://redmas.com.co/colombia/juliana-guerrero-se-mete-en-nuevo-lio-tras-condena-por-titulos-falsos-gobierno-de-la-espriella-toma-contundente-decision-20261024-0002.html",
       "medio": "Red+ Noticias",
       "fecha": "2026-10-24T07:23:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.3RiV6CffxPG-T0U6x_cy6g&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -685,42 +721,6 @@
       "fecha": "2026-10-23T14:29:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.EQR1OC0ZKTPFjzwq5FhkiA&pid=News",
       "tema": "Detector de mentiras Presidencia Colombia"
-    },
-    {
-      "titulo": "Claudia L&#243;pez arremeti&#243; contra De la Espriella por visita a Pereira: “El imb&#233;cil cree que est&#225; en una celebraci&#243;n”",
-      "resumen": "La visita del presidente Abelardo de la Espriella a Pereira, una de las ciudades afectadas por el terremoto del pasado 10 de agosto, desat&#243; una nueva controversia pol&#237;tica. Esta vez, la protagonista ...",
-      "link": "https://www.msn.com/es-co/noticias/otras/claudia-l%C3%B3pez-arremeti%C3%B3-contra-de-la-espriella-por-visita-a-pereira-el-imb%C3%A9cil-cree-que-est%C3%A1-en-una-celebraci%C3%B3n/ar-AA2fUDpB",
-      "medio": "MSN",
-      "fecha": "2026-10-23T05:31:00.000Z",
-      "imagen": "",
-      "tema": "comisiones reconstrucción Pereira"
-    },
-    {
-      "titulo": "“Insultos y calumnias”: España rechaza críticas de Milei contra Sánchez en polémica visita a Madrid - TRT Español",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OeVBSYlJ5ODRKdG5raWRfUVNHRHgzbG53Z0M0a195VmlyQXlDOWxJWnVNV0dKdjhHelVrZU52a2ozWmh3ZUJ4U0xkOS1BLVpIRjFGTWpuZVlxckU?oc=5\" target=\"_blank\">“Insultos y calumnias”: España rechaza críticas de Milei contra ",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OeVBSYlJ5ODRKdG5raWRfUVNHRHgzbG53Z0M0a195VmlyQXlDOWxJWnVNV0dKdjhHelVrZU52a2ozWmh3ZUJ4U0xkOS1BLVpIRjFGTWpuZVlxckU?oc=5",
-      "medio": "TRT Español",
-      "fecha": "2026-10-22T08:39:28.000Z",
-      "imagen": "",
-      "tema": "Presidencia rechaza calumnia"
-    },
-    {
-      "titulo": "Angie Rodr&#237;guez enfrenta denuncias por calumnia, injuria y presuntas irregularidades en el Dapre tras cr&#237;ticas a Gustavo Petro",
-      "resumen": "Angie Rodr&#237;guez enfrenta denuncias por calumnia y manejo irregular de fondos p&#250;blicos tras cr&#237;ticas a Gustavo Petro y el “Pacto de Valledupar”.",
-      "link": "https://www.pulzo.com/nacion/angie-rodriguez-enfrenta-denuncias-por-calumnia-y-peculado-tras-criticas-a-petro-en-colombia-PP5337330A",
-      "medio": "Pulzo",
-      "fecha": "2026-10-22T03:21:00.000Z",
-      "imagen": "",
-      "tema": "Presidencia rechaza calumnia"
-    },
-    {
-      "titulo": "Salvatore Mancuso denuncia que gobierno Petro le pidi&#243; acusaciones falsas contra De la Espriella",
-      "resumen": "El exjefe paramilitar Salvatore Mancuso realiz&#243; una grave denuncia p&#250;blica contra el gobierno de Gustavo Petro, asegurando que delegados gubernamentales ...",
-      "link": "https://www.ntn24.com/noticias-actualidad/salvatore-mancuso-denuncia-que-gobierno-petro-le-pidio-acusaciones-falsas-contra-de-la-espriella-659386",
-      "medio": "NTN24",
-      "fecha": "2026-10-19T13:37:00.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
     }
   ]
 }
