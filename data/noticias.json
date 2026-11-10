@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-11-10T18:32:32.599Z",
+  "actualizado": "2026-11-10T23:57:53.452Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "“Preocupa ver a un presidente pasearse entre cad&#225;veres y firmando bombas”: Santos sobre De la Espriella",
+      "resumen": "El expresidente defendi&#243; que la condici&#243;n para alcanzar la paz y tener seguridad es la aplicaci&#243;n correcta de la justicia.",
+      "link": "https://www.elpais.com.co/politica/preocupa-ver-a-un-presidente-pasearse-entre-cadaveres-y-firmando-bombas-santos-sobre-de-la-espriella-1038.html",
+      "medio": "Diario El Pa&#237;s",
+      "fecha": "2026-11-10T14:06:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Aplazan la implosi&#243;n del edificio Invico en Pereira por ajustes t&#233;cnicos",
+      "resumen": "La demolici&#243;n controlada estaba programada para el domingo 15 de noviembre, pero fue reprogramada para garantizar la protecci&#243;n de las redes de servicios ...",
+      "link": "https://www.eldiario.com.co/actualidad/aplazan-la-implosion-del-edificio-invico-en-pereira-por-ajustes-tecnicos/",
+      "medio": "El Diario",
+      "fecha": "2026-11-10T11:18:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.VRmqKh8dGOxaMCsXOuZX1w&pid=News",
+      "tema": "comisiones reconstrucción Pereira"
+    },
     {
       "titulo": "Estamos viendo a un presidente pasearse entre cad&#225;veres: Santos a De la Espriella",
       "resumen": "El expresidente Juan Manuel Santos se refiri&#243; al presidente De la Espriella y su estrategia de seguridad en el marco del Acuerdo de Paz.",
@@ -10,6 +28,15 @@
       "fecha": "2026-11-10T09:04:07.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Reconstrucci&#243;n no se ha iniciado, ni siquiera hay un bosquejo: personero de Pereira tras terremoto",
+      "resumen": "“La verdadera reconstrucci&#243;n requiere el tecnicismo y la especialidad que hoy no se ha visto en estos tres meses que llevamos del desastre”, asegur&#243; Leonardo Reales, personero de Pereira.",
+      "link": "https://caracol.com.co/2026/11/10/reconstruccion-no-se-ha-iniciado-ni-siquiera-hay-un-bosquejo-personero-de-pereira-tras-terremoto/",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-10T04:16:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.tKM-qjGlUb12I7oIyoBn6A&pid=News",
+      "tema": "comisiones reconstrucción Pereira"
     },
     {
       "titulo": "Alcaldía de Soledad pidió apoyo logístico y tecnológico a Presidencia para buscar a la pequeña Zoe - Zona Cero",
@@ -85,8 +112,8 @@
     },
     {
       "titulo": "Gobierno denunció “manipulación cronológica” de la visita de Abelardo de la Espriella a Tolemaida y el atentado en Planadas: \"Fabricar una noticia para cazar likes\" - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXZtSTlkVWNKMU5aLUFadS1YdTZXNmlyaTVoYkY3Qkh5bmxhbzd4V2sxbG1Qam9laU54V2ZYWUtfOXJ5SWs4QVZBUnluQXZYQlVWRW1CandldWtVNjRuQWpselhfemJYcXpCbHdVUTFPcXRhbXNSd2hhbFBPLWRYTDJ3ZU83TU1zUHJTTjl0N1lEX0NTM3dpazlWZj",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXZtSTlkVWNKMU5aLUFadS1YdTZXNmlyaTVoYkY3Qkh5bmxhbzd4V2sxbG1Qam9laU54V2ZYWUtfOXJ5SWs4QVZBUnluQXZYQlVWRW1CandldWtVNjRuQWpselhfemJYcXpCbHdVUTFPcXRhbXNSd2hhbFBPLWRYTDJ3ZU83TU1zUHJTTjl0N1lEX0NTM3dpazlWZjczdldYQzhwVGdZMjVxZFhCZ0JncG5wUGl3dkw5Rk9pcVdWbFNLMWdpVXpZMFg3eDdlek9hdW9wTHRVNktsMWJTTW5mcENHZXJsNzhZZGhITFl5WUxGajB6dm5ZRkZCTm5BSGU0MXZId0QzSThEaHdpeWpOcUFTMGQyWXRZalNYLTltMmhuSG41MXNJMDBwMmhSLVl2SUdCNnpVZkd0Rk5OdlI4OXpObEREQzDSAccCQVVfeXFMT2l2bUk5ZFVjSjFOWi1BWnUtWHU2VzZpcmk1aGJGN0JIeW5sYW83eFdrMWxtUGpvZWlOeFdmWFlLXzlyeUlrOEFWQVJ5bkF2WEJVVkVtQmp3ZXVrVTY0bkFqbHpYX3piWHF6Qmx3VVExT3F0YW1zUndoYWxQTy1kWEwyd2VPN01Nc1ByU045dDdZRF9DUzN3aWs5VmY3M3ZXWEM4cFRnWTI1cWRYQmdCZ3BucFBpd3ZMOUZPaXFXVmxTSzFnaVV6WTBYN3g3ZXpPYXVvcEx0VTZLbDFiU01uZnBDR2VybDc4WWRoSExZeVlMRmowenZuWUZGQk5uQUhlNDF2SHdEM0k4RGh3aXlqTnFBUzBkMll0WWpTWC05bTJobkhuNTFzSTAwcDJoUi1ZdklHQjZ6VWZHdEZOTnZSODl6TmxEREMw?oc=5",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQalhyZ1p1bU53NWFRMUpMSGFTS0JUNVM0TWFrbDM1SHpnMDNvNGhEa29SS3o1TUx1YTZtSFRXQ3d5REFqYkxaMl9KZ3o5U3RVcWhoakNfQzFLV2FrbHlWNm9BTkZoX1ZiVEN6Wk5HTjdwZnVjSUktTWxKNzJuS0lTWTNjSmdncGhVdHV0ZVB2YnNaa3JzZmpzNXYzdD",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQalhyZ1p1bU53NWFRMUpMSGFTS0JUNVM0TWFrbDM1SHpnMDNvNGhEa29SS3o1TUx1YTZtSFRXQ3d5REFqYkxaMl9KZ3o5U3RVcWhoakNfQzFLV2FrbHlWNm9BTkZoX1ZiVEN6Wk5HTjdwZnVjSUktTWxKNzJuS0lTWTNjSmdncGhVdHV0ZVB2YnNaa3JzZmpzNXYzdDhsSjVnYWhaYzdkM3dXVXlQYlBDc3Q3MGZac2NYLUNsUXV1QjdIY0twdmFTaDZybHdYR0g1S21JeV9fWTI3NDk3TVdKenhVdmM1QmtXSlJ5TWItMDR1Mkw2WjlwQ25PTWlOSEdkTXR4TzNPdzZNTUlUWS1tVWRUMEh4ZlRuY1NLM3d2LUtCeU4yZ3YwMzZINmvSAccCQVVfeXFMT2l2bUk5ZFVjSjFOWi1BWnUtWHU2VzZpcmk1aGJGN0JIeW5sYW83eFdrMWxtUGpvZWlOeFdmWFlLXzlyeUlrOEFWQVJ5bkF2WEJVVkVtQmp3ZXVrVTY0bkFqbHpYX3piWHF6Qmx3VVExT3F0YW1zUndoYWxQTy1kWEwyd2VPN01Nc1ByU045dDdZRF9DUzN3aWs5VmY3M3ZXWEM4cFRnWTI1cWRYQmdCZ3BucFBpd3ZMOUZPaXFXVmxTSzFnaVV6WTBYN3g3ZXpPYXVvcEx0VTZLbDFiU01uZnBDR2VybDc4WWRoSExZeVlMRmowenZuWUZGQk5uQUhlNDF2SHdEM0k4RGh3aXlqTnFBUzBkMll0WWpTWC05bTJobkhuNTFzSTAwcDJoUi1ZdklHQjZ6VWZHdEZOTnZSODl6TmxEREMw?oc=5",
       "medio": "Infobae",
       "fecha": "2026-11-07T16:16:00.000Z",
       "imagen": "",
@@ -327,6 +354,15 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
+      "titulo": "INE rechaza eliminar tres promocionales de MC contra Morena - MILENIO",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVU5OVXJCTGhpOWM5b0R1RktSR1BCQld4QTQtc1RRLXI5RkM1NElBVlo2VWtsbk9mWGhrT3FISElaSm0zQ29EeVhmNThYOTUwWVNveWlLODBHcWRydktiT1BOZkdjcVE1RUlHRVQ2MU9lb256dHhJT1p3X210U09zSnBhSTBDT1ZaM2ltMnpvX3JyREx1WVQzcHlGV2",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVU5OVXJCTGhpOWM5b0R1RktSR1BCQld4QTQtc1RRLXI5RkM1NElBVlo2VWtsbk9mWGhrT3FISElaSm0zQ29EeVhmNThYOTUwWVNveWlLODBHcWRydktiT1BOZkdjcVE1RUlHRVQ2MU9lb256dHhJT1p3X210U09zSnBhSTBDT1ZaM2ltMnpvX3JyREx1WVQzcHlGV2VVc0tpNTZfWjRn0gGmAUFVX3lxTFBpU2VJNXNtdWlqRVo0NFFNME1SUncwWGtFeTlEZ3lRY3hWOHJoVGxPMmlnUnJPV3NWMzFjQ3V3dnVwMVFnTFVhYTlJWlNpUGd6UW5xRWFTb0RlVS1xVFltdVRleTFCMTVlOXVyWUJFSmNhbzZQd3hVQVFZVjdvemhQWllTUy1XZFQ3cWs3b1dndmx6NUxNc00yVzNvR3diN1lmQUp5Tnc?oc=5",
+      "medio": "MILENIO",
+      "fecha": "2026-11-04T21:15:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
       "titulo": "\"Se acab&#243; la falsa paz\": as&#237; celebr&#243; De la Espriella firma y sanci&#243;n de ley de sometimiento",
       "resumen": "&#191;Qu&#233; dijo De la Espriella tras sancionar la Ley de Sometimiento? El presidente lanz&#243; un contundente mensaje contra los privilegios a criminales.",
       "link": "https://www.pulzo.com/nacion/asi-reacciono-espriella-sancion-ley-sometimiento-colombia-PP5348988",
@@ -343,6 +379,15 @@
       "fecha": "2026-11-04T15:29:03.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Este video muestra un r&#237;o contaminado de petr&#243;leo, pero no por fracking",
+      "resumen": "El video muestra la contaminaci&#243;n de una quebrada por el derrame de un pozo petrolero convencional, y sucedi&#243; en julio.",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-muestra-un-rio-contaminado-de-petroleo-pero-no-por-fracking/",
+      "medio": "La Silla Vac&#237;a",
+      "fecha": "2026-11-04T15:28:00.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
     },
     {
       "titulo": "“La falsa paz total terminó”: De La Espriella tras aprobación de la Ley de Sometimiento - Eluniversal.com.co",
@@ -615,15 +660,6 @@
       "tema": "infopresidencia"
     },
     {
-      "titulo": "Este video muestra un r&#237;o contaminado de petr&#243;leo, pero no por fracking",
-      "resumen": "El video muestra la contaminaci&#243;n de una quebrada por el derrame de un pozo petrolero convencional, y sucedi&#243; en julio.",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-muestra-un-rio-contaminado-de-petroleo-pero-no-por-fracking/",
-      "medio": "La Silla Vac&#237;a",
-      "fecha": "2026-10-30T18:00:00.000Z",
-      "imagen": "",
-      "tema": "Detector de mentiras Presidencia Colombia"
-    },
-    {
       "titulo": "De la Espriella no dijo que el Papa Le&#243;n XIV “no representa a un verdadero cristiano”",
       "resumen": "No hay registros de que De la Espriella haya dicho eso ni de que la Alcald&#237;a de Villavicencio haya publicado la imagen.",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-dijo-que-el-papa-leon-xiv-no-representa-a-un-verdadero-cristiano/",
@@ -685,42 +721,6 @@
       "fecha": "2026-10-28T05:47:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.uCU9Q9QQMbGCiKcljYttXQ&pid=News",
       "tema": "comisiones reconstrucción Pereira"
-    },
-    {
-      "titulo": "La publicación de Lula da Silva que desmiente a Ravier: felicitó al Gobierno por el triunfo de Milei en 2023 - Política Argentina",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMWs5aW8xRElCdFU0cTVxdGJBbHMxOFlCMHNXelAwMzJsOGotQ2hkMHlGTmpXYl9zbTN1cDhSaU8yX3NQR1QxU3dzNV95UVQ1dmthRkxMSlhyc2lRMDc2eXBiOGFhWkpNQlhFcVJ5dU85aGV0UVJVSkd2c0hsZnVGb3ZkRi1ILXFjOFZGb3VsOHVUYkRqaF91OFhseW",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMWs5aW8xRElCdFU0cTVxdGJBbHMxOFlCMHNXelAwMzJsOGotQ2hkMHlGTmpXYl9zbTN1cDhSaU8yX3NQR1QxU3dzNV95UVQ1dmthRkxMSlhyc2lRMDc2eXBiOGFhWkpNQlhFcVJ5dU85aGV0UVJVSkd2c0hsZnVGb3ZkRi1ILXFjOFZGb3VsOHVUYkRqaF91OFhseWRibGFfSDhRaVVhWWIyOEJ6RUVUZUZhdDJ6eDFHYnpOSzNCYmVVT0d4TXBwdmpuVTJreUgyV09xWHN6RzdtTGdjTVVLZ0lQekRkZWNYZHZBTzI1ZmFfUTFCRGdJ?oc=5",
-      "medio": "Política Argentina",
-      "fecha": "2026-10-27T19:49:49.000Z",
-      "imagen": "",
-      "tema": "Vocería Presidencia desmiente"
-    },
-    {
-      "titulo": "Ni asilo ni ingreso al país: el Gobierno desmiente la supuesta fuga de Flávio Bolsonaro - https://www.noticiero9.com.ar/",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnVnMGg3Z3lhMk5EOEZkSHpBV1JOQmlvSXQtOVc3bXRfelBya1dTeF9HWXlLdEdhRFBMYURPX1Q3UU9jNHFPREZnXzlGUzZoTXlCUlVNaHBCV3pMMlJiQjl6ZFJhRHd3MDlVR3oyN2V5R2VLb28wV3gteFd4SW1FbWxoaWFLaFA3UGJ4czIxVEk0Z1hiU0lQcFpTQ1",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnVnMGg3Z3lhMk5EOEZkSHpBV1JOQmlvSXQtOVc3bXRfelBya1dTeF9HWXlLdEdhRFBMYURPX1Q3UU9jNHFPREZnXzlGUzZoTXlCUlVNaHBCV3pMMlJiQjl6ZFJhRHd3MDlVR3oyN2V5R2VLb28wV3gteFd4SW1FbWxoaWFLaFA3UGJ4czIxVEk0Z1hiU0lQcFpTQ1FVMExtbnBEM0s0dUowemlySnVVeHE4allxam5BSHl4MUU3bw?oc=5",
-      "medio": "https://www.noticiero9.com.ar/",
-      "fecha": "2026-10-27T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Vocería Presidencia desmiente"
-    },
-    {
-      "titulo": "Primicia: Amarilo llevar&#225; a Pereira el modelo de Quora, su megaproyecto de $2,4 billones en Bogot&#225;, tras el sismo",
-      "resumen": "El Grupo Amarilo financiar&#225; los dise&#241;os de la reconstrucci&#243;n del centro de Pereira, una de las zonas m&#225;s golpeadas por el terremoto del 10 de agosto. As&#237; lo anunci&#243; Roberto Moreno, presidente y ...",
-      "link": "https://www.msn.com/es-co/noticias/other/primicia-amarilo-llevar%C3%A1-a-pereira-el-modelo-de-quora-su-megaproyecto-de-2-4-billones-en-bogot%C3%A1-tras-el-sismo/ar-AA2g2LeP",
-      "medio": "MSN",
-      "fecha": "2026-10-25T12:55:00.000Z",
-      "imagen": "",
-      "tema": "comisiones reconstrucción Pereira"
-    },
-    {
-      "titulo": "Denuncian supuesto caso de 'falso positivo' en operaci&#243;n anunciada por Abelardo de la Espriella en Meta: \"Que mate sin investigar qui&#233;nes son\"",
-      "resumen": "La joven Yasm&#237;n Rodr&#237;guez, de 22 a&#241;os, falleci&#243; el 17 de octubre en la finca Rancho Grande, en Puerto Rico, Meta, durante una acci&#243;n de tropas que dej&#243; tres detenidos y material b&#233;lico incautado ...",
-      "link": "https://www.infobae.com/colombia/2026/10/25/denuncian-supuesto-caso-de-falso-positivo-en-operacion-anunciada-por-abelardo-de-la-espriella-en-meta-que-mate-sin-investigar-quienes-son/",
-      "medio": "Infobae",
-      "fecha": "2026-10-25T10:34:00.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
     }
   ]
 }
