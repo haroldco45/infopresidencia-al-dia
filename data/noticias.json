@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T10:09:45.814Z",
+  "actualizado": "2026-11-12T18:31:05.612Z",
   "total": 80,
   "noticias": [
     {
@@ -107,7 +107,7 @@
       "link": "https://www.colombia.com/actualidad/nacionales/gobierno-nacional-aun-no-inicia-la-reconstruccion-de-pereira-612012",
       "medio": "Colombia.com",
       "fecha": "2026-11-10T06:49:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.4dDis_uojlATaNNfUkmLtQ&pid=News",
+      "imagen": "",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -116,7 +116,7 @@
       "link": "https://caracol.com.co/2026/11/10/reconstruccion-no-se-ha-iniciado-ni-siquiera-hay-un-bosquejo-personero-de-pereira-tras-terremoto/",
       "medio": "Caracol Radio",
       "fecha": "2026-11-10T04:16:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.tKM-qjGlUb12I7oIyoBn6A&pid=News",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -252,7 +252,7 @@
       "medio": "ifmnoticias",
       "fecha": "2026-11-07T08:53:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.AhdCM_Td7KZlLWLLrWZ_cw&pid=News",
-      "tema": "Vocería Presidencia desmiente"
+      "tema": "Tolemaida Planadas presidente"
     },
     {
       "titulo": "Gobierno denunci&#243; “manipulaci&#243;n cronol&#243;gica” de la visita de Abelardo de la Espriella a Tolemaida y el atentado en Planadas: \"Fabricar una noticia para cazar likes\"",
@@ -306,6 +306,15 @@
       "medio": "EMOL",
       "fecha": "2026-11-06T02:37:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.8vmgFaxh0I5RTZf6R_7uYg&pid=News",
+      "tema": "Presidencia desmiente noticia falsa"
+    },
+    {
+      "titulo": "Marco Rubio desmiente planes de dejar el Departamento de Estado de EU - El Economista",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk5VNTMwZjNsUE51X3VWN2VnN1ctb3E4S0xxN2hrdHdXeS1iWjhpY2UxTElLVW9CT1Y4VEc3RUY5SEphWHFmY0NyTzRpbHRiUklyaFp6MzQwZFJkajlhYUg5ZnZEcld3dHJVWDY4Y0o3dFJVNDZZRDJ1VXpqdzY1anhMQ21OeWV6TlBTOG42bHJmT3RCbFJzSlRHej",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk5VNTMwZjNsUE51X3VWN2VnN1ctb3E4S0xxN2hrdHdXeS1iWjhpY2UxTElLVW9CT1Y4VEc3RUY5SEphWHFmY0NyTzRpbHRiUklyaFp6MzQwZFJkajlhYUg5ZnZEcld3dHJVWDY4Y0o3dFJVNDZZRDJ1VXpqdzY1anhMQ21OeWV6TlBTOG42bHJmT3RCbFJzSlRHejRfT24yTkw1b3phZzFGc0czcHBVU19SRW9jTXhXYUJn0gHAAUFVX3lxTE5DcmVtVVhfUEEyUVNHTEtQaml2blpCcjI0djZsN3ZVOHltb1JwV3BsaFJOSDlBWklrVVhTWldnSThCdHJ3bjV6RFVmSkp4ay1QOWJMOWlCLTNBdFNza1p1WFNhYmtfcHNxakh0WkQtZzZRZFN6VnZEUFFDbmNjM0hCNmUzZnhVYzJ5QXl6aXVtT3V6dnhXUGwzS3FfajNFOTl0cmRwdDhRMWxoRERyT3hDNGhUOEtIV0Z4Z0RnSGg5NA?oc=5",
+      "medio": "El Economista",
+      "fecha": "2026-11-06T01:42:57.000Z",
+      "imagen": "",
       "tema": "Presidencia desmiente noticia falsa"
     },
     {
@@ -399,12 +408,12 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
-      "titulo": "Santos asegura que gobierno de De la Espriella quiere deslegitimar el Acuerdo de Paz",
+      "titulo": "Santos asegura que gobierno de De la Espriella quiere \"deslegitimar el Acuerdo de Paz\"",
       "resumen": "El expresidente Juan Manuel Santos critic&#243; la posici&#243;n del gobierno de Abelardo de la Espriella sobre el Acuerdo de Paz.",
       "link": "https://www.msn.com/es-co/noticias/politica/santos-asegura-que-gobierno-de-de-la-espriella-quiere-deslegitimar-el-acuerdo-de-paz/ar-AA2gPJRj",
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-05T09:33:03.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.h2-cpe7NK0U33Nv-7EJDcQ&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -431,7 +440,7 @@
       "link": "https://caracol.com.co/2026/11/05/reconstruccion-de-pereira-y-risaralda-podria-tardar-hasta-ocho-anos-por-demoras-con-las-aseguradoras/",
       "medio": "Caracol Radio",
       "fecha": "2026-11-05T02:44:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.-4dZ9Yctk0wyf2aP3yBZdQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.KCjCmtS6xszE7lyC2XyqAg&pid=News",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -451,15 +460,6 @@
       "fecha": "2026-11-04T21:39:06.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "INE rechaza eliminar tres promocionales de MC contra Morena - Milenio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVU5OVXJCTGhpOWM5b0R1RktSR1BCQld4QTQtc1RRLXI5RkM1NElBVlo2VWtsbk9mWGhrT3FISElaSm0zQ29EeVhmNThYOTUwWVNveWlLODBHcWRydktiT1BOZkdjcVE1RUlHRVQ2MU9lb256dHhJT1p3X210U09zSnBhSTBDT1ZaM2ltMnpvX3JyREx1WVQzcHlGV2",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVU5OVXJCTGhpOWM5b0R1RktSR1BCQld4QTQtc1RRLXI5RkM1NElBVlo2VWtsbk9mWGhrT3FISElaSm0zQ29EeVhmNThYOTUwWVNveWlLODBHcWRydktiT1BOZkdjcVE1RUlHRVQ2MU9lb256dHhJT1p3X210U09zSnBhSTBDT1ZaM2ltMnpvX3JyREx1WVQzcHlGV2VVc0tpNTZfWjRn0gGmAUFVX3lxTFBpU2VJNXNtdWlqRVo0NFFNME1SUncwWGtFeTlEZ3lRY3hWOHJoVGxPMmlnUnJPV3NWMzFjQ3V3dnVwMVFnTFVhYTlJWlNpUGd6UW5xRWFTb0RlVS1xVFltdVRleTFCMTVlOXVyWUJFSmNhbzZQd3hVQVFZVjdvemhQWllTUy1XZFQ3cWs3b1dndmx6NUxNc00yVzNvR3diN1lmQUp5Tnc?oc=5",
-      "medio": "Milenio",
-      "fecha": "2026-11-04T21:15:00.000Z",
-      "imagen": "",
-      "tema": "Presidencia rechaza calumnia"
     },
     {
       "titulo": "\"Se acab&#243; la falsa paz\": as&#237; celebr&#243; De la Espriella firma y sanci&#243;n de ley de sometimiento",
@@ -503,7 +503,7 @@
       "link": "https://www.ntn24.com/noticias-actualidad/la-falsa-paz-total-llego-a-su-fin-abelardo-de-la-espriella-celebra-la-aprobacion-de-la-ley-de-sometimiento-en-el-congreso-663705",
       "medio": "NTN24",
       "fecha": "2026-11-04T13:39:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Qywiu1pBudvsniP_tNKeHw&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.L5tSKDBZFb1nzUPQjbAZPg&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -543,6 +543,15 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
+      "titulo": "INE rechaza eliminar tres promocionales de MC contra Morena - MILENIO",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVU5OVXJCTGhpOWM5b0R1RktSR1BCQld4QTQtc1RRLXI5RkM1NElBVlo2VWtsbk9mWGhrT3FISElaSm0zQ29EeVhmNThYOTUwWVNveWlLODBHcWRydktiT1BOZkdjcVE1RUlHRVQ2MU9lb256dHhJT1p3X210U09zSnBhSTBDT1ZaM2ltMnpvX3JyREx1WVQzcHlGV2",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVU5OVXJCTGhpOWM5b0R1RktSR1BCQld4QTQtc1RRLXI5RkM1NElBVlo2VWtsbk9mWGhrT3FISElaSm0zQ29EeVhmNThYOTUwWVNveWlLODBHcWRydktiT1BOZkdjcVE1RUlHRVQ2MU9lb256dHhJT1p3X210U09zSnBhSTBDT1ZaM2ltMnpvX3JyREx1WVQzcHlGV2VVc0tpNTZfWjRn0gGmAUFVX3lxTFBpU2VJNXNtdWlqRVo0NFFNME1SUncwWGtFeTlEZ3lRY3hWOHJoVGxPMmlnUnJPV3NWMzFjQ3V3dnVwMVFnTFVhYTlJWlNpUGd6UW5xRWFTb0RlVS1xVFltdVRleTFCMTVlOXVyWUJFSmNhbzZQd3hVQVFZVjdvemhQWllTUy1XZFQ3cWs3b1dndmx6NUxNc00yVzNvR3diN1lmQUp5Tnc?oc=5",
+      "medio": "MILENIO",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
       "titulo": "De la Espriella se reunir&#225; con comisiones econ&#243;micas: en la mira la ley de ajuste fiscal",
       "resumen": "El jefe de Estado se reunir&#225; con las y los congresistas de las comisiones econ&#243;micas este mi&#233;rcoles en la tarde.",
       "link": "https://www.msn.com/es-co/noticias/politica/de-la-espriella-se-reunir%C3%A1-con-comisiones-econ%C3%B3micas-en-la-mira-la-ley-de-ajuste-fiscal/ar-AA2gL0IC",
@@ -566,7 +575,7 @@
       "link": "https://redmas.com.co/colombia/la-falsa-paz-total-llego-a-su-fin-presidente-de-la-espriella-acaba-con-legado-de-petro-tras-luz-verde-a-nueva-ley-en-el-congreso-20261104-0001.html",
       "medio": "Red+ Noticias",
       "fecha": "2026-11-04T03:45:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.7nKtNyK27VL7MXDQ72qeKQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.kZ5xrfiZeRCUu2kCl8C-sA&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -575,7 +584,7 @@
       "link": "https://www.msn.com/es-co/noticias/nacional/la-falsa-paz-total-lleg%C3%B3-a-su-fin-de-la-espriella-tras-aprobaci%C3%B3n-de-ley-de-sometimiento/ar-AA2gJhBh",
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-04T03:04:35.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.UvFl80of-n5qqsYXU83Fcw&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.pY2ZYHaQFB8pJ7j93zAnlw&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -712,15 +721,6 @@
       "fecha": "2026-11-02T06:59:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.yFZ5jSxmvt2kAT5YdRzDKg&pid=News",
       "tema": "Tolemaida Planadas presidente"
-    },
-    {
-      "titulo": "Mauricio Gómez Amín anunció denuncia por presuntas irregularidades en contratos de Fontur - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWduNGpwRENHclVwdmR0MDNFWWRydGVSWkx1c3ppRHJMQlREX3JVcmFkeGNXdXZkaHlhd3RJZWIxb05mTFhXM2Jwb3EyT0ctbzhfeGpKQmtkaEJJcVhicjlUVTdOMVVZVHJTMWdVOUdGelBlUFF6RDJjQmlIbVFqZTl4Tm1TVVdDN0tKeWQ0TUxWMzN5ZFFJTmRTRU",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWduNGpwRENHclVwdmR0MDNFWWRydGVSWkx1c3ppRHJMQlREX3JVcmFkeGNXdXZkaHlhd3RJZWIxb05mTFhXM2Jwb3EyT0ctbzhfeGpKQmtkaEJJcVhicjlUVTdOMVVZVHJTMWdVOUdGelBlUFF6RDJjQmlIbVFqZTl4Tm1TVVdDN0tKeWQ0TUxWMzN5ZFFJTmRTRU1XYWI0SGJGc1hDRVA0ZDhDMnh0LWZDcUdSUmVyZ09LWkpoR3Y2cDJRRzUxSk9ReU9vWlRYZnh0Ug?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-02T05:36:47.000Z",
-      "imagen": "",
-      "tema": "infopresidencia"
     }
   ]
 }
