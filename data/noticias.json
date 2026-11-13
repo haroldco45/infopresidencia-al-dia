@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T00:00:31.023Z",
+  "actualizado": "2026-11-13T07:06:03.216Z",
   "total": 80,
   "noticias": [
     {
@@ -10,6 +10,15 @@
       "fecha": "2026-11-12T21:09:28.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Pereira sigue esperando los recursos para su reconstrucci&#243;n",
+      "resumen": "Pereira tiene una nueva preocupaci&#243;n mientras se reconstruye despu&#233;s del terremoto del 10 de agosto. Adem&#225;s de las casas destruidas, los negocios da&#241;ados y la ...",
+      "link": "https://www.eldiario.com.co/actualidad/pereira-sigue-esperando-los-recursos-para-su-reconstruccion/",
+      "medio": "El Diario",
+      "fecha": "2026-11-12T16:00:00.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
     },
     {
       "titulo": "Cu&#225;l es el secreto de Tolemaida que hasta el ej&#233;rcito gringo la usa para entrenar a sus militares",
@@ -27,6 +36,15 @@
       "medio": "El Tiempo on MSN",
       "fecha": "2026-11-12T13:09:28.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.P92LNhmjiHxc9g8fADbFtQ&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Imagen favorable del presidente De la Espriella pasa el 70 %, seg&#250;n otra encuesta",
+      "resumen": "Una encuesta asegur&#243; que la aprobaci&#243;n de Abelardo de la Espriella es del 73 %. As&#237; fue el sondeo de IA Electoral tras primeros 100 d&#237;as de Gobierno.",
+      "link": "https://www.pulzo.com/nacion/aprobacion-abelardo-espriella-es-73-encuesta-ia-electoral-PP5355329",
+      "medio": "Pulzo",
+      "fecha": "2026-11-12T11:01:00.000Z",
+      "imagen": "",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -261,7 +279,7 @@
       "medio": "Infobae",
       "fecha": "2026-11-07T16:16:00.000Z",
       "imagen": "",
-      "tema": "Vocería Presidencia desmiente"
+      "tema": "Tolemaida Planadas presidente"
     },
     {
       "titulo": "Gobierno De la Espriella desmintió relación entre visita del presidente a Tolemaida y ataque en Planadas - Infobae",
@@ -305,7 +323,7 @@
       "link": "https://www.infobae.com/colombia/2026/11/07/gobierno-denuncio-manipulacion-cronologica-de-la-visita-de-abelardo-de-la-espriella-a-tolemaida-y-el-atentado-en-planadas-fabricar-una-noticia-para-cazar-likes/",
       "medio": "Infobae",
       "fecha": "2026-11-07T08:16:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.x6AfEpD2W_wvGrKAdkrFIA&pid=News",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -315,7 +333,7 @@
       "medio": "Infobae",
       "fecha": "2026-11-07T07:33:00.000Z",
       "imagen": "",
-      "tema": "infopresidencia"
+      "tema": "Tolemaida Planadas presidente"
     },
     {
       "titulo": "¡MARCO RUBIO ROMPE EL SILENCIO! DESMIENTE QUE VAYA A RENUNCIAR AL GOBIERNO DE DONALD TRUMP - América TeVé",
@@ -534,6 +552,15 @@
       "tema": "Detector de mentiras Presidencia Colombia"
     },
     {
+      "titulo": "De la Espriella prepara nombramientos en entidad de paz y l&#237;nea diplom&#225;tica: esto se sabe",
+      "resumen": "El gobierno De la Espriella est&#225; alistando la llegada de la nueva directora de la ARN y en la embajadora de Colombia ante la ONU en Suiza.",
+      "link": "https://www.msn.com/es-co/noticias/nacional/de-la-espriella-prepara-nombramientos-en-entidad-de-paz-y-l%C3%ADnea-diplom%C3%A1tica-esto-se-sabe/ar-AA2gM99C",
+      "medio": "El Espectador on MSN",
+      "fecha": "2026-11-04T14:33:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.GFjz-9Io6dgeMzpof1N6gQ&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
       "titulo": "“La falsa paz total terminó”: De La Espriella tras aprobación de la Ley de Sometimiento - Eluniversal.com.co",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1ZrRFFWaXJLdmdjcVBfdzJHb2VaX1dtcVN5eW1qbWtSV3prMGVDaTVXaVB5Qi1xcFU3LTFaUkpwN2s1dENWWm5lMElMd2xwN0dCVE4yMEFWcG9zUXpCOW5rRUh1LVRud0dZYm1hamVsU2hHYVJRSERIZElvc1YxUUtiN1pvSlA2OGFwWnZZclFSZmxReVdwek9CXz",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1ZrRFFWaXJLdmdjcVBfdzJHb2VaX1dtcVN5eW1qbWtSV3prMGVDaTVXaVB5Qi1xcFU3LTFaUkpwN2s1dENWWm5lMElMd2xwN0dCVE4yMEFWcG9zUXpCOW5rRUh1LVRud0dZYm1hamVsU2hHYVJRSERIZElvc1YxUUtiN1pvSlA2OGFwWnZZclFSZmxReVdwek9CXzVLNjJlYUhIUjhiY2pSZy1MZjdQT21zNmh0TG93UXZfS2VYUGdIVENOWHhjcjhDSFk4QnVoWHc?oc=5",
@@ -693,33 +720,6 @@
       "medio": "tolimastereo",
       "fecha": "2026-11-02T17:30:00.000Z",
       "imagen": "",
-      "tema": "Tolemaida Planadas presidente"
-    },
-    {
-      "titulo": "MinCiencias denunci&#243; presuntas irregularidades por m&#225;s de $9.800 millones en recursos para investigaci&#243;n",
-      "resumen": "La ministra Claudia Benavides inform&#243; que detectaron gastos sin soportes suficientes, servicios certificados antes de su ejecuci&#243;n y eventos masivos sin pruebas documentales (@infopresidencia / X) ...",
-      "link": "https://www.infobae.com/video/colombia/minciencias-denuncio-presuntas-irregularidades-por-mas-de-9-800-millones-en-recursos-para-investigacion/rgYMac1w/",
-      "medio": "Infobae",
-      "fecha": "2026-11-02T15:52:00.000Z",
-      "imagen": "",
-      "tema": "infopresidencia"
-    },
-    {
-      "titulo": "Presidente Abelardo De La Espriella resaltó la capacidad operacional de las Fuerzas Militares durante su visita al Fuerte de Tolemaida - hoy diario del magdalena",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNWDZ0b1ZPbHlLbk5Cai1lbEhLQ3RjZFNuMmlyT3FrOWlpR2RUWDhSSXJqQU9uUWlyd3NZeTFpVUVFZHROVGxQb2tvU3hMeUJWZWNGYnU0UWZwTHZxTTlSeVcySDJZRUFsRFJJOFZVbnFJNEFQVGVWLVNJUVE3ckFLcGM0YzNKcWJSWFBjeXlpQlZTcU9Cc1VtWXZraG",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWDZ0b1ZPbHlLbk5Cai1lbEhLQ3RjZFNuMmlyT3FrOWlpR2RUWDhSSXJqQU9uUWlyd3NZeTFpVUVFZHROVGxQb2tvU3hMeUJWZWNGYnU0UWZwTHZxTTlSeVcySDJZRUFsRFJJOFZVbnFJNEFQVGVWLVNJUVE3ckFLcGM0YzNKcWJSWFBjeXlpQlZTcU9Cc1VtWXZraGxpd1NIWEJ4YjZoZXVvYXZjaVZzcXFqUzBTcWlYdU9OYlFwU1JFMmRCRDFSOVhENk5vTFR4Ums3V2plWHJzLXk3Rk1wSTJlMVViQjZ4WjZXYnpSODRTSEFKQUZnOTZhTTZoV1h2TkFYT1hhRF9GOGVoZ3FvZ3hGci1HSTV0?oc=5",
-      "medio": "hoy diario del magdalena",
-      "fecha": "2026-11-02T12:58:00.000Z",
-      "imagen": "",
-      "tema": "Tolemaida Planadas presidente"
-    },
-    {
-      "titulo": "Abelardo de la Espriella mostr&#243; que es bueno con las armas y fue criticado: as&#237; qued&#243; en video durante simulacro de rescate de reh&#233;n en Tolemaida",
-      "resumen": "El jefe de Estado fue cuestionado por compartir el momento en que hizo uso de armas de fuego, sobre todo por el atentado en Planadas (Tolima), que dej&#243; cuatro muertos, entre ellos una beb&#233; de dos mese ...",
-      "link": "https://www.infobae.com/colombia/2026/11/02/abelardo-de-la-espriella-mostro-que-es-bueno-con-las-armas-y-fue-criticado-asi-quedo-en-video-durante-simulacro-de-rescate-de-rehen-en-tolemaida/",
-      "medio": "Infobae",
-      "fecha": "2026-11-02T12:55:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.7KD3pvXe9L3_mgZzRaYsPg&pid=News",
       "tema": "Tolemaida Planadas presidente"
     }
   ]
