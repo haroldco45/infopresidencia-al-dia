@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T21:51:14.866Z",
+  "actualizado": "2026-11-14T02:06:21.763Z",
   "total": 80,
   "noticias": [
     {
@@ -30,6 +30,15 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
+      "titulo": "Flip denuncia que Gobierno De la Espriella asigna pauta seg&#250;n el cubrimiento de los medios",
+      "resumen": "La FLIP y El Veinte, oeneg&#233;s defensoras de la libertad de expresi&#243;n, alertaron sobre una posible forma de censura indirecta.",
+      "link": "https://www.msn.com/es-co/noticias/nacional/flip-denuncia-que-gobierno-de-la-espriella-asigna-pauta-seg%C3%BAn-el-cubrimiento-de-los-medios/ar-AA2ho94S",
+      "medio": "El Espectador on MSN",
+      "fecha": "2026-11-13T12:24:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ORMS.a894f9ee2cdb6685d33f944aec75f78f&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
       "titulo": "Gobierno estrena secci&#243;n para “desmentir” publicaciones en su contra",
       "resumen": "Pa&#237;ses como M&#233;xico, Brasil o Argentina tambi&#233;n las tienen. Se crea justo en medio de una relaci&#243;n tensa del Ejecutivo con los medios.",
       "link": "https://www.lasillavacia.com/en-vivo/gobierno-estrena-seccion-para-desmentir-publicaciones-en-su-contra/",
@@ -54,6 +63,15 @@
       "medio": "Semana",
       "fecha": "2026-11-13T10:26:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.UI5FNiPwg63tawkPIgTQNg&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "100 d&#237;as de De la Espriella: las noticias y declaraciones que m&#225;s conversaci&#243;n generaron",
+      "resumen": "De la Espriella cumple 100 d&#237;as: Planadas, Eva Ferrer, bombardeos, fin de di&#225;logos y su sueldo donado, entre lo m&#225;s le&#237;do y comentado en Cablenoticias.",
+      "link": "https://www.cablenoticias.com/noticias/100-dias-de-la-espriella-noticias-mas-leidas-declaraciones-virales",
+      "medio": "cablenoticias",
+      "fecha": "2026-11-13T08:50:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.uy21YQJlqIG_yd9l7wEM2A&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -134,6 +152,15 @@
       "link": "https://www.pulzo.com/nacion/aprobacion-abelardo-espriella-es-73-encuesta-ia-electoral-PP5355329",
       "medio": "Pulzo",
       "fecha": "2026-11-12T11:01:00.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Supuesto abucheo a De la Espriella en Cúcuta o Tolima es viejo y no está relacionado con él - Mala Espina",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLTFWZzdQMzF0bHlEUU15S0prRFJJbjAyUGdnZUFvUFo0ekdRZ3ZfT01ydm92bTkyLUdZVWtDSjFGUHpkQkh5MFBabjVwRF9aTEpJaTZNdjJVY0tEZUd5OWZiWVM1dlMtTDZVS2h0MW16WDNwVkRXRGFmaDkyYXJSUFg5T2t5LWo1SkItZzhoWVlCTFIzaTNOeFNZRm",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLTFWZzdQMzF0bHlEUU15S0prRFJJbjAyUGdnZUFvUFo0ekdRZ3ZfT01ydm92bTkyLUdZVWtDSjFGUHpkQkh5MFBabjVwRF9aTEpJaTZNdjJVY0tEZUd5OWZiWVM1dlMtTDZVS2h0MW16WDNwVkRXRGFmaDkyYXJSUFg5T2t5LWo1SkItZzhoWVlCTFIzaTNOeFNZRm16MTZVOTh1R0lGYV8tNXQ0T3RWa19lcG5ELVBDMmJjazRqMUhQdnZRVk04ZGFvQVcwOEYzTmZ1akplWQ?oc=5",
+      "medio": "Mala Espina",
+      "fecha": "2026-11-12T08:00:00.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
     },
@@ -422,7 +449,7 @@
       "link": "https://www.infobae.com/colombia/2026/11/07/gobierno-denuncio-manipulacion-cronologica-de-la-visita-de-abelardo-de-la-espriella-a-tolemaida-y-el-atentado-en-planadas-fabricar-una-noticia-para-cazar-likes/",
       "medio": "Infobae",
       "fecha": "2026-11-07T08:16:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.x6AfEpD2W_wvGrKAdkrFIA&pid=News",
+      "imagen": "",
       "tema": "Tolemaida Planadas presidente"
     },
     {
@@ -692,33 +719,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOGJUUDFVUDdTWmZMbmhPX0MyWEJhMTVLZDBtX25RS1ZQNkp2emNwRGcwVmVweC1Wc1g5SnI1Q1F3WGE4aFVmeVFhWEpwMFAwS21KNXA2OThwbmQ1QWJ0SG80Yy1SYW9lTjdZbXhVbXlRaVg5dEdPQ29LUjd3UHpMSXFoWUJUaF95Snk2QS11VS01azhmcTZZczVQcUNZVHl2d3pkMzNCTTFJRnhnSW13ZU5OTzE2dHRRSFpLU1JjZzlRbVhrbVZYRGM2bzM1aWgxc3NMb0lTSGd3LW9VYjl4c3F3RjluangxWmZxVGduMkdwTFgwMS1sdE1FMXBkcTBVTllBdVd30gGLAkFVX3lxTE5Udk1saGVLaEsyaHhNa1BldkExc1RabFdnN0VTVkZjcDBHY0pTbks3SFNSNG1XTDhUX2t1OFZaYzFxU3MwbUExZk5PZ1hOOWM1N29fb3VDVERtUTdLaUpwRTk4RnFIRU8yVUg4NndEQ0kybXFvUEVheU94Y3I1QVlqRm55Y1Zid1kxdnp3WFo5VEZZZlctM29wTmxtZzg4NWREbUFtRWVGV1NKa2NTN2NiT1hyMlZSUWRQNVFRNzNSMk9TM2lMeU9KY3B1T29LRnR2ZE1TRWRBdUpmWEthNExjOXVQSW9wX1poZFhyZkJmaWQySmhmazVLVmlFVy1JN2tCUmlYQk5zU2t1UQ?oc=5",
       "medio": "Revista Semana",
       "fecha": "2026-11-04T12:41:51.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Presidente De La Espriella reaccionó a la aprobación de la ley de sometimiento: 'la falsa paz total llegó a su fin' - Portafolio.co",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzRfQ3dmeE0wREJfelJRWDd4LU80TmJJbnFyOG5yQ2RQbXJ5Q1lrN1dVa05SMERWTVhKWDhXdDlTeHRRV1NwaVlkZHZ4RDY3QVdSZmdkaFFrRzVzRUY2MmpBaTRud2V5QVhxeXN1M0VzZFJRQ2ZNSFlHdHR6bnFoVVpOQmxrbnl5SkZVUlpFMlFRX0dLMjJPUXBnVU",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOXzRfQ3dmeE0wREJfelJRWDd4LU80TmJJbnFyOG5yQ2RQbXJ5Q1lrN1dVa05SMERWTVhKWDhXdDlTeHRRV1NwaVlkZHZ4RDY3QVdSZmdkaFFrRzVzRUY2MmpBaTRud2V5QVhxeXN1M0VzZFJRQ2ZNSFlHdHR6bnFoVVpOQmxrbnl5SkZVUlpFMlFRX0dLMjJPUXBnVUFwUVY3VFpFNEpid3VWd1hiekxwRm9Sai0xTkNTOTRnS2xpT21JYnBIUzhvc3pQbDk1OFo0QTRZemgyTU1lV0tBbDE4Q01YOGFucUxVTkFwVUVpS2ZiejdhaVHSAfsBQVVfeXFMT0RiZHpyM1hOUG9mcDhKZWRtelN5TVlxaWZPZ25uWEV5RHhBaFoxYkY2TzhoVTJWbFFudTgwT2NrLXl0SzBONDhzUEFVb2F5WVBfdldsMnNFYWw3V0JGY1JGMHA1cHNvYmhRMzhfWmhGbW1Cb18zU096bnJsZWpVankzejAxZUppVkZZal8wSVZzSGZ6UkQzUWZsSURWWGtodGROWXRWVkd6N2V0Q3FkZlZBYlFhOGlIa25VQXJsZTNrU0ZMcU85NHNmMURfd0tINjVtZklzQmVSdl9oN2gtcHg3VnRmU3VHVHRFaVdKdkhiakJ1NVd4aTFobzA?oc=5",
-      "medio": "Portafolio.co",
-      "fecha": "2026-11-04T12:07:11.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "“La falsa paz total llegó a su fin”: De la Espriella tras aprobación de ley de sometimiento - El Espectador",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2F4bVpHWExaSXozWVNkZWhVQXBvLXVaeGF3SWZIMUlkdWJaU2lLT0hUUW5OZ3NqRTFtSDNIcjZxLTk1YVN1c0VYcXhOX0ZhbEhVclBHR2w0ME85ZmNUUlREUm10NTVCVHg1Q2pGeEFZeGVyVmlNZklnRzRVNS1ocVRrZWhHYnI0dVhEMFVrY29qZ3ZLdTJsaFJlZ2",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2F4bVpHWExaSXozWVNkZWhVQXBvLXVaeGF3SWZIMUlkdWJaU2lLT0hUUW5OZ3NqRTFtSDNIcjZxLTk1YVN1c0VYcXhOX0ZhbEhVclBHR2w0ME85ZmNUUlREUm10NTVCVHg1Q2pGeEFZeGVyVmlNZklnRzRVNS1ocVRrZWhHYnI0dVhEMFVrY29qZ3ZLdTJsaFJlZ29HN3NVMDlCaUVZNUVSVldvSDA4c0s5Vy1zWnNpVW4xMFJPb09ib2ltTU5ma9IB3AFBVV95cUxPRWhjVzU1dl9PZTJYeXpmNm1SYUNXSnVzOW81OW95NHc0VXY4NENvaFUwV1MzZkVOWXNLaXl3MzdHN1Y4eW14YjYya3NkQ1ZramVUTERGZEVpM3FaNllUR2cxajh4TlliMjRITFV1UE9xdUpqS01aWUI2NmJnSXRNTUFwV2VMS1BaclZXekhVcF9QRVB1ZmxBSkpScElVNkNkVXhKUlFOVUhueWF3VTJ1Y0JMN1hENUZoQmJHSHZCSlhjeDhJNjh0dDV4MXdMN2F6VE1GTjE4MXphM0d1?oc=5",
-      "medio": "El Espectador",
-      "fecha": "2026-11-04T11:04:35.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Aprueban ley de sometimiento; De la Espriella dijo que \"la falsa paz total llegó a su fin\" - Noticias Caracol",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOa20xMVlVZmVtUzRBU1dYend5VGlzNUYtUlYzUm1JbWt3anZRd0hRX2lLd2ZUUmNmS01mazZBSEdvNTN5cUczNVFuTFJad1ZJSGUwN0pkbUhWQ1lhLUh3TkJ6akF2bDEzbUlxWG1oVGhicFFWd0N4Q0VFc1Q1REVlWnRwZTZCb1BxbUFnZWJKcEtPQUlOUjNYaElFcE",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa20xMVlVZmVtUzRBU1dYend5VGlzNUYtUlYzUm1JbWt3anZRd0hRX2lLd2ZUUmNmS01mazZBSEdvNTN5cUczNVFuTFJad1ZJSGUwN0pkbUhWQ1lhLUh3TkJ6akF2bDEzbUlxWG1oVGhicFFWd0N4Q0VFc1Q1REVlWnRwZTZCb1BxbUFnZWJKcEtPQUlOUjNYaElFcElNTHNzZ0VRLWNpR0Y3N0xkTlpkMDRiUjEybTFnZWpJMVgwREgzS3NKWWw1dFQxUldRZ9IB2wFBVV95cUxQSGxkMTJTN2s2NXNvUnZUejlST0FzUktZeUpRam12YkRGZld1b0NndnEwOTNvQjJKa1lqVHFPVTd0MFgtelh4dkVQa1ZMZEltcDhpX0JnTGpDdWI1YmdaZHo2MUR6aEkxTGhBbWpfQ29FRDBXWjZGMmJkeEh5Vi1lN1hSdWhydXcyVFlwTC0zQ3FqTHI5RVpQNFYzU2d3bGZMM05SOEpYcGNtMXc5b1FvbGxuZkVSeUo3R0xUMlRWNDhKM1pFTkZFVVBHQ2FOSTJRUEJPRThTekdnbGM?oc=5",
-      "medio": "Noticias Caracol",
-      "fecha": "2026-11-04T10:34:28.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
     }
