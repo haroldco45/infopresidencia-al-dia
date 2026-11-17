@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T18:10:53.350Z",
+  "actualizado": "2026-11-17T01:58:50.622Z",
   "total": 80,
   "noticias": [
     {
@@ -9,6 +9,15 @@
       "medio": "Publimetro on MSN",
       "fecha": "2026-11-15T17:29:05.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.IEjLzvx48-ISURnUpgNsUA&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Es sencillamente falso: Gobierno neg&#243; que hija de Abelardo estuviera de fiesta en lancha de la Armada",
+      "resumen": "El Gobierno sali&#243; a responder por el video que gener&#243; pol&#233;mica en Cartagena y explic&#243; por qu&#233; la hija del presidente fue trasladada en una embarcaci&#243;n ofic ...",
+      "link": "https://www.msn.com/es-co/noticias/otras/es-sencillamente-falso-gobierno-neg%C3%B3-que-hija-de-abelardo-estuviera-de-fiesta-en-lancha-de-la-armada/ar-AA2hvssx",
+      "medio": "Publimetro on MSN",
+      "fecha": "2026-11-15T16:46:34.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.mJBowjPKgYOG5MkQ6OEdnA&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -28,6 +37,15 @@
       "fecha": "2026-11-14T17:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.0pDWILmBzPg4jrUrjTcO0g&pid=News",
       "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Las acusaciones sobre el Medicare son una calumnia más contra Cuba - Ministerio de Relaciones Exteriores de Cuba",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlV6a0ZHVWc1ZC1XaFBONnUza1ZneVJnU19rZ3J1TkN0eDAxc0tqR18zMFNaQ3lTaG1oNTRDREtJR3ZoSmRISHpEZkdXcEtDZnRNb1dGNDFSMUx0QlowTlJnMEtqQ3E3OUh1dzdCREVZaWFRcTRfYnJaMkZhZFBGcXY5Z0RRd0RPMGtaY0NzY3FYTkx2emc?oc=5\" ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlV6a0ZHVWc1ZC1XaFBONnUza1ZneVJnU19rZ3J1TkN0eDAxc0tqR18zMFNaQ3lTaG1oNTRDREtJR3ZoSmRISHpEZkdXcEtDZnRNb1dGNDFSMUx0QlowTlJnMEtqQ3E3OUh1dzdCREVZaWFRcTRfYnJaMkZhZFBGcXY5Z0RRd0RPMGtaY0NzY3FYTkx2emc?oc=5",
+      "medio": "Ministerio de Relaciones Exteriores de Cuba",
+      "fecha": "2026-11-14T14:40:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
     },
     {
       "titulo": "Presunta propuesta del presidente Abelardo de la Espriella de construir un muro en la frontera con Venezuela fue desmentida",
@@ -471,15 +489,6 @@
       "tema": "Vocería Presidencia desmiente"
     },
     {
-      "titulo": "Gobierno De la Espriella desmintió relación entre visita del presidente a Tolemaida y ataque en Planadas - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkw5QV8xYkdodUdyRERvRXp2ZUxtTlNwa0FKOTdFMWt2Z3JrVUZ2ek1xVnBmVDZXbzRqR25oVUJya3FoSE5LT0NkbmRFSDFrak1jNFloNDRPVWF6ZFJfYnctdHkxQTZHNE5OazZCLWpGdGk3aTJfNzM1QWtGX21Ec2xOTDlyaTdtZ3l3Z2NpOFpONlJhcldQa0FES0",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkw5QV8xYkdodUdyRERvRXp2ZUxtTlNwa0FKOTdFMWt2Z3JrVUZ2ek1xVnBmVDZXbzRqR25oVUJya3FoSE5LT0NkbmRFSDFrak1jNFloNDRPVWF6ZFJfYnctdHkxQTZHNE5OazZCLWpGdGk3aTJfNzM1QWtGX21Ec2xOTDlyaTdtZ3l3Z2NpOFpONlJhcldQa0FES0R2bVVTZzJRakxJcDhYNTBWZzM3eG1TV3lVNVF1c2ZZQkpBVWl5UVFKUjdOelgyRHZVZGZ2RXQxVTFwdTY2b08xZUw4MVB4aHlJTGxK?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-07T15:26:53.000Z",
-      "imagen": "",
-      "tema": "Tolemaida Planadas presidente"
-    },
-    {
       "titulo": "De la Espriella negocia con Uribe su ley de rescate para alejar a Colombia del impago",
       "resumen": "Reunión en Barranquilla con congresistas del Centro Democrático para salvar la Ley de Rescate Económico.",
       "link": "https://www.estrelladigital.es/mundo/colombia-impago-default-2027-ley-rescate-economico-restrepo-espana/20261107070000452978.html",
@@ -494,7 +503,7 @@
       "link": "https://ifmnoticias.com/gobierno/el-gobierno-desmiente-la-presidencia-acusa-manipulacion-cronologica-al-vincular-/",
       "medio": "ifmnoticias",
       "fecha": "2026-11-07T08:53:00.000Z",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.AhdCM_Td7KZlLWLLrWZ_cw&pid=News",
       "tema": "Vocería Presidencia desmiente"
     },
     {
@@ -516,6 +525,15 @@
       "tema": "Vocería Presidencia desmiente"
     },
     {
+      "titulo": "Gobierno De la Espriella desmintió relación entre visita del presidente a Tolemaida y ataque en Planadas - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkw5QV8xYkdodUdyRERvRXp2ZUxtTlNwa0FKOTdFMWt2Z3JrVUZ2ek1xVnBmVDZXbzRqR25oVUJya3FoSE5LT0NkbmRFSDFrak1jNFloNDRPVWF6ZFJfYnctdHkxQTZHNE5OazZCLWpGdGk3aTJfNzM1QWtGX21Ec2xOTDlyaTdtZ3l3Z2NpOFpONlJhcldQa0FES0",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbkw5QV8xYkdodUdyRERvRXp2ZUxtTlNwa0FKOTdFMWt2Z3JrVUZ2ek1xVnBmVDZXbzRqR25oVUJya3FoSE5LT0NkbmRFSDFrak1jNFloNDRPVWF6ZFJfYnctdHkxQTZHNE5OazZCLWpGdGk3aTJfNzM1QWtGX21Ec2xOTDlyaTdtZ3l3Z2NpOFpONlJhcldQa0FES0R2bVVTZzJRakxJcDhYNTBWZzM3eG1TV3lVNVF1c2ZZQkpBVWl5UVFKUjdOelgyRHZVZGZ2RXQxVTFwdTY2b08xZUw4MVB4aHlJTGxK?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-07T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Tolemaida Planadas presidente"
+    },
+    {
       "titulo": "¿Qué hay detrás de las tres acusaciones que respondió Miller Soto? - Kienyke",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3M2Sy1DLVBmNEQ4Y0JfVkpSZ0lnR2thTXhrVjBVM0haaDRVSWQ4dDRWVmhyRjJxalJfbWU3U1RuQXZvT2Q0dzFKWlJGcC1peHJudk80dFhnMWl3ZWhEZzcwT2lmTy1Md1VrWUFrWi1LYVgtMVhmWThvNnlreGV3aEo3b09ubkJPSm12Qw?oc=5\" target=\"_blan",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3M2Sy1DLVBmNEQ4Y0JfVkpSZ0lnR2thTXhrVjBVM0haaDRVSWQ4dDRWVmhyRjJxalJfbWU3U1RuQXZvT2Q0dzFKWlJGcC1peHJudk80dFhnMWl3ZWhEZzcwT2lmTy1Md1VrWUFrWi1LYVgtMVhmWThvNnlreGV3aEo3b09ubkJPSm12Qw?oc=5",
@@ -531,7 +549,7 @@
       "medio": "Infobae",
       "fecha": "2026-11-07T07:33:00.000Z",
       "imagen": "",
-      "tema": "Tolemaida Planadas presidente"
+      "tema": "infopresidencia"
     },
     {
       "titulo": "¡MARCO RUBIO ROMPE EL SILENCIO! DESMIENTE QUE VAYA A RENUNCIAR AL GOBIERNO DE DONALD TRUMP - América TeVé",
@@ -703,24 +721,6 @@
       "fecha": "2026-11-05T08:00:00.000Z",
       "imagen": "",
       "tema": "Presidencia desmiente noticia falsa"
-    },
-    {
-      "titulo": "Marco Rubio desmiente los rumores sobre su salida de la administración de Trump - Periódico Cubano",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1haaHJuSVhvOFJFRDR6UTVQSG05TExMMVkwSER4ME5MclBGRDcxTUFydml6UVYzUnpWMk9yZGtuamJsSzVlM3RhZjNnR0FBamxGaGZVdUhaM1NzSjY1ZHNnd3JmbHR5SENMN3hDOWJlRWxVV1JncndZX3dFQ1hEUDYydFVwOUtIRWVEcGN0ejV3UVIybDhoTFYtb0",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1haaHJuSVhvOFJFRDR6UTVQSG05TExMMVkwSER4ME5MclBGRDcxTUFydml6UVYzUnpWMk9yZGtuamJsSzVlM3RhZjNnR0FBamxGaGZVdUhaM1NzSjY1ZHNnd3JmbHR5SENMN3hDOWJlRWxVV1JncndZX3dFQ1hEUDYydFVwOUtIRWVEcGN0ejV3UVIybDhoTFYtb0pPMktNUWlkQVp1VUpCV2gtaEk5aEN30gG6AUFVX3lxTE1yUzlKLVcwc0FRdnBraFJVMk82TmR3MjhDRmYzV19RUUxOTHhYN2piNUtldEZVRjRVYUo3ZXR2cWg0UkU3QmlvcG40R3NVLUc4TjJEa3M3ekQ3cGtmMERUT1hOdVVZNmhJRkZzZnVpZ0tSeVRVNmp1Y1hySW9WZzN5VnkwdGZxUGdDS2FXQjBSRDdTRjVxbk93SmZGd2NMNWlrYTFGOERIczRSUW10ZFdnNWtwWjl0X2dKUQ?oc=5",
-      "medio": "Periódico Cubano",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "imagen": "",
-      "tema": "Presidencia desmiente noticia falsa"
-    },
-    {
-      "titulo": "Reconstrucci&#243;n de Pereira y Risaralda podr&#237;a tardar hasta ocho a&#241;os por demoras con las aseguradoras",
-      "resumen": "El gremio de propiedad horizontal denuncia dificultades para acceder a los recursos de las p&#243;lizas y pide la intervenci&#243;n de los organismos de control.",
-      "link": "https://caracol.com.co/2026/11/05/reconstruccion-de-pereira-y-risaralda-podria-tardar-hasta-ocho-anos-por-demoras-con-las-aseguradoras/",
-      "medio": "Caracol Radio",
-      "fecha": "2026-11-05T02:44:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.KCjCmtS6xszE7lyC2XyqAg&pid=News",
-      "tema": "comisiones reconstrucción Pereira"
     }
   ]
 }
