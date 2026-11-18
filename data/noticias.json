@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-18T02:15:23.761Z",
+  "actualizado": "2026-11-18T10:33:52.078Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Colombian News – Un falso debate contra el presidente De La Espriella - La Linterna Azul",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcW4xWUsxM2hpUVVWZ0pVT283c2J2SE1ldjZGMnBISEp2YzZ4WFVZQlU5ZUlESlI3U2lnbFZZRjZ3NjhZQU9SOFFQTDRPX3VBVHVNcFlnVlJGV3haeF9JaGRZZ2VMbEFyLXM0VEl5LWlXcHBHV2hHSWV4UWlncEZwQ2RSWU5Ia2RaaEYtd2Eyc3AyY0p3WDdmQU9RSk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcW4xWUsxM2hpUVVWZ0pVT283c2J2SE1ldjZGMnBISEp2YzZ4WFVZQlU5ZUlESlI3U2lnbFZZRjZ3NjhZQU9SOFFQTDRPX3VBVHVNcFlnVlJGV3haeF9JaGRZZ2VMbEFyLXM0VEl5LWlXcHBHV2hHSWV4UWlncEZwQ2RSWU5Ia2RaaEYtd2Eyc3AyY0p3WDdmQU9RSkdhSDhHX3N2OExTQjZlRlJBQnAyNUM5U3pwNFNk?oc=5",
+      "medio": "La Linterna Azul",
+      "fecha": "2026-11-18T05:12:33.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
     {
       "titulo": "Deportes La Serena desmiente venta del club al presidente de Rangers - https://estapasando.cl/",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtZZFo2X09OQ3oyb3FTWlhtckRoc3Rqd3Jid19BXzNUeTRMLUtZSExIaldyb05lSFdkZDhWMmZIZzJWdi1OMG9wdVN2ZFZfUTJrem9aTUF2R3JPNU94eDBFSFhxY3JtWVd5bjcyUmQ4dFhUWDN2NDdjdHJaUkVHdWR0cjBnSm5PbUttSHVtcHdGbjR3SFcwUTQyaS",
@@ -12,11 +21,11 @@
       "tema": "Presidencia desmiente noticia falsa"
     },
     {
-      "titulo": "La Serena desmiente posible venta del club a presidente de Rangers: acusan difusión de noticia falsa - Canal 9 Bío Bío Televisión",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVDY3QUh6eVQybGhfRlNNNTFLaDFGUmY5bTlQSFlHWmI1MjVzeDY2RVQzZmxGUlBhc1FjRy1ub2YwSjR2MUNLMmZBdVI4emtJUTZKVXRLVWZPYmo2UjVVSDF6UFVaODZJOU5iWkppN25ZaFViQUlqYTV0dHphNzQ0cHYwUWhLME85em51QzFORW0ydUNvdGtSV1dPZk",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVDY3QUh6eVQybGhfRlNNNTFLaDFGUmY5bTlQSFlHWmI1MjVzeDY2RVQzZmxGUlBhc1FjRy1ub2YwSjR2MUNLMmZBdVI4emtJUTZKVXRLVWZPYmo2UjVVSDF6UFVaODZJOU5iWkppN25ZaFViQUlqYTV0dHphNzQ0cHYwUWhLME85em51QzFORW0ydUNvdGtSV1dPZkNGU0duVlRIWGh2UnI1NTNqWTE5NWhhSVJDWDFxT051X0ZnR0FlQWRzTFcwQVM4RUE1WDZEM0ZmbFdfamQyQQ?oc=5",
-      "medio": "Canal 9 Bío Bío Televisión",
-      "fecha": "2026-11-17T18:39:24.000Z",
+      "titulo": "La Serena desmiente posible venta del club a presidente de Rangers: acusan difusión de noticia falsa - BioBioChile",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNVC1HZ05GbkNud3gzQXpVaFBUeHJtUW5mRjFGdzZtSjg3UG5waEF6TVNfdFlqMnFZUDVTdXc2WTJVQk5hTHUtQWhCenFNTFBDQXFOX2gxQXNld0JEeUNMeVFSR3V2aVlXQk82cWtkTzY4OUFzaWVzQjBOckwxbHR0NFJieThrVzlGdnBaRW5RZXZzVG8xaE1tNFM2Y3",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVC1HZ05GbkNud3gzQXpVaFBUeHJtUW5mRjFGdzZtSjg3UG5waEF6TVNfdFlqMnFZUDVTdXc2WTJVQk5hTHUtQWhCenFNTFBDQXFOX2gxQXNld0JEeUNMeVFSR3V2aVlXQk82cWtkTzY4OUFzaWVzQjBOckwxbHR0NFJieThrVzlGdnBaRW5RZXZzVG8xaE1tNFM2Y3hramIzM1pSZlVzQlZ1MGtXeFlmX05hdnNHZmNaeWlkREZYUE0tSG1peGlfRm5qR2xfaHNpem1xdkNDVlFmYndnQm42S01sWFRxWVhXTDN1OXFjOV91MkFPclcyaGZ5R3l2VzJycGh0eURmX2tjZXU1V2dEWjR3?oc=5",
+      "medio": "BioBioChile",
+      "fecha": "2026-11-17T18:19:40.000Z",
       "imagen": "",
       "tema": "Presidencia desmiente noticia falsa"
     },
@@ -712,15 +721,6 @@
       "fecha": "2026-11-05T09:50:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.pxIk-MpfWiicP806d5QrFQ&pid=News",
       "tema": "Presidencia desmiente noticia falsa"
-    },
-    {
-      "titulo": "'Se acab&#243; la falsa paz': presidente Abelardo De La Espriella sentenci&#243; el fin de la 'paz total' tras sancionar la ley de sometimiento",
-      "resumen": "El jefe de Estado asegur&#243; que no habr&#225; beneficios sin compromisos y defendi&#243; la justicia, la autoridad y la reparaci&#243;n como pilares de su Gobierno.",
-      "link": "https://www.msn.com/es-co/noticias/otras/se-acab%C3%B3-la-falsa-paz-presidente-abelardo-de-la-espriella-sentenci%C3%B3-el-fin-de-la-paz-total-tras-sancionar-la-ley-de-sometimiento/ar-AA2gQ3wX",
-      "medio": "El Tiempo on MSN",
-      "fecha": "2026-11-05T09:38:29.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.TTxOcS3QvGMxjGK42eX_MQ&pid=News",
-      "tema": "De la Espriella noticias falsas"
     }
   ]
 }
