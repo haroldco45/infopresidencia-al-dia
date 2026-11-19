@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-18T19:18:20.281Z",
+  "actualizado": "2026-11-19T01:23:43.085Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Con De la Espriella, usted podría ser el siguiente falso positivo - Colombia Informa",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNajlqTXZqMWw0VWJKd2RGN2FBT2QzTmVWY0NLb1E0czBfMURBWUtZQ2dKZE00dXdramtuNXByaUxYdU16WWVBOUkyak1aR2Q5R2psMXFQdDE2MEdFQmtRTDRwWmtzR2lKVkcySGkzY3dxWTZlUVBMaUlxNXJuaDVXMHVxNGVBaG05elU5ZUVvLVFhVTZUOTU3RFVld0",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajlqTXZqMWw0VWJKd2RGN2FBT2QzTmVWY0NLb1E0czBfMURBWUtZQ2dKZE00dXdramtuNXByaUxYdU16WWVBOUkyak1aR2Q5R2psMXFQdDE2MEdFQmtRTDRwWmtzR2lKVkcySGkzY3dxWTZlUVBMaUlxNXJuaDVXMHVxNGVBaG05elU5ZUVvLVFhVTZUOTU3RFVld0RyMmM?oc=5",
+      "medio": "Colombia Informa",
+      "fecha": "2026-11-18T22:24:25.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
     {
       "titulo": "(OPINIÓN) ¿Un falso debate para poner en libertad a los criminales capturados durante los primeros 100 días del presidente De La Espriella? Por: Eduardo Mackenzie - IFM Noticias",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQaHhsX1NmSGlrMnJ3NkowbTdPUUxyWGJUN0lSMXZPaW9kZXJnOWdkVU5sUzdReEowbGRrSDBIVlBKQUw5VUExTW5HbFZBbVRfdDdILTZBNV9SREc3YVF6MkhvaUxkTFlnZnliS1RzaVRvREw4S0JuWTF1U3hlM1lIN2FkeW85TEdXOGx4VzhsY1JDeFlNRmFTTkZzS0",
@@ -48,6 +57,15 @@
       "tema": "Presidencia desmiente noticia falsa"
     },
     {
+      "titulo": "Con De la Espriella, usted podr&#237;a ser el siguiente falso positivo",
+      "resumen": "Publicado por Editora Bogot&#225; | Nov 18, 2026 | DD.HH., Destacadas | 0 CI. – En sus primeros tres meses, el gobierno de extrema derecha ha hecho gala de anuncios que resultaron falsos y que dejaron como ...",
+      "link": "https://www.colombiainforma.info/con-de-la-espriella-usted-podria-ser-el-siguiente-falso-positivo/",
+      "medio": "Colombia Informa",
+      "fecha": "2026-11-17T16:00:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.y-3jGwJHN90nazqtSWYjKA&pid=News",
+      "tema": "De la Espriella noticias falsas"
+    },
+    {
       "titulo": "Detector: no habr&#225; un apag&#243;n mundial ni en Colombia el 17 de noviembre",
       "resumen": "Circula que hoy habr&#225; un apag&#243;n mundial de 72 horas. Pero ninguna autoridad lo anunci&#243; y un corte global simult&#225;neo es imposible.",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-no-habra-un-apagon-mundial-ni-en-colombia-el-17-de-noviembre/",
@@ -55,6 +73,15 @@
       "fecha": "2026-11-17T13:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.bGx39d0BCv0w1GFi_88boQ&pid=News",
       "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "Los delincuentes de “alto valor” que De la Espriella tiene en la mira, adem&#225;s de ‘Mordisco’ y ‘Calarc&#225;’",
+      "resumen": "La captura de N&#233;ider Yesid U&#241;ates L&#243;pez, alias Primo Gay, volvi&#243; a poner sobre la mesa los objetivos de alto valor que las autoridades buscan ubicar en Antioquia y otras regiones del pa&#237;s. Su detenci&#243; ...",
+      "link": "https://es-us.noticias.yahoo.com/delincuentes-alto-valor-espriella-mira-165608637.html",
+      "medio": "Yahoo Noticias en Espa&#241;ol",
+      "fecha": "2026-11-17T08:57:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.PC1rNEst04gy0Gorr37LgA&pid=News",
+      "tema": "De la Espriella noticias falsas"
     },
     {
       "titulo": "Juez remite a la C&#225;mara investigaci&#243;n sobre el presidente De la Espriella por trato a capturados del Clan del Golfo en Antioquia",
@@ -694,33 +721,6 @@
       "fecha": "2026-11-05T22:26:43.000Z",
       "imagen": "",
       "tema": "Vocería Presidencia desmiente"
-    },
-    {
-      "titulo": "Tres hombres con antecedentes por homicidio y hurto fueron sorprendidos dentro de la casa del director del Dapre: Presidencia reveló los detalles - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdkdJRUlBcHJncElJNmdnWGpaZzJwSmpjN1B3UEpXdHFBZ0lNYWpXSEhCVmtaZmZlaFpOZWs5REZTS0huUXdqWnhwTnVEbVZ5UlMxZ0FIVVd3YUw5Y2YxYXJpRkFYYmFGXzRPbGJxNDZfa2tZMWlHdUdGWGZ3MGVXVnhtcnhMdnl5Rm4zMWJxckxqdUsxQ0JnczFkME",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdkdJRUlBcHJncElJNmdnWGpaZzJwSmpjN1B3UEpXdHFBZ0lNYWpXSEhCVmtaZmZlaFpOZWs5REZTS0huUXdqWnhwTnVEbVZ5UlMxZ0FIVVd3YUw5Y2YxYXJpRkFYYmFGXzRPbGJxNDZfa2tZMWlHdUdGWGZ3MGVXVnhtcnhMdnl5Rm4zMWJxckxqdUsxQ0JnczFkME9BZTlWWlhBc2ZramVPVTF1TngzZDJUVXAweE4xWG82RFltQUwxSjMxNlpNeUUtekRJeC14dnNDN29ZZ3RLRXYyTWt2RWlKd0VlZExJNGdOQ3JHV3JYVjQ0ZHpTeXFnSjhPV0FDenpjVElzUjhEcUsxV3N5aHhiMXBlUjFG0gGzAkFVX3lxTE9FRDBZeVBpRXV1YmVLWm95aEh3RFVwQWZQQ2xtbHJkemptT3hjYjJ1MDRWdFlPRHFQYlBwSTFXZ0loSGlDQUxqTm53MUdtLWFDS0dJc1JPbkVoNXNVMDJ4bHNLYnRuRFNWdHRLczFaZ1dPc1EzVUZLTzc2YUxaMjBRS2VEaHgtZ2xqRnJWZG1YcmtNbC1fdFREN0tSSk9fa2ZSRkRwdFZDSnBWZWJ1MkdYaWhZLVhPbXNqMEJxcXl3MXFZdlVmdGpkTGhqOTBSM3piak5Eb1Rybk50MGdIMS0tMlNabER0WXE1bHdxb1V1TW1sYjFtUEN1ckx1YnlkaGVlbG10QjRfX296R28zbkxLWVFmZTVJNUsxN1hXMXZSQldRa1YxcUk0RUZMbzJwWTV1bDg?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-05T20:25:00.000Z",
-      "imagen": "",
-      "tema": "infopresidencia"
-    },
-    {
-      "titulo": "EE UU: El entorno de Marco Rubio desmiente que renuncie - 14yMedio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdQU2dHbGpmQzFhSjhqbXMxeldXWkM1ai1kdGgwbXk1YmZlcHpmWm5oYmp4bHFJc2dOejNSc2w3TVdGcHROUlBNXzhST0RuS25BcW1GdUctSGJCQkhyekw2ajBwUGUtalNSMjV0UDhrZnNNak5YQWR4MkM3UDE4aVpsNzNJck1sR3J6UFNvXzIydkY0V3V30gGcAU",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjdQU2dHbGpmQzFhSjhqbXMxeldXWkM1ai1kdGgwbXk1YmZlcHpmWm5oYmp4bHFJc2dOejNSc2w3TVdGcHROUlBNXzhST0RuS25BcW1GdUctSGJCQkhyekw2ajBwUGUtalNSMjV0UDhrZnNNak5YQWR4MkM3UDE4aVpsNzNJck1sR3J6UFNvXzIydkY0V3V30gGcAUFVX3lxTFB6WlVveFpFTVl0THFGUk1nei1RcUdoZmR4QmRVaUkyZDVod3hrbHI1SjhKQ1FwaDNfaU5rVjdlbm9IcGs4UXl5bVRqZXJwS01LVzBpbV9RRElyMGMtTWRSTnpsOGdqUTRDNGV2d2xIWmdHYlM2U1JjanAyR0NYRnNqc2ZhdWt1Mk4zOE1URGdDNE9RR3VIdDJqOUdETw?oc=5",
-      "medio": "14yMedio",
-      "fecha": "2026-11-05T19:02:17.000Z",
-      "imagen": "",
-      "tema": "Presidencia desmiente noticia falsa"
-    },
-    {
-      "titulo": "Vicepresidente Restrepo acusó al Gobierno Petro de actuar en connivencia con grupos criminales",
-      "resumen": "Intervención en la XXX Cumbre Iberoamericana en Madrid.",
-      "link": "https://www.infobae.com/colombia/2026/11/05/vicepresidente-jose-manuel-restrepo-acuso-al-gobierno-petro-de-actuar-en-connivencia-entre-los-grupos-criminales/",
-      "medio": "Infobae",
-      "fecha": "2026-11-05T18:00:00.000Z",
-      "imagen": "",
-      "tema": "Vicepresidencia"
     }
   ]
 }
