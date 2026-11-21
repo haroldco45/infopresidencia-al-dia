@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T06:28:37.233Z",
+  "actualizado": "2026-11-21T14:54:25.618Z",
   "total": 80,
   "noticias": [
     {
@@ -17,7 +17,7 @@
       "link": "https://www.lapatria.com/eje-cafetero/gerente-del-fondo-milagro-donara-su-salario-la-reconstruccion-de-pereira-y-risaralda",
       "medio": "La Patria",
       "fecha": "2026-11-20T17:57:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.bru9tdqZnRUlowzS5l99_g&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.6-Olp8ZVR3v5Ll3NCJ59hA&pid=News",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -77,7 +77,7 @@
     {
       "titulo": "The New York Times respondi&#243; a De la Espriella tras acusaciones de “noticias falsas” por informe sobre cooperaci&#243;n con EE. UU.",
       "resumen": "The New York Times, uno de los peri&#243;dicos m&#225;s importantes del mundo, respondi&#243; al presidente Abelardo de la Espriella por una publicaci&#243;n del mandatario, en la que los se&#241;al&#243; de publicar “informaci&#243;n ...",
-      "link": "https://www.msn.com/es-co/noticias/otras/the-new-york-times-respondi%C3%B3-a-de-la-espriella-tras-acusaciones-de-noticias-falsas-por-informe-sobre-cooperaci%C3%B3n-con-ee-uu/ar-AA2hRzya",
+      "link": "https://www.msn.com/es-co/noticias/other/the-new-york-times-respondi%C3%B3-a-de-la-espriella-tras-acusaciones-de-noticias-falsas-por-informe-sobre-cooperaci%C3%B3n-con-ee-uu/ar-AA2hRzya",
       "medio": "El Colombiano on MSN",
       "fecha": "2026-11-20T05:01:54.000Z",
       "imagen": "",
@@ -106,7 +106,7 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3RFSUhvM0JuTk5ibWJPR2cxUlpxVjFESWN6b3ZzX1VnSkVIa2dfWE5IdmlGU0tZcThzclpwYlhXX0lzaWRrUTB3SHNyVE1yb0FqUzZYTGNXcnVLX0RuaWtYa1JVeXcxMm4xa29RNy1kTktsek1tUF9KOUtKRlNMQ1R2UHBneURlaFpDRkhFUm5meGRkeENiVnhPMz",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3RFSUhvM0JuTk5ibWJPR2cxUlpxVjFESWN6b3ZzX1VnSkVIa2dfWE5IdmlGU0tZcThzclpwYlhXX0lzaWRrUTB3SHNyVE1yb0FqUzZYTGNXcnVLX0RuaWtYa1JVeXcxMm4xa29RNy1kTktsek1tUF9KOUtKRlNMQ1R2UHBneURlaFpDRkhFUm5meGRkeENiVnhPMzk3eDNoNFdEbEc4UXFRam5s?oc=5",
       "medio": "El Pais Vallenato",
-      "fecha": "2026-11-19T17:13:25.000Z",
+      "fecha": "2026-11-19T16:57:10.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
     },
@@ -570,6 +570,15 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
+      "titulo": "73% de “aprobación” de Abelardo a 100 días no sale de una encuesta - La Silla Vacía",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW13bjVZdWd6cXJqcXYwVGJ1eG9nTzJrS0o4RFJKdXotcGM5MXFaMEkzU2NqekxPT1lycGdXeFhScmZSXzlzYzVVLUpHTEV5X2w0WlpGVWJneGZoZko0UnBSMHJ4WnZtdlludU1FVjNFR2pwdEZNVElzYi1vQUtuX0tEVVd4SGFFZWdWU3lqSmFURERtckY4aGUzdH",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW13bjVZdWd6cXJqcXYwVGJ1eG9nTzJrS0o4RFJKdXotcGM5MXFaMEkzU2NqekxPT1lycGdXeFhScmZSXzlzYzVVLUpHTEV5X2w0WlpGVWJneGZoZko0UnBSMHJ4WnZtdlludU1FVjNFR2pwdEZNVElzYi1vQUtuX0tEVVd4SGFFZWdWU3lqSmFURERtckY4aGUzdHBxOVMtbkEtbk8wUVV3Z28xVTh4N042RHUwX2ZWNGwyNw?oc=5",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-11-13T23:11:15.000Z",
+      "imagen": "",
+      "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
       "titulo": "“La reconstrucci&#243;n de Pereira puede costar alrededor de $13 billones”",
       "resumen": "Mauricio salazar, alcalde de la capital de Risaralda, afirm&#243; que, tres meses despu&#233;s del terremoto, el Fondo Milagro no ha transferido recursos para la reconstrucci&#243;n ...",
       "link": "https://www.msn.com/es-co/noticias/otras/la-reconstrucci%C3%B3n-de-pereira-puede-costar-alrededor-de-13-billones/ar-AA2hp9w0",
@@ -602,7 +611,7 @@
       "link": "https://www.larepublica.co/analisis/santiago-angel-rodriguez-3548824/que-pasa-con-la-reconstruccion-en-pereira-4524830",
       "medio": "La Rep&#250;blica",
       "fecha": "2026-11-13T16:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.N_Z0m7e-TsocAUuUVa2Hfg&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.PXk1T63LlT51V8-0VwoMMA&pid=News",
       "tema": "comisiones reconstrucción Pereira"
     },
     {
@@ -712,15 +721,6 @@
       "fecha": "2026-11-12T21:09:28.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Pereira sigue esperando los recursos para su reconstrucci&#243;n",
-      "resumen": "Pereira tiene una nueva preocupaci&#243;n mientras se reconstruye despu&#233;s del terremoto del 10 de agosto. Adem&#225;s de las casas destruidas, los negocios da&#241;ados y la ...",
-      "link": "https://www.eldiario.com.co/actualidad/pereira-sigue-esperando-los-recursos-para-su-reconstruccion/",
-      "medio": "El Diario",
-      "fecha": "2026-11-12T21:06:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.bnui9W4IyipjyYC_EKukXQ&pid=News",
-      "tema": "comisiones reconstrucción Pereira"
     }
   ]
 }
