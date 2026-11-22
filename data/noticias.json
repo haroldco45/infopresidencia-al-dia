@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T16:59:33.735Z",
+  "actualizado": "2026-11-22T22:24:53.146Z",
   "total": 80,
   "noticias": [
     {
@@ -8,6 +8,15 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHJMTy0zb2xZNXhBcG1hM1pLVU15MV9KaHExQnBOWDYyVFRYRUNtQ0xjdUZyWFdCdW1fZjJjRzBtWjZZeFlWWGVkR3YzcDJnejM0dm1Kc3cyUWVZYTNEdEVKZ0pXZFh3eHd6amxrYTZfR1dkYXpCNXhCWHN0aXFubzJhRHhUQ2pRejllUVY0aTRnZTlrLThLNVUwc1cxRWYyOUdWLTZ5ZXlzM2lkT0R4TlhobEJpeVZxX3JaOA?oc=5",
       "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
       "fecha": "2026-11-22T16:47:44.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Senado llegará a Pereira y Dosquebradas para revisar atención tras el terremoto - Risaraldahoy.com",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmRfRkl5c2lOQzZyangwMjVyRXVOSGZJZFY1Qkd0TGpmNHhoRDR5eXBRbkdsN2tZQURLZjVGVXBwVE5jVmZRUWhyZDd3WnQxOWpkSnVnajVhV3F2Z3RSQzVQTzlGVDBScm1lcXg3YkJiTW5vOEg4Rk5YVnRZYW1xRXVVTVdvS2pzYmFoLThfbE55RTBSVHpVa2NpMl",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmRfRkl5c2lOQzZyangwMjVyRXVOSGZJZFY1Qkd0TGpmNHhoRDR5eXBRbkdsN2tZQURLZjVGVXBwVE5jVmZRUWhyZDd3WnQxOWpkSnVnajVhV3F2Z3RSQzVQTzlGVDBScm1lcXg3YkJiTW5vOEg4Rk5YVnRZYW1xRXVVTVdvS2pzYmFoLThfbE55RTBSVHpVa2NpMlh2N0pqay1nVV9NZXI?oc=5",
+      "medio": "Risaraldahoy.com",
+      "fecha": "2026-11-22T16:33:48.000Z",
       "imagen": "",
       "tema": "comisiones reconstrucción Pereira"
     },
@@ -471,6 +480,15 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
+      "titulo": "Urgen al Gobierno acelerar reconstrucción de viviendas impactadas por el terremoto - El Nuevo Siglo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUhsN25iM3NTOVYwa0hGMTRuNlZJdmtBQlF6dWdLbTFvTEJ6ZExVaUJTaGp0RFo3em1INHl4d0MwVjBwZVluMkNVSTBLX0JfSE1sTngybHM4SnpPUWVZR0kxVWhQU3F3ajZxdU1NMjV1SE94Sld1NUU4amYzdVMxYXNuMXVrNnJkbFdybHFleHRoQnU5SEpjSlV6aF",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUhsN25iM3NTOVYwa0hGMTRuNlZJdmtBQlF6dWdLbTFvTEJ6ZExVaUJTaGp0RFo3em1INHl4d0MwVjBwZVluMkNVSTBLX0JfSE1sTngybHM4SnpPUWVZR0kxVWhQU3F3ajZxdU1NMjV1SE94Sld1NUU4amYzdVMxYXNuMXVrNnJkbFdybHFleHRoQnU5SEpjSlV6aFNxVUgxTnNuVnVZOHRVWXBpRm5LXy05TXhNTG9JQ25MYUdR?oc=5",
+      "medio": "El Nuevo Siglo",
+      "fecha": "2026-11-18T06:44:42.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
       "titulo": "Colombian News – Un falso debate contra el presidente De La Espriella - La Linterna Azul",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcW4xWUsxM2hpUVVWZ0pVT283c2J2SE1ldjZGMnBISEp2YzZ4WFVZQlU5ZUlESlI3U2lnbFZZRjZ3NjhZQU9SOFFQTDRPX3VBVHVNcFlnVlJGV3haeF9JaGRZZ2VMbEFyLXM0VEl5LWlXcHBHV2hHSWV4UWlncEZwQ2RSWU5Ia2RaaEYtd2Eyc3AyY0p3WDdmQU9RSk",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcW4xWUsxM2hpUVVWZ0pVT283c2J2SE1ldjZGMnBISEp2YzZ4WFVZQlU5ZUlESlI3U2lnbFZZRjZ3NjhZQU9SOFFQTDRPX3VBVHVNcFlnVlJGV3haeF9JaGRZZ2VMbEFyLXM0VEl5LWlXcHBHV2hHSWV4UWlncEZwQ2RSWU5Ia2RaaEYtd2Eyc3AyY0p3WDdmQU9RSkdhSDhHX3N2OExTQjZlRlJBQnAyNUM5U3pwNFNk?oc=5",
@@ -532,6 +550,15 @@
       "fecha": "2026-11-17T13:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.bGx39d0BCv0w1GFi_88boQ&pid=News",
       "tema": "Detector de mentiras Presidencia Colombia"
+    },
+    {
+      "titulo": "“La gente está ávida de respuestas sobre la reconstrucción”: senadora Norma Hurtado de la comisión para el terremoto | El Colombiano - El Colombiano",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYWJCRTYyRklWTlI5LXVlNUFrMkx6Q2d2M1dWbV9odFBGMGVkZ0lORVpuNTFRQ2F5cGZnbXBNQUdMTXlQMzQ1eEd5elhxOTNBTHk5dVBtUXRfQTFJZ2ZKampPcHd3WGVKeUJITmVNUDM3VzdlcElTZjdRV19jMlRmYXpnUWQyUjliQVZ5VDVBdHpRZUZPMV9DNUFnSm",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYWJCRTYyRklWTlI5LXVlNUFrMkx6Q2d2M1dWbV9odFBGMGVkZ0lORVpuNTFRQ2F5cGZnbXBNQUdMTXlQMzQ1eEd5elhxOTNBTHk5dVBtUXRfQTFJZ2ZKampPcHd3WGVKeUJITmVNUDM3VzdlcElTZjdRV19jMlRmYXpnUWQyUjliQVZ5VDVBdHpRZUZPMV9DNUFnSmhfTnEwRjR2S3dXaFUwY2RpaG1KMEJ6bExuTG0tNmd2bEN3R042b1dmVm9tczJTajlMMTVMTHJhM2xCbEpZR2htS3fSAeMBQVVfeXFMTnNRYXhzVVYzREJFOV9wMTdoaC1rZlNESlNfb2I2WDM5ZWtWcjNBYzFpbm5IZXVkbjhQOHk1V3pyZ1dRb0dRVXE4blBDY1M0amdVMGxnOGFTbU5kZW10SzFnWXpjcFVTcGxwak9FM0l0SDUyMDl6TUhfTms2OU9OeVpRb1YwYS1qTF8taFVvVWJzcHJ0akJPMDJXMXhMVjlWR0dRc2lORkhjLWlnOHRmSkFHTi1ZUjV0Rjl3VUdRSjZubHpIRnp5U1JEdHJqSWtQN3M2bVV6V1J6TTdqUlhPeTF6bkU?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-17T10:03:57.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
     },
     {
       "titulo": "Los delincuentes de “alto valor” que De la Espriella tiene en la mira, adem&#225;s de ‘Mordisco’ y ‘Calarc&#225;’",
@@ -693,33 +720,6 @@
       "medio": "Infobae",
       "fecha": "2026-11-13T13:05:00.000Z",
       "imagen": "",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Flip denuncia que Gobierno De la Espriella asigna pauta seg&#250;n el cubrimiento de los medios",
-      "resumen": "La FLIP y El Veinte, oeneg&#233;s defensoras de la libertad de expresi&#243;n, alertaron sobre una posible forma de censura indirecta.",
-      "link": "https://www.msn.com/es-co/noticias/nacional/flip-denuncia-que-gobierno-de-la-espriella-asigna-pauta-seg%C3%BAn-el-cubrimiento-de-los-medios/ar-AA2ho94S",
-      "medio": "El Espectador on MSN",
-      "fecha": "2026-11-13T12:24:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ORMS.a894f9ee2cdb6685d33f944aec75f78f&pid=News",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Gobierno estrena secci&#243;n para “desmentir” publicaciones en su contra",
-      "resumen": "Pa&#237;ses como M&#233;xico, Brasil o Argentina tambi&#233;n las tienen. Se crea justo en medio de una relaci&#243;n tensa del Ejecutivo con los medios.",
-      "link": "https://www.lasillavacia.com/en-vivo/gobierno-estrena-seccion-para-desmentir-publicaciones-en-su-contra/",
-      "medio": "La Silla Vac&#237;a",
-      "fecha": "2026-11-13T11:48:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.JT74RBhg0k-jy15PNHKYkw&pid=News",
-      "tema": "Vocería Presidencia desmiente"
-    },
-    {
-      "titulo": "100 drones iban para una empresa en el Valle del Cauca y la Dian descubri&#243; el plan: Abelardo De La Espriella se pronunci&#243;",
-      "resumen": "El presidente envi&#243; un contundente mensaje a los criminales: “No van a utilizar el cielo colombiano para sembrar terror”.",
-      "link": "https://www.semana.com/politica/articulo/100-drones-iban-para-una-empresa-en-el-valle-del-cauca-y-la-dian-descubrio-el-plan-abelardo-de-la-espriella-se-pronuncio/202631/",
-      "medio": "Semana",
-      "fecha": "2026-11-13T11:07:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.UI5FNiPwg63tawkPIgTQNg&pid=News",
       "tema": "De la Espriella noticias falsas"
     }
   ]
