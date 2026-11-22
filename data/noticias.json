@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T20:50:32.945Z",
+  "actualizado": "2026-11-22T01:04:28.194Z",
   "total": 80,
   "noticias": [
     {
@@ -19,6 +19,15 @@
       "fecha": "2026-11-20T17:57:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.6-Olp8ZVR3v5Ll3NCJ59hA&pid=News",
       "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "Vocero del Gobierno hizo acalaraciones sobre la movilizaci&#243;n de la hija del presidente en una embarcaci&#243;n de la Armada",
+      "resumen": "El vocero Miller Soto asegur&#243; que la movilizaci&#243;n de Luc&#237;a de la Espriella en la embarcaci&#243;n respondi&#243; a motivos de seguridad (@infopresidencia/X) ...",
+      "link": "https://www.infobae.com/video/politica/vocero-del-gobierno-hizo-acalaraciones-sobre-la-movilizacion-de-la-hija-del-presidente-en-una-embarcacion-de-la-armada/OSSqn0KJ/",
+      "medio": "Infobae",
+      "fecha": "2026-11-20T16:00:00.000Z",
+      "imagen": "",
+      "tema": "infopresidencia"
     },
     {
       "titulo": "Colombian News – Nuevo esc&#225;ndalo: los t&#237;tulos falsos de Ver&#243;nica Estrada Holgu&#237;n",
@@ -711,15 +720,6 @@
       "medio": "Minuto30",
       "fecha": "2026-11-13T01:18:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.ezIs2DCVCOqDzl-BKR5O7Q&pid=News",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "De La Espriella desmiente acuerdo con Ueno Bank Paraguay - Estrella Digital Colombia",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBVbjhFMGF5ZXhfX2JKc2JBa1pEUG4zVXdVSXVuRHc0bHRYQU93Q2NtRHlZbWxtV0h1WUhhMUUyZjExQUpUakFtN0lBMGhreEFQNkhYNGpnUFpjWTdoTXpFNldRenlzU0Y2QjRIbnFjR0x2U09GTmpvc3FZRFpFZGc?oc=5\" target=\"_blank\">De La Espriella ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVbjhFMGF5ZXhfX2JKc2JBa1pEUG4zVXdVSXVuRHc0bHRYQU93Q2NtRHlZbWxtV0h1WUhhMUUyZjExQUpUakFtN0lBMGhreEFQNkhYNGpnUFpjWTdoTXpFNldRenlzU0Y2QjRIbnFjR0x2U09GTmpvc3FZRFpFZGc?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-11-12T21:09:28.000Z",
-      "imagen": "",
       "tema": "De la Espriella noticias falsas"
     }
   ]
