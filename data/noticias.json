@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-11-25T04:01:43.146Z",
+  "actualizado": "2026-11-25T14:50:31.445Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Pereira ser&#225; sede del Encuentro Nacional de Personeros, la reconstrucci&#243;n ser&#225; el tema principal",
+      "resumen": "Este jueves 26 y viernes 27 de noviembre, la capital de Risaralda recibir&#225; a m&#225;s de 100 personeros de diferentes regiones de Colombia.",
+      "link": "https://caracol.com.co/2026/11/25/pereira-sera-sede-del-encuentro-nacional-de-personeros-la-reconstruccion-sera-el-tema-principal/",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-25T02:57:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.AqzzsvhAKrni1bNrrw8LrQ&pid=News",
+      "tema": "comisiones reconstrucción Pereira"
+    },
+    {
+      "titulo": "En Roldanillo gobierno De la Espriella instala fachadas falsas en lotes de casas destruidas por el terremoto - El Quindiano",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUNBMEJPbTV3T1FVTVRraVA0c2JlNU11U2kyZlVZc1k2OUhzWGZ4Y3JPdFlKQUNqczIzdUVYaVRNMEt0LUtvSnFxeHJVTld1XzVfTS02dU15aTAzdnFVbU5BbzdaaE9aNkFwaVdhbHM3S3FaODZ4YWpRZkV6T0NXQS00R3VDaHM5RllkVURCYVppUDZoYlI3OHhzRi",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUNBMEJPbTV3T1FVTVRraVA0c2JlNU11U2kyZlVZc1k2OUhzWGZ4Y3JPdFlKQUNqczIzdUVYaVRNMEt0LUtvSnFxeHJVTld1XzVfTS02dU15aTAzdnFVbU5BbzdaaE9aNkFwaVdhbHM3S3FaODZ4YWpRZkV6T0NXQS00R3VDaHM5RllkVURCYVppUDZoYlI3OHhzRi1YLXZqM1dMZU5VRkxRanpRTWVJQXY5amROa1k0Y0tGNDJMNTl5S290M3hkYldYWFJWeTZ6VHJXcHNhU2hkOXU0MkhOdjlR?oc=5",
+      "medio": "El Quindiano",
+      "fecha": "2026-11-24T22:56:17.000Z",
+      "imagen": "",
+      "tema": "De la Espriella noticias falsas"
+    },
     {
       "titulo": "De la Espriella califica de ‘falsa paz’ el acuerdo firmado en 2016 con las FARC - El Comercio",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWURrWnZXaU1XVUNVNERTX3laemVfbFJQNFJwVndJMWcyRmd0S3NxdFpSRC1yd0ZiRFRwUVV5T0hBRWllcWRxQ1BiUndGaHJmSkJuWHYycEl3STNvNWRtMWctN3dKZ1p1Vmc1cHQ0YktPN1J2V1RfeHRfMXI5QVl0Z1NMcWIxWUJlMUYzNWdXYVItM2NPQmJRRVVXMW",
@@ -17,15 +35,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakFkcTY0a0ZHeDBPZ28waktEYmRiNDkxOEhOZ2tqOFR6N2JQNEtjdzIwQS13cHkxYlJVdlpjZEZnUGVOYTEtRW8xcDBfUWhlNkpHLUVKOGlBTHQ0R1BSOTdURFB1d3FNSHREc1BrRVFPdFRrYXJCTnY5bVpua0dLX1E5ekJFSl9CU0EyQ1ZXX3cyRHhvTnhXNUx2NmlPQ0dhdWwxMVhnYVRhTkVY?oc=5",
       "medio": "Colombia.com",
       "fecha": "2026-11-24T13:51:23.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "De la Espriella califica de \"bodrio\" y \"falsa paz\" el acuerdo firmado en 2016 con las FARC",
-      "resumen": "El presidente colombiano, Abelardo de la Espriella, calific&#243; de \"bodrio\" y \"falsa paz\" el acuerdo firmado en 2016 entre el Gobierno y las extintas Fuerzas Armadas Revolucionarias de Colombia (FARC), q ...",
-      "link": "https://www.msn.com/es-cl/noticias/otras/de-la-espriella-califica-de-bodrio-y-falsa-paz-el-acuerdo-firmado-en-2016-con-las-farc/ar-AA2i8ltv",
-      "medio": "BioBioChile on MSN",
-      "fecha": "2026-11-24T09:45:06.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
     },
@@ -57,11 +66,11 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
-      "titulo": "En Roldanillo gobierno De la Espriella instala fachadas falsas en lotes de casas destruidas por el terremoto - El Quindiano",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUNBMEJPbTV3T1FVTVRraVA0c2JlNU11U2kyZlVZc1k2OUhzWGZ4Y3JPdFlKQUNqczIzdUVYaVRNMEt0LUtvSnFxeHJVTld1XzVfTS02dU15aTAzdnFVbU5BbzdaaE9aNkFwaVdhbHM3S3FaODZ4YWpRZkV6T0NXQS00R3VDaHM5RllkVURCYVppUDZoYlI3OHhzRi",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQUNBMEJPbTV3T1FVTVRraVA0c2JlNU11U2kyZlVZc1k2OUhzWGZ4Y3JPdFlKQUNqczIzdUVYaVRNMEt0LUtvSnFxeHJVTld1XzVfTS02dU15aTAzdnFVbU5BbzdaaE9aNkFwaVdhbHM3S3FaODZ4YWpRZkV6T0NXQS00R3VDaHM5RllkVURCYVppUDZoYlI3OHhzRi1YLXZqM1dMZU5VRkxRanpRTWVJQXY5amROa1k0Y0tGNDJMNTl5S290M3hkYldYWFJWeTZ6VHJXcHNhU2hkOXU0MkhOdjlR?oc=5",
-      "medio": "El Quindiano",
-      "fecha": "2026-11-24T03:52:33.000Z",
+      "titulo": "De la Espriella califica de “bodrio” y “falsa paz” el acuerdo firmado en 2016 con las FARC - El Comercio Perú",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxNaHFnZndfeVVmMzhhR2xjUVZjbThGZzJSSjN4UkVqcnZDenhXRlNVTUEyZ2pOWXpUQnVNRWNpQkppV3A4UnpYQUtjd2Rxd3B5cVRmbDMtVE9pMUZGRXpDLXJ4bmtSOVdLWDk3VUNUd0Z3U1o1Z1ZxN3ZyQXlpNF9sR3NmV1JZZ0NVaXBCRkZUTi1pRXEzRlZ3NW1aMW",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNaHFnZndfeVVmMzhhR2xjUVZjbThGZzJSSjN4UkVqcnZDenhXRlNVTUEyZ2pOWXpUQnVNRWNpQkppV3A4UnpYQUtjd2Rxd3B5cVRmbDMtVE9pMUZGRXpDLXJ4bmtSOVdLWDk3VUNUd0Z3U1o1Z1ZxN3ZyQXlpNF9sR3NmV1JZZ0NVaXBCRkZUTi1pRXEzRlZ3NW1aMWZ5MlpWbXFyRTBSVi1FVV9MaVhkc000NFJoVFVsell4Z2lUUmxfRF8weFJaYXZ2VUdTMThGQzByQXZMVlJMcDVjZGI3cEFGZ0dlNG5uWjM0UDFiQTc4QmF4cExtSHEtX3kyaXNYNlhkUDJXSVNvcU9UZ1kyRXlqUUp3cTFPRVQ5TWthTEs4QVla0gG4AkFVX3lxTE5saXBVSk9Bcl9VX2l5b29DZlBOLVEtWVRvczZjazRaNFlCUTVGNGo1bWxhTmZrdDVlOXBOam5pTWNRemVzcmFNekFyZGZ3dVhCV3RjOVc5d29IdHhTT24yMUJEX0tGa3NTNG9RdkJwd0lwNWRDVG13NjlyekY4d3N1SzNOejRYaWRPTjNYR0dUVUczTWVkTmhZUDVGdkUtQ3J5aEFONDduZXZJZ0RubUdHWGZxaElVRDdpQmNONm9yZm8yRm5kUkY3TlE0d1NIN0hiUFFpQ0llbFQ1Mjl5VXJCekh1SDJ1MXM1RDNEdG5qZmlKc2ZIX19qOVdKa0QtVHh1ZXFES254R0ptV1FqZGNtTENlR2lyWUFfUTQwejJLdW9KZVYzdWRHaHJuQnVMVnU1T1dwY1l1Zg?oc=5",
+      "medio": "El Comercio Perú",
+      "fecha": "2026-11-24T03:31:23.000Z",
       "imagen": "",
       "tema": "De la Espriella noticias falsas"
     },
@@ -152,7 +161,7 @@
       "link": "https://www.semana.com/politica/articulo/de-la-espriella-compartio-video-en-sus-redes-en-medio-de-controversia-por-titulos-falsos-en-pacto-historico-nace-nuevo-refran/202615/",
       "medio": "Semana",
       "fecha": "2026-11-23T09:35:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.xn12IdY3yGd6I8UCTwU7LQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.sHgzd3-Un71HCkmRi-nbUA&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -161,7 +170,7 @@
       "link": "https://www.pulzo.com/nacion/espriella-lanzo-pulla-petrismo-por-escandalo-titulos-falsos-PP5362307",
       "medio": "Pulzo",
       "fecha": "2026-11-23T06:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.KA-_Cxwlsi2XPyYrrKebeQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.nxlyOyYzWxY4EWUnMJuVGQ&pid=News",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -332,7 +341,7 @@
       "link": "https://www.msn.com/es-co/noticias/otras/the-new-york-times-respondi%C3%B3-a-de-la-espriella-tras-acusaciones-de-noticias-falsas-por-informe-sobre-cooperaci%C3%B3n-con-ee-uu/ar-AA2hRzya",
       "medio": "El Colombiano on MSN",
       "fecha": "2026-11-20T05:01:54.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.OwQ9uzlAEKeOIwXWSuD5_Q&pid=News",
+      "imagen": "",
       "tema": "De la Espriella noticias falsas"
     },
     {
@@ -579,6 +588,15 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
+      "titulo": "Tribunal Electoral desecha queja de Morena contra Salinas Pliego por llamarlo \"narcopartido\" - Proceso",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG9sLUppRXJuUzVZQ2plYjhhc1ZueW5ITmFvTGliY0sxS3ZXekJjNGdzMWZmcHpteExHSG5kWHo4cHNNSU9OQWszLWVQRjRLdk9mRldobDdGM2FoLWZnQTRqUXluOVBMSTRhb3loeVhPWmppdVpHRzQ5NFF1VEpUb0RpaHZGQkVEZGx1YlQySEJWRUI1eTBoamtUYV",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG9sLUppRXJuUzVZQ2plYjhhc1ZueW5ITmFvTGliY0sxS3ZXekJjNGdzMWZmcHpteExHSG5kWHo4cHNNSU9OQWszLWVQRjRLdk9mRldobDdGM2FoLWZnQTRqUXluOVBMSTRhb3loeVhPWmppdVpHRzQ5NFF1VEpUb0RpaHZGQkVEZGx1YlQySEJWRUI1eTBoamtUYVhRTnB0NDlCQVNQLU5fODFVem02RlF0SHFzOWJyZ2wyczB0RWFKOW0yaW5MWERZd1B5NFExQkQ4?oc=5",
+      "medio": "Proceso",
+      "fecha": "2026-11-19T01:10:39.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
+    },
+    {
       "titulo": "&#171;No he rechazado ninguna propuesta&#187;: presidente De la Espriella responde al reportaje de The New York Times",
       "resumen": "El presidente De la Espriella calific&#243; de falsa la informaci&#243;n del diario y asegur&#243;: &#171;No he rechazado ninguna propuesta del gobierno del presidente Trump&#187;.",
       "link": "https://www.minuto30.com/no-he-rechazado-ninguna-propuesta-presidente-de-la-espriella-responde-al-reportaje-de-the-new-york-times/1732048/",
@@ -703,24 +721,6 @@
       "fecha": "2026-11-17T21:09:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.b9HPhgoQQsV7VMOzVcIhuw&pid=News",
       "tema": "De la Espriella noticias falsas"
-    },
-    {
-      "titulo": "Deportes La Serena desmiente venta del club al presidente de Rangers - https://estapasando.cl/",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtZZFo2X09OQ3oyb3FTWlhtckRoc3Rqd3Jid19BXzNUeTRMLUtZSExIaldyb05lSFdkZDhWMmZIZzJWdi1OMG9wdVN2ZFZfUTJrem9aTUF2R3JPNU94eDBFSFhxY3JtWVd5bjcyUmQ4dFhUWDN2NDdjdHJaUkVHdWR0cjBnSm5PbUttSHVtcHdGbjR3SFcwUTQyaS",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUtZZFo2X09OQ3oyb3FTWlhtckRoc3Rqd3Jid19BXzNUeTRMLUtZSExIaldyb05lSFdkZDhWMmZIZzJWdi1OMG9wdVN2ZFZfUTJrem9aTUF2R3JPNU94eDBFSFhxY3JtWVd5bjcyUmQ4dFhUWDN2NDdjdHJaUkVHdWR0cjBnSm5PbUttSHVtcHdGbjR3SFcwUTQyaS1TdXRzZTdF?oc=5",
-      "medio": "https://estapasando.cl/",
-      "fecha": "2026-11-17T19:48:41.000Z",
-      "imagen": "",
-      "tema": "Presidencia desmiente noticia falsa"
-    },
-    {
-      "titulo": "La Serena desmiente posible venta del club a presidente de Rangers: acusan difusión de noticia falsa - BioBioChile",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNVC1HZ05GbkNud3gzQXpVaFBUeHJtUW5mRjFGdzZtSjg3UG5waEF6TVNfdFlqMnFZUDVTdXc2WTJVQk5hTHUtQWhCenFNTFBDQXFOX2gxQXNld0JEeUNMeVFSR3V2aVlXQk82cWtkTzY4OUFzaWVzQjBOckwxbHR0NFJieThrVzlGdnBaRW5RZXZzVG8xaE1tNFM2Y3",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVC1HZ05GbkNud3gzQXpVaFBUeHJtUW5mRjFGdzZtSjg3UG5waEF6TVNfdFlqMnFZUDVTdXc2WTJVQk5hTHUtQWhCenFNTFBDQXFOX2gxQXNld0JEeUNMeVFSR3V2aVlXQk82cWtkTzY4OUFzaWVzQjBOckwxbHR0NFJieThrVzlGdnBaRW5RZXZzVG8xaE1tNFM2Y3hramIzM1pSZlVzQlZ1MGtXeFlmX05hdnNHZmNaeWlkREZYUE0tSG1peGlfRm5qR2xfaHNpem1xdkNDVlFmYndnQm42S01sWFRxWVhXTDN1OXFjOV91MkFPclcyaGZ5R3l2VzJycGh0eURmX2tjZXU1V2dEWjR3?oc=5",
-      "medio": "BioBioChile",
-      "fecha": "2026-11-17T18:19:40.000Z",
-      "imagen": "",
-      "tema": "Presidencia desmiente noticia falsa"
     }
   ]
 }
