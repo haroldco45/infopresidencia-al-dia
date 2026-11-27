@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-26T18:16:08.317Z",
+  "actualizado": "2026-11-27T01:53:01.622Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Congreso llegó a Pereira para hacer seguimiento a la reconstrucción tras el terremoto: damnificados expusieron sus necesidades - Risaraldahoy.com",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOalpXTlNGVGxZVTVpQWktd2xjZWZPeWl4ZlpST3NlYkJpaHd3M0FDdVd6MmJLYUptNzVwdGhmRVdmYUVBdmZ0YUl4TVhfR0FjMFpPYU5vN3JkM1IybmFEb1ZXRS1BYkRaTl96RFNERGQ5VVBVYlpNTlBNTDJnTi04UlRxVkNWdzFkOTRKd01GeTdXTzAwODJEWkpFM3",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOalpXTlNGVGxZVTVpQWktd2xjZWZPeWl4ZlpST3NlYkJpaHd3M0FDdVd6MmJLYUptNzVwdGhmRVdmYUVBdmZ0YUl4TVhfR0FjMFpPYU5vN3JkM1IybmFEb1ZXRS1BYkRaTl96RFNERGQ5VVBVYlpNTlBNTDJnTi04UlRxVkNWdzFkOTRKd01GeTdXTzAwODJEWkpFM3lXOHc0NERDRFdqSk9pNUZfLXRXTWlnN2cyaE1ubEV0enVHakU4eFdsU2xweTJvSGxVcnpDOVI2dlVKTjFpTWVyMWd5Nlc2dGU4dw?oc=5",
+      "medio": "Risaraldahoy.com",
+      "fecha": "2026-11-27T01:51:01.000Z",
+      "imagen": "",
+      "tema": "comisiones reconstrucción Pereira"
+    },
     {
       "titulo": "Reconstrucción tras terremoto costaría $58 billones: Congreso debatirá las ayudas en las regiones - hoy diario del magdalena",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWmdqVzJzNTVKUzFXRzRnSzl3czJZTU14UThzOXFaeGJKekMyc3RFUG9NcnpHQ2ZmalRzQzZ0cHhIWUtOUU9PN2tuSnEzRTVNWWQ5VC1iejJKaUR3YVptaGg3cGtMbW5BeGg2TjAxc1VOT3ltUTAybEJ2NUlxWkFxcVgydVdoTF80YUJudERydy1XNmhQbUdIR0pNWl",
@@ -453,15 +462,6 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
-      "titulo": "Lincolao desmiente citación de Alvarado a La Moneda y responde a críticas del vocero de Gobierno - El Diario Santiago",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU9PbHRvSkIwYTZOdUpVTG1rOU8yam9hMGNyejNQWTV4ZEhfemZLOHozcEJoQjVYQUk1clRJRTRzLTZxSGtWSXdERS1hRHg1eE9id1g0UlFxRHVJU0pUdUZKMmlqd0tCbGN4OUZmNWdmSGoxeXBPUjZFcXR1NVVRbE5ZNTA4aUNyMUFB?oc=5\" target=\"_blank\"",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUU9PbHRvSkIwYTZOdUpVTG1rOU8yam9hMGNyejNQWTV4ZEhfemZLOHozcEJoQjVYQUk1clRJRTRzLTZxSGtWSXdERS1hRHg1eE9id1g0UlFxRHVJU0pUdUZKMmlqd0tCbGN4OUZmNWdmSGoxeXBPUjZFcXR1NVVRbE5ZNTA4aUNyMUFB?oc=5",
-      "medio": "El Diario Santiago",
-      "fecha": "2026-11-19T13:36:31.000Z",
-      "imagen": "",
-      "tema": "Vocería Presidencia desmiente"
-    },
-    {
       "titulo": "Abelardo De La Espriella le envió mensaje al secretario de Guerra de UU. UU., Pete Hegseth: “Es un verdadero patriota” - Revista Semana",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNU5QMWhncFpubk16ZHpJTDZXdXJmUVFpaEtlVzA4eHJ0X0xWVjNKTkE1R014SExsSDBkTkVNcjZNb0dNT2tzbU5ta0d3MkpsMG93LUNBMVJnSVNsV054RjF4LVdjRi03VlRRcldrc1BuR2hWWDNvblV5cGpFTzFwcVhaaVpxaXowWXZVLXFwNVMweUExUVBaRlBZNn",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNU5QMWhncFpubk16ZHpJTDZXdXJmUVFpaEtlVzA4eHJ0X0xWVjNKTkE1R014SExsSDBkTkVNcjZNb0dNT2tzbU5ta0d3MkpsMG93LUNBMVJnSVNsV054RjF4LVdjRi03VlRRcldrc1BuR2hWWDNvblV5cGpFTzFwcVhaaVpxaXowWXZVLXFwNVMweUExUVBaRlBZNnVXeC1vclZpb0o2VmNxNVU2cDZnSUZxaWpKYVNNbkJHU3hSZlltYmpNSXJURnA3dnctdkpyTHhQZzdDSzlfOFdQamkyblo2SThBWHBESnVNZUk4eFNKWVlSUTNXS9IB-AFBVV95cUxNNU5QMWhncFpubk16ZHpJTDZXdXJmUVFpaEtlVzA4eHJ0X0xWVjNKTkE1R014SExsSDBkTkVNcjZNb0dNT2tzbU5ta0d3MkpsMG93LUNBMVJnSVNsV054RjF4LVdjRi03VlRRcldrc1BuR2hWWDNvblV5cGpFTzFwcVhaaVpxaXowWXZVLXFwNVMweUExUVBaRlBZNnVXeC1vclZpb0o2VmNxNVU2cDZnSUZxaWpKYVNNbkJHU3hSZlltYmpNSXJURnA3dnctdkpyTHhQZzdDSzlfOFdQamkyblo2SThBWHBESnVNZUk4eFNKWVlSUTNXSw?oc=5",
@@ -597,15 +597,6 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
-      "titulo": "Pete Hegseth respaldó a Abelardo de la Espriella tras polémica por supuesto rechazo a plan de cooperación con EE. UU. - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMG1hREwwemZFZGwwTkxkbkQyMGJTdzZjU2RIS2trQlVXY2VYNnNrZGZiYVlqaml2RU1Wd3lpZlVQRG9wQ092MFBiY3VpSVBac0pGSnFOby02dlRrNDFSRDkyRXZET1FxaS1CZy1KVXlST0xxRGVlLThPYVZxTl90bXZMNzhGRmNZQ2lWei1XVjk1NExlNy1pT3FyaV",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMG1hREwwemZFZGwwTkxkbkQyMGJTdzZjU2RIS2trQlVXY2VYNnNrZGZiYVlqaml2RU1Wd3lpZlVQRG9wQ092MFBiY3VpSVBac0pGSnFOby02dlRrNDFSRDkyRXZET1FxaS1CZy1KVXlST0xxRGVlLThPYVZxTl90bXZMNzhGRmNZQ2lWei1XVjk1NExlNy1pT3FyaVBPbHdDb05sMmhQNFctQXJ4R1hRaERZR2tEa0FSaXFYWWpSbC00N3FyRVdJcnVIbS1jaE1Kb2ltb2xNTXVRU0ExTm5VUm8tejJHdTJJRk1iNUJYem5uZ9IBjAJBVV95cUxNdXNSSG5xMDV2Sk92TFJqNkpmei1RQWJPVUQ2N2NYc0RpTjdkSkQ3d2o1UDVPWVBNZGFuZ0VQUE5xd2ZuMWtqck9tamtDYmI2dEE4QThjM3cyUFRQTEpIekY3N1ZscnJUb1VmN0FXUnBOYW1faUQ4cXo0Zjhvd0syaktadVVhSGFhSlNSSUZCQlk0MFlVZHpmZ1FyWXEyR0VrRklqTVR3SXh5Zm9jY0c1VWtTUEI2MVFOZUJ6WGtDU3BpUEptODMzby1BOVpuemtQUHh2akJOcWxGZ3A2d2ZjN0dBTTdSNjNiSmVSelRxQlQ1b3ZJZEhKalN5THFhdXRZSUliMEFhbU9BVUY4?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-19T04:29:00.000Z",
-      "imagen": "",
-      "tema": "De la Espriella noticias falsas"
-    },
-    {
       "titulo": "Abelardo de la Espriella desmiente al New York Times: \"No rechacé propuesta de Trump\" - Noticias Caracol",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGYyZjVVQnV3Tmw4c1NFMzZvTW5nYjBwb0Zjcm1pTW9OcWNudDc0V3dnLXRWMGhoSE1VQVNfSnRLanFCXzBQWGJ5alIxcWFFRm04bnJINFk4NVZYclhCRkFCeUhqbGFBRC1IZGY1R25neEZKMHZyU29ac1d1VUwzQVJFREdsV3Bhdi1xTUpyN1oyTHMxZUVQTjdmTm",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGYyZjVVQnV3Tmw4c1NFMzZvTW5nYjBwb0Zjcm1pTW9OcWNudDc0V3dnLXRWMGhoSE1VQVNfSnRLanFCXzBQWGJ5alIxcWFFRm04bnJINFk4NVZYclhCRkFCeUhqbGFBRC1IZGY1R25neEZKMHZyU29ac1d1VUwzQVJFREdsV3Bhdi1xTUpyN1oyTHMxZUVQTjdmTmItTFBZNm16ZDZlWTBsZXRrNHBDR2VvbUtFbVZzRFZaMGNlazlRZFM5SkNr0gHUAUFVX3lxTE9qS0xDSWVkMnE3SWJxOGZTTGNXdHBhX3R6NTlrQVJYS1JYeTFjV0M5czR3OXJYaDRhLXAwRlFjNGRhLVlURU1qc3NWR2oyZEsyZXNHMG14dHlMM2J3ZnJnazgybGRpNDRUdjZYakZpQ3BCakVETkpMUEh1UkVSVVVqdlBQZmF4SEdKR085TUVabHJTS2k1T3NQRFBYbWJsZ3dxYkdWZ01GX19EZU5CZGd6ZHgzZkpNeVl3UmM3Ry12OUM1cEhKdUJoaWhDWUtDRWxZaW5k?oc=5",
@@ -669,15 +660,6 @@
       "tema": "De la Espriella noticias falsas"
     },
     {
-      "titulo": "¡Morena no se pone de acuerdo! La presidencia del INE divide al partido - TV Azteca",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpjWHNyMVExRHlhTHN0YUpza054NzhFdEhXRWloaWZlUVdmY2U4eF9MSkNySGdHQXBIWFh6MzFLcmpYekRmUTJsM3UtekJ2c0dYbXNfcHQwMHdtUUdYVUpGcC00WTNERmRSQmFiUXZ5LTdrQloxLWRWU0g1Nk5ISGIyc0lPbVY1SzNXV2lfX0ZXLUpmYXhxckNUXz",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpjWHNyMVExRHlhTHN0YUpza054NzhFdEhXRWloaWZlUVdmY2U4eF9MSkNySGdHQXBIWFh6MzFLcmpYekRmUTJsM3UtekJ2c0dYbXNfcHQwMHdtUUdYVUpGcC00WTNERmRSQmFiUXZ5LTdrQloxLWRWU0g1Nk5ISGIyc0lPbVY1SzNXV2lfX0ZXLUpmYXhxckNUXzk4cVdlMVJndU9DS2ZSNWw4Q01ObkROYVI3UlRSeEJLRA?oc=5",
-      "medio": "TV Azteca",
-      "fecha": "2026-11-18T22:18:30.000Z",
-      "imagen": "",
-      "tema": "Presidencia rechaza calumnia"
-    },
-    {
       "titulo": "Pete Hegseth respald&#243; a Abelardo de la Espriella tras pol&#233;mica por supuesto rechazo a plan de cooperaci&#243;n con EE. UU.",
       "resumen": "El secretario estadounidense asegur&#243; que la alianza entre ambos pa&#237;ses para combatir el narcoterrorismo se mantiene m&#225;s fuerte que nunca y reiter&#243; el respaldo del Departamento de Guerra estadounidense ...",
       "link": "https://www.infobae.com/colombia/2026/11/19/pete-hegseth-respaldo-a-abelardo-de-la-espriella-tras-polemica-por-supuesto-rechazo-a-plan-de-cooperacion-con-ee-uu/",
@@ -721,6 +703,24 @@
       "fecha": "2026-11-18T16:01:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.QDVe3STadnyUVvOWrwUUMQ&pid=News",
       "tema": "De la Espriella noticias falsas"
+    },
+    {
+      "titulo": "Lincolao desmiente citación de Alvarado a La Moneda y responde a críticas del vocero de Gobierno - El Diario Santiago",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcENnRHU1NVZ2VGhzVC0yTzJ5YW5XQVY0bUlqSUpTaVRTZ2NYaHh5WFVVcUpra3FaU0dzWV9aTFlRZzFGZkxjMDNxQ2FJY2pIMEVXV08zZEFYczdxUjctR1A1Y3QyMmNEdG1kSUFPdktYSHZRakNkMEprQkVCNHF1WndIcmZpdmphaGMw?oc=5\" target=\"_blank\"",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcENnRHU1NVZ2VGhzVC0yTzJ5YW5XQVY0bUlqSUpTaVRTZ2NYaHh5WFVVcUpra3FaU0dzWV9aTFlRZzFGZkxjMDNxQ2FJY2pIMEVXV08zZEFYczdxUjctR1A1Y3QyMmNEdG1kSUFPdktYSHZRakNkMEprQkVCNHF1WndIcmZpdmphaGMw?oc=5",
+      "medio": "El Diario Santiago",
+      "fecha": "2026-11-18T13:36:31.000Z",
+      "imagen": "",
+      "tema": "Vocería Presidencia desmiente"
+    },
+    {
+      "titulo": "¡Morena no se pone de acuerdo! La presidencia del INE divide al partido - TV Azteca",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpjWHNyMVExRHlhTHN0YUpza054NzhFdEhXRWloaWZlUVdmY2U4eF9MSkNySGdHQXBIWFh6MzFLcmpYekRmUTJsM3UtekJ2c0dYbXNfcHQwMHdtUUdYVUpGcC00WTNERmRSQmFiUXZ5LTdrQloxLWRWU0g1Nk5ISGIyc0lPbVY1SzNXV2lfX0ZXLUpmYXhxckNUXz",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpjWHNyMVExRHlhTHN0YUpza054NzhFdEhXRWloaWZlUVdmY2U4eF9MSkNySGdHQXBIWFh6MzFLcmpYekRmUTJsM3UtekJ2c0dYbXNfcHQwMHdtUUdYVUpGcC00WTNERmRSQmFiUXZ5LTdrQloxLWRWU0g1Nk5ISGIyc0lPbVY1SzNXV2lfX0ZXLUpmYXhxckNUXzk4cVdlMVJndU9DS2ZSNWw4Q01ObkROYVI3UlRSeEJLRA?oc=5",
+      "medio": "TV Azteca",
+      "fecha": "2026-11-18T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Presidencia rechaza calumnia"
     }
   ]
 }
